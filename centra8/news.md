@@ -9,7 +9,7 @@ hide: true
 
 ## Important Dates
 
-- 2025.01.04: CENTRA 8 registration open
+<!--- 2025.01.04 --> To Be Announced: CENTRA 8 registration open
 <!-- 
 - ~~2024.01.20: CENTRA 7 regular registration closes (dietary and name badge information accepted)~~ 
 - **2024.01.22: CENTRA 7 registration EXTENDED DEADLINE**
