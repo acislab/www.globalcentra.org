@@ -2,31 +2,33 @@
 layout: centrameeting8
 title: CENTRA 2025
 permalink: /centra8/organizers_sponsors.html
-"feature-img": img/centra8/centra8-banner.png
+"feature-img": img/centra8/centra8-banner.jpg
 published: true
 hide: true
 ---
 
 ## Program Co-Chairs
-- Jason Haga, Digital Architecture Research Center, AIST, Japan
-- Ryousei Takano, Digital Architecture Research Center, AIST, Japan
+- Chau-Lyan Chang, National Center for High-performance Computing, NARLabs, Taiwan
+- Steven Shiau, National Center for High-performance Computing, NARLabs, Taiwan
 
 ## Program Committee
 - Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), Taiwan
 - Jose Fortes, University of Florida, US
-- Hidehisa Nagano, National Institute of Information and Communications Technology (NICT), Japan
+- Renato Figueiredo, University of Florida, US
+- Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- Jeonghoon Moon, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
 - Rui Oliveria, INESCTEC, Portugal
 - Beth Plale, Indiana University, US
 - Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
-- Shinji Shimojo, Aomori University, Japan
+- Yusuke Tanimura, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- Huiping Tsai, National Chung Hsing University (NCHU), Taiwan
 - Sachith Withana, Indiana University, US
-- Masahiro Horibe, G-QuAT, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 
 ## Organizing Committees
 ### Local Organizing Committee
--	Hitoshi Sato, National Institute of Advanced Industrial Science and Technology (AIST), Japan
--	Yaeko Takeuchi, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- Hide Yokoi, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+-	Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
+-	SuFeng Chen, National Center for High-performance Computing (NCHC), Taiwan
+- Ching Lee, National Center for High-performance Computing (NCHC), Taiwan
  
 ### Operations Committee
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
