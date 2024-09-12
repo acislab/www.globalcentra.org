@@ -1,17 +1,17 @@
 ---
-layout: centrameeting7
-title: CENTRA 2024
-permalink: /centra7/code_of_conduct.html
-"feature-img": img/centra7/centra7-banner.png
+layout: centrameeting8
+title: CENTRA 2025
+permalink: /centra8/code_of_conduct.html
+"feature-img": img/centra8/centra8-banner.jpg
 published: true
 hide: true
 ---
 
 ## Code of Conduct
 
-The CENTRA 7 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.  
+The CENTRA 8 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.  
 
-The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 7.  
+The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 8.  
 
 We expect everyone to respect the following list of behaviors.  
 
@@ -39,7 +39,7 @@ We expect everyone to respect the following list of behaviors.
 
 
 **Reporting Incidents**  
-Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at any time should immediately notify any of the CENTRA 7 organizers in person.  
+Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at any time should immediately notify any of the CENTRA 8 organizers in person.  
 
 If you are not in immediate danger but feel that you are the subject of unacceptable behavior, have witnessed any such behavior, or have other concerns, report the incident to one of the conference organizers (as soon as possible) who will work to resolve the situation.   
 
