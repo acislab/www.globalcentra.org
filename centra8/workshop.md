@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## Topic To Be Announced
+## Details To Be Announced
 
 <!--[A draft schedule for the workshop is available via SCHED](https://centra6.sched.com/)-->
 
