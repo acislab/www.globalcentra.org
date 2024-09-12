@@ -10,13 +10,14 @@ hide: true
 ### Venue
 [**NCHC Headquater**](https://www.nchc.org.tw/Home/ChangeLang?lang=2)  
 Both the Pre-meeting Workshop and CENTRA 8 Meeting will be held at NCHC Headquater located in Hsinchu, Taiwan.  
-([Map](https://maps.app.goo.gl/2ASvf9KnxrQYYcPv6)
+([Map](https://maps.app.goo.gl/2ASvf9KnxrQYYcPv6))
 
 Address: No.7, R&D Road 6, East District, Hsinchu, Taiwan 
 Phone: +886-3-5776085
 
 ### Access to Venue  
- 
+
+<!-- 
 #### By Train
 Shinbashi Station provides the most convenient access to AIST Tokyo Waterfront and Miraikan. Take the Yurikamome line from Shimbashi (U01) and get off at Telecom Center station (U09). It is a 3-minute walk to AIST and a 4-minute walk to Miraikan from the station.
 
@@ -24,7 +25,7 @@ An alternate route is to take the Rinkai Line and get off at Tokyo Teleport stat
   
 <img src="/img/centra7/waterfront_train_map.jpg" alt="CENTRA7 train access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
 <img src="/img/centra7/waterfront_area_map.png" alt="CENTRA7 area access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
-
+-->
 
 ### List of Nearby Hotels  
 The CENTRA 8 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the HsinChu area for a wide range of budgets. We are providing the following list of hotels for informational purposes only. The CENTRA 8 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
