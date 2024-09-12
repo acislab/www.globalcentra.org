@@ -24,12 +24,12 @@ hide: true
 - Paper submissions deadline: January 12, 2024
 - Notification of acceptance: January 15, 2024
 - Camera-ready deadline: February 9, 2024
+
+For more information, contact the event organisers at [...](mailto:).
 -->
 
-For more information, contact the event organisers at [](mailto:).
-
 ## Registration
-All workshop participants must be registered for CENTRA 7. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, contact centra7@3stars-tyo.co.jp.
+All workshop participants must be registered for CENTRA 8. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, contact meeting secretariat at ... .
 
 We look forward to an engaging session exploring the worldwide views of AI within the Edge-Cloud-HPC Continuum!
 
