@@ -1,0 +1,125 @@
+<style type="text/css">
+
+h1,h2,h3,h4{
+	color: #DD6861;
+}
+.centra_meeting_menu {
+	float:left;
+	list-style-type: none;
+	margin: 15px 25px 10px 0;
+	padding: 0px;
+	background-color: #ffc961;
+}
+
+.panel {
+	border: 0px black solid !important;
+	border-radius: 0px !important;
+}
+
+.panel-group {
+	border-radius: 0px !important;
+}
+
+.panel-default {
+	border: 0px black solid !important;
+	border-radius: 0px !important;
+}
+
+.centra_meeting_menu .panel-heading {
+	background-color: #DD6861;
+	border: 0px black solid !important;
+	border-radius: 0px !important;
+}
+
+.centra_meeting_menu .panel-heading a {
+	display: block;
+	color: #000;
+	font-size: 1.1em;
+	font-weight: bold;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+.centra_meeting_menu .panel-heading a.selected {
+	display: block;
+	color: #FFF;
+	font-size: 1.1em;
+	padding: 8px 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.centra_meeting_menu .panel-body {
+	background-color: #DD6861;
+	border: 0px black solid !important;
+	border-radius: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+ul.centra_meeting_menu_sub {
+	list-style-type: none;
+}
+
+li.centra_meeting_menu_sub > a {
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li.centra_meeting_menu_sub_selected > a {
+	display: block;
+	color: #fff;
+	padding: 8px 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* Change the link color on hover */
+li.centra_meeting_menu_sub > a:hover {
+	background-color: #555;
+	color: white;
+}
+
+section.post-content {
+	min-height: 800px;
+}
+
+</style>
+
+{% assign topmenuitem = 'centra_meeting_menu_top' %}
+{% assign submenuitem = 'centra_meeting_menu_sub' %}
+
+
+<div class="panel-group centra_meeting_menu" id="accordion" role="tablist" aria-multiselectable="false" style="border-radius: 4px;">
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="centraHeading">
+			<h4 class="panel-title">
+				<a role="button" {% if page.url contains 'centra7' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
+					CENTRA 2024<br>
+					<p style="color:white;font-size:70%;">Click to collapse/expand</p>
+				</a>
+			</h4>
+		</div>
+		<div id="centra" {% if page.url contains 'centra7' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="centraHeading">
+			<div class="panel-body">
+				<ul class="centra_meeting_menu_sub">
+					<li {% if page.url == '/centra7/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/">Welcome Message</a></li>
+					<li {% if page.url contains '/centra7/news.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/news.html">Key Dates</a></li>
+
+					<!--li {% if page.url contains '/centra7/virtualevents.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/virtualevents.html">2020-21 Virtual Events</a></li-->
+
+					<li {% if page.url contains '/centra7/registration.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/registration.html">Registration</a></li>
+					<li {% if page.url contains '/centra7/program.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/program.html">CENTRA 7 Meeting Program</a></li>
+					<li {% if page.url contains '/centra7/workshop.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/workshop.html">Abstract Submission</a></li>
+					<li {% if page.url contains '/centra7/venue.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/venue.html">Venue & Lodging</a></li>
+					<li {% if page.url contains '/centra7/travel.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/travel.html">Travel Information</a></li>
+					<li {% if page.url contains '/centra7/visainfo.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/visainfo.html">Visa Information</a></li>
+					<li {% if page.url contains '/centra7/organizers_sponsors.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/organizers_sponsors.html">Organizers, Sponsors & Contact</a></li>
+					<li {% if page.url contains '/centra7/code_of_conduct.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra7/code_of_conduct.html">Code of Conduct</a></li>
+				</ul>
+			</div>
+		</div>
+    </div>
+ </div>
