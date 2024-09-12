@@ -10,6 +10,7 @@ hide: true
 ## Important Dates
 
 <!--- 2025.01.04 -->CENTRA 8 registration: To Be Announced
+<p>
 <!--## announce later 
 - ~~2024.01.20: CENTRA 7 regular registration closes (dietary and name badge information accepted)~~ 
 - **2024.01.22: CENTRA 7 registration EXTENDED DEADLINE**
@@ -17,6 +18,7 @@ hide: true
 - 2024.01.15: Notification of paper acceptance
 - 2024.02.09: Camera-ready deadline
 -->
+</p>
 <br /><br />
 Please check [Visa Information](https://www.globalcentra.org/centra8/visainfo.html) and follow up accordingly if you need to obtain a visa to enter Taiwan.
 
