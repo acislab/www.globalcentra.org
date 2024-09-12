@@ -8,11 +8,11 @@ hide: true
 ---
 
 ## Program Co-Chairs
-- Chau-Lyan Chang, National Center for High-performance Computing, NARLabs, Taiwan
-- Steven Shiau, National Center for High-performance Computing, NARLabs, Taiwan
+- Chau-Lyan Chang, National Center for High-performance Computing (NCHC), NARLabs, Taiwan
+- Steven Shiau, National Center for High-performance Computing (NCHC), NARLabs, Taiwan
 
 ## Program Committee
-- Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), Taiwan
+- Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), NARLabs,Taiwan
 - Jose Fortes, University of Florida, US
 - Renato Figueiredo, University of Florida, US
 - Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
@@ -26,9 +26,9 @@ hide: true
 
 ## Organizing Committees
 ### Local Organizing Committee
--	Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
--	SuFeng Chen, National Center for High-performance Computing (NCHC), Taiwan
-- Ching Lee, National Center for High-performance Computing (NCHC), Taiwan
+-	Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
+-	SuFeng Chen, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
+- Ching Lee, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
  
 ### Operations Committee
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
