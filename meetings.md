@@ -11,7 +11,7 @@ published: true
  <table class="noBorder">
  <!-- item 11  --> 
  <tr class="noBorder">
-   <th class="noBorder"><img src="/img/centra8/centra8-banner.png"></th>
+   <th class="noBorder"><img src="/img/centra8/centra8-banner.jpg"></th>
    <th class="noBorder">CENTRA 8 Meeting, February 22-25, 2025, Hsinchu, Taiwan <br> <a href="/centra8/">Website</a> </th>
  </tr>
 
