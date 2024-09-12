@@ -1,8 +1,8 @@
 ---
-layout: centrameeting7
-title: CENTRA 2024
-permalink: /centra7/organizers_sponsors.html
-"feature-img": img/centra7/centra7-banner.png
+layout: centrameeting8
+title: CENTRA 2025
+permalink: /centra8/organizers_sponsors.html
+"feature-img": img/centra8/centra8-banner.png
 published: true
 hide: true
 ---
