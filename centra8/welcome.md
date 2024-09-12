@@ -1,5 +1,5 @@
 ---
-layout: centrameeting7
+layout: centrameeting8
 title: CENTRA 2025
 permalink: /centra8/
 "feature-img": img/centra8/centra8-banner.jpg
