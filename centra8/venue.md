@@ -1,25 +1,19 @@
 ---
-layout: centrameeting7
-title: CENTRA 2024
-permalink: /centra7/venue.html
-"feature-img": img/centra7/centra7-banner.png
+layout: centrameeting8
+title: CENTRA 2025
+permalink: /centra8/venue.html
+"feature-img": img/centra8/centra8-banner.jpg
 published: true
 hide: true
 ---
 
 ### Venue
-[**AIST Tokyo Waterfront**](https://www.aist.go.jp/waterfront/index_en.html)  
-The pre-CENTRA 7 Meeting Symposium will be held at AIST Tokyo Waterfront Annex located in Odaiba, Tokyo.  
-([Map](https://www.google.com/maps/place/AIST+Tokyo+Waterfront+Annex/@35.6183733,139.7773874,19z/data=!3m1!4b1!4m6!3m5!1s0x60188930dbbb8da5:0x3de698ec244385c8!8m2!3d35.6183733!4d139.7780325!16s%2Fg%2F11fd4q5d4q?authuser=0&entry=ttu))
+[**NCHC Headquater**](https://www.nchc.org.tw/Home/ChangeLang?lang=2)  
+Both the Pre-meeting Workshop and CENTRA 8 Meeting will be held at NCHC Headquater located in Hsinchu, Taiwan.  
+([Map](https://maps.app.goo.gl/2ASvf9KnxrQYYcPv6)
 
-Address: 2-4-7 Aomi, Koto-ku, Tokyo, Japan  
-Phone: +81-3-3599-8001
-
-[**Miraikan - The National Museum of Emerging Science and Innovation**](https://www.miraikan.jst.go.jp/en/)  
-CENTRA 7 Meeting will be held at Miraikan located in Odaiba, Tokyo and adjacent to AIST Waterfront Tokyo offices.  
-([Map](https://www.google.com/maps/place/The+National+Museum+of+Emerging+Science+and+Innovation/@35.6187864,139.7746668,17z/data=!3m1!5s0x601889fe8b178f81:0xf235a0f8ea536912!4m6!3m5!1s0x601889fef478fdcf:0xf6b165739f8c89a0!8m2!3d35.6193359!4d139.7763995!16s%2Fm%2F02plzvg?authuser=0&entry=ttu))
-
-Address: 2-3-6 Aomi, Koto-ku, Tokyo, Japan  
+Address: No.7, R&D Road 6, East District, Hsinchu, Taiwan 
+Phone: +886-3-5776085
 
 ### Access to Venue  
  
@@ -33,16 +27,13 @@ An alternate route is to take the Rinkai Line and get off at Tokyo Teleport stat
 
 
 ### List of Nearby Hotels  
-The CENTRA 7 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the Tokyo area for a wide range of budgets. We are providing the following list of hotels for informational purposes only. The CENTRA 7 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
+The CENTRA 8 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the HsinChu area for a wide range of budgets. We are providing the following list of hotels for informational purposes only. The CENTRA 8 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
 
-* [Grand Nikko Hotel](https://www.tokyo.grandnikko.com/) (12-minute walk to venue)
-* [Hilton Tokyo Odaiba](http://www.hilton.com) (15-minute walk to the venue)  
-* [Sotetsu Grand Fresa Tokyo-Bay Ariake](https://sotetsu-hotels.com/en/grand-fresa/ariake/) (17-minute train ride to the venue)  
-* [Tokyo Bay Ariake Washington Hotel](https://tokyobay.washington-hotels.jp/)(17-minute train ride to the venue)  
-* [Daiwa Roynet Hotel Tokyo Ariake](https://www.daiwaroynet.jp/en/ariake/) (18-minute train ride to the venue)
-* [remm plus Ginza](https://www.hankyu-hotel.com/en/hotel/remm/ginza) (20-minute train ride to the venue)  
-* [Hotel Villa Fontaine Shiodome](https://www.hvf.jp/eng/shiodome/) (18-minute train ride to the venue)  
-* [Park Hotel Tokyo](https://parkhoteltokyo.com/) (18-minute train ride to the venue)  
+* [Ho Hotel](https://www.thehohotel.com.tw/index.php?lang=en) (15-minute walk to venue)
+* [Hotel Royal Hsinchu](https://www.hotelroyal.com.tw/en-us/hsinchu) (free shuttle to the venue)  
+* [Sheraton Hsinchu Hotel](https://www.sheraton-hsinchu.com/en/) (15-60-minute taxi ride to the venue, not recommended)  
+* [SOL Hotel](https://www.solhotel.com.tw/en/)(25-minute taxi ride to the venue)  
+
 
 <!---
 ## Venue & Lodging
