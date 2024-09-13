@@ -10,8 +10,8 @@ hide: true
 ## Important Dates
 
 <!--- 2025.01.04 -->
-CENTRA 8 will be held on Feburary 22-25, right after [HPC Asia 2025](https://event1.nchc.org.tw/hpcasia2025/) <br/>
-CENTRA 8 registration: *To Be Announced*
+CENTRA 8 will be held on ***Feburary 22-25***, right after [HPC Asia 2025](https://event1.nchc.org.tw/hpcasia2025/) <br/>
+CENTRA 8 registration: ***To Be Announced***
 
 <!--## announce later
   
