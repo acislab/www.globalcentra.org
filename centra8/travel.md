@@ -26,52 +26,30 @@ The major international airport is [**Taoyuan International Airport (TPE)**](htt
 
 #### Ground Transportation from Taoyuan Airport to HsinChu
 Taoyuan Airport is located about 60 kilometers north from Hsinchu. There are many options to reach Hsinchu from the airport:  
-[*Ri Hao Bus*](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1622602799261&lan=E)  
+*Ri Hao Bus*  
 Ri Hao Bus has direct access from Taoyuan Airport to Hsinchu, the nearest stop to the venu is NYCU stop (陽明交大光復路).
+Check [*the bus route and time table*](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1622602799261&lan=E)
 
 [*HSR*](https://en.thsrc.com.tw/)  
 Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. From the airport, take metro to HSR Taoyuan station, then ride a south bounde train to HSR HsinChu Station. From HSR HsinChu station, get a taxi/uber to the venu. The time required to the venu is varied, can be from 15 minutes to 60+ minutes, depends on the time you arrive at HSR Hsinchu station. 
 
 *TAXI*:   
 Taxi service is available, the fare is somehow acceptable, the average fare for trips to Hsinchu is NT1700 (US52).  
-
-<!---
-<img src="/img/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
---->
-
-#### Ground Transportation from Haneda Airport to Tokyo Station
-Haneda Airport is about 20 kilometers from central Tokyo. There are several transportation options to reach Tokyo Station from the airport:  
-
-[*Tokyo Monorail*](http://www.tokyo-monorail.co.jp/english/)  
-Tokyo Monorail connects Haneda Airport to Hamamatsucho Station in 15 to 20 minutes. To get to Tokyo Station, please make a transfer at Hamamatsucho Station to the JR Yamanote Line bound for Ueno and get off at Tokyo Station.  
-
-[*Keikyu Line*](http://www.haneda-tokyo-access.com/en/)  
-Keikyu Line directly connects Haneda Airport to central Tokyo. To get to Tokyo Station, please make a transfer at Shimbashi Station to the JR Yamanote Line bound for Ueno and get off at Tokyo Station.  
-
-[*Airport Limousine Bus*](https://www.limousinebus.co.jp/en/)  
-Haneda Airport Limousine Bus offers direct service to major hotels in central Tokyo and Tokyo Station (Yaesu North Exit).  
-
-*TAXI*:  
-Taxi service is available with fares for trips to central Tokyo ranging from 7,000 to 13,000 yen).  
-
-<!---
-<img src="/img/Haneda Airport to venue.png" alt="Haneda Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
---->
-
    
-### Useful Information on Travelling in Japan
+### Useful Information on Travelling in Hsinchu
 
-Japan offers a myriad of wonderful and appealing attractions: great cultural diversity, colorful and inspiring natural wonders well interwoven by four distinctive seasonal changes, and the boundless hospitality of its people.  
+Known as Taiwan’s "Silicon Valley," Hsinchu is a vibrant city renowned for its technological innovation and rich cultural heritage. Here’s some essential travel information to help you navigate your stay: 
+
 
 #### Weather in February
 
 Average temperatures range from 10 degrees C to 2 degrees C.  
 
-#### Electricity in Tokyo
+#### Electricity in Taiwan
 
-2-flat-pin plugs (plug type A) are used in Japan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Japan is uniformly 100 volts AC. The frequency of electric current is 50 Hz in Eastern Japan.  
+2-flat-pin plugs (plug type A) are used in Japan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Japan is uniformly 110 volts AC. The frequency of electric current is 60 Hz.  
 
-![](/img/centra3-transport1.png)  |  ![](/img/centra3-transport2.png)
+![](/img/centra8/powerplug.png)
 
 #### Useful Links 
 
