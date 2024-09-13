@@ -39,7 +39,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 10:30-12:00 | Collaboration Discussion III | 
 | 12:00-13:30 | Lunch |
 | 13:30-15:30 | Collaboration Discussion IV| 
-| 17:30 ~ | reception |
+| 17:30 ~ | Reception |
 
 |February 24, Monday | Location: NCHC Headquater |
 | ---- | ---- |
@@ -47,7 +47,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 08:30-12:00 | CENTRA Meeting I | 
 | 12:00-13:30 | Lunch |
 | 13:30-17:30 | CENTRA Meeting II |
-| 17:30~ | dinner |
+| 17:30~ | Dinner |
 
 |February 25, Tuesday | Location: NCHC Headquater |
 | ---- | ---- |
