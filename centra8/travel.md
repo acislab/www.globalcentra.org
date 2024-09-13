@@ -37,9 +37,9 @@ Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. Fr
 Taxi service is available, the fare is somehow acceptable, the average fare for trips to Hsinchu is NT1700 (US52).  
    
 ### Useful Information on Travelling in Hsinchu
-
 Known as Taiwan’s "Silicon Valley," Hsinchu is a vibrant city renowned for its technological innovation and rich cultural heritage. Here’s some essential travel information to help you navigate your stay: 
-
+<li>Transportation: Hsinchu is well-connected by public transportation. You can use the local bus services and taxis for convenient travel within the city. The Hsinchu Train Station and Hsinchu High-Speed Rail (HSR) Station provide access to other major cities in Taiwan.</li>
+<li>Public Transit: Consider getting an EasyCard, which can be used on buses, trains, and even in some convenience stores.</li>
 
 #### Weather in February
 
@@ -47,16 +47,16 @@ The weather in February is pleasant with average temperatures range from 13 degr
 
 #### Electricity in Taiwan
 
-2-flat-pin plugs (plug type A/B) are used in Taiwan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Taiwan is uniformly 110 volts AC. The frequency of electric current is 60 Hz.  
+Plugs type A and type B are used in Taiwan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Taiwan is uniformly 110 volts AC. The frequency of electric current is 60 Hz.  
 
 <img src="/img/centra8/powerplug.png" width="300" height="113">
 
 #### Useful Links 
 
-* Useful information about Tokyo: [Tokyo Convention and Visitors Bureau](http://www.gotokyo.org/en/index.html)  
-* Transportation in Tokyo:[Tokyo Convention and Visitors Bureau](http://www.gotokyo.org/en/tourists/info/access/index.html)  
-* Japanese Train Route Finder: [Jorudan Route Search](https://world.jorudan.co.jp/mln/en/?sub_lang=nosub)  
-* For essential information on travelling in Japan: [Japan National Tourism Organization](https://world.jorudan.co.jp/mln/en/?sub_lang=nosub)  
+* Useful information about Hsinchu: [Hsinchu City Travel](https://tourism.hccg.gov.tw/entravel/app/artwebsite?module=artwebsite&id=15&serno=null)  
+* Transportation in Hsinchu:[](http://www.gotokyo.org/en/tourists/info/access/index.html)  
+* High Speed Rail route and time table: [Taiwan High Speed Rail](https://en.thsrc.com.tw/)  
+* For essential information on travelling in Taiwan: [Taiwan Tourism Administration](https://eng.taiwan.net.tw/)  
 
 
 
