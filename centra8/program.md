@@ -49,10 +49,10 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 13:30-17:30 | CENTRA Meeting II |
 | 17:30~ | dinner |
 
-|February 25, Tueday | Location: NCHC Headquater |
+|February 25, Tuesday | Location: NCHC Headquater |
 | ---- | ---- |
 | 08:30-12:00 | CENTRA Meeting III | 
 | 12:00-13:30 | Lunch // Steering Committee Meeting |
 | 13:30-15:30 | CENTRA Meeting IV |
-| 15:30-16:00 | Closing Remarks and Announcements for Future CENTRA Events |
+| 15:30-16:00 | Closing Remarks <br> Announcements for Future CENTRA Events |
 
