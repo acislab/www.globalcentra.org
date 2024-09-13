@@ -1,8 +1,8 @@
 ---
-layout: centrameeting7
-title: CENTRA 2024
-permalink: /centra7/travel.html
-"feature-img": img/centra7/centra7-banner.png
+layout: centrameeting8
+title: CENTRA 2025
+permalink: /centra8/travel.html
+"feature-img": img/centra8/centra8-banner.jpg
 published: true
 hide: true
 ---
@@ -12,9 +12,9 @@ hide: true
 
 Before booking travel, visitors should always confirm with airline companies and border services the procedures and restrictions in place in the country of origin and destination for required travel documents and COVID19 restrictions.  
 
-<!--Here are resources available to international travelers:<br />
-[Visit USA Gov information for tourism/business](https://www.usa.gov/visit-united-states)<br />
-[Visit Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/diseases/covid19)-->
+Here are resources available to international travelers:<br />
+[Visit Taiwan Gov information for tourism/business](https://www.boca.gov.tw/np-146-2.html)<br />
+[Visit Centers for Disease Control and Prevention](https://www.cdc.gov.tw/En)
 
 ### COVID-19 Protocol
 
@@ -22,22 +22,18 @@ While we hope that everyone arrives healthy and without incident, we know many h
 
 ### Air Travel
 
-Tokyo has two major international airports: [**Narita International Airport (NRT)**](https://www.narita-airport.jp/en/) and [**Haneda Airport (HND)**](http://www.haneda-airport.com/). Whether you arrive at either Tokyo airport will depend on which airline you use. Both airports have convenient access to central Tokyo.
+The major international airport is [**Taoyuan International Airport (TPE)**](https://www.taoyuan-airport.com/?lang=en) It’s approximately a 40-minute drive to Hsinchu. and [**Haneda Airport (HND)**](http://www.haneda-airport.com/). Whether you arrive at either Tokyo airport will depend on which airline you use. Both airports have convenient access to central Tokyo.
 
-#### Ground Transportation from Narita Airport to Tokyo Station
-Narita Airport is located about 60 kilometers east from central Tokyo. There are many options to reach Tokyo from the airport:  
+#### Ground Transportation from Taoyuan Airport to HsinChu
+Taoyuan Airport is located about 60 kilometers north from Hsinchu. There are many options to reach Hsinchu from the airport:  
+[*Ri Hao Bus*](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1622602799261&lan=E)  
+Ri Hao Bus has direct access from Taoyuan Airport to Hsinchu, the nearest stop to the venu is NYCU stop (陽明交大光復路).
 
-[*JR Narita Express*](http://www.jreast.co.jp/e/nex/index.html?src=t_info)  
-JR East’s Narita Express(NEX) has direct access from Narita Airport to Tokyo Station and other major urban stations.
-
-[*Keisei Line*](http://www.keisei.co.jp/keisei/tetudou/skyliner/us/index.php)  
-Keisei Line offers several options connecting Narita Airport to central Tokyo.
-
-[*Airport Limousine Bus*](https://www.limousinebus.co.jp/en/)  
-Airport Limousine Bus offers direct service to Tokyo Station (Marunouchi Exit) and major hotels in central Tokyo.
+[*HSR*](https://en.thsrc.com.tw/)  
+Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. From the airport, take metro to HSR Taoyuan station, then ride a south bounde train to HSR HsinChu Station. From HSR HsinChu station, get a taxi/uber to the venu. The time required to the venu is varied, can be from 15 minutes to 60+ minutes, depends on the time you arrive at HSR Hsinchu station. 
 
 *TAXI*:   
-Taxi service is available, however it is not recommended because of the great distance from the airport to the city (taxi fares for trips to central Tokyo range from 20,000 yen or more).  
+Taxi service is available, the fare is somehow acceptable, the average fare for trips to Hsinchu is NT1700 (US52).  
 
 <!---
 <img src="/img/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
