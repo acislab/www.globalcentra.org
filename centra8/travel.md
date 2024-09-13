@@ -43,11 +43,11 @@ Known as Taiwan’s "Silicon Valley," Hsinchu is a vibrant city renowned for its
 
 #### Weather in February
 
-Average temperatures range from 10 degrees C to 2 degrees C.  
+The weather in February is pleasant with average temperatures range from 13 degrees C to 20 degrees C.  
 
 #### Electricity in Taiwan
 
-2-flat-pin plugs (plug type A) are used in Japan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Japan is uniformly 110 volts AC. The frequency of electric current is 60 Hz.  
+2-flat-pin plugs (plug type A/B) are used in Taiwan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Taiwan is uniformly 110 volts AC. The frequency of electric current is 60 Hz.  
 
 ![](/img/centra8/powerplug.png)
 
