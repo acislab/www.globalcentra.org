@@ -38,8 +38,11 @@ Taxi service is available, the fare is somehow acceptable, the average fare for 
    
 ### Useful Information on Travelling in Hsinchu
 Known as Taiwan’s "Silicon Valley," Hsinchu is a vibrant city renowned for its technological innovation and rich cultural heritage. Here’s some essential travel information to help you navigate your stay: 
+**Getting Around**
 <li>Transportation: Hsinchu is well-connected by public transportation. You can use the local bus services and taxis for convenient travel within the city. The Hsinchu Train Station and Hsinchu High-Speed Rail (HSR) Station provide access to other major cities in Taiwan.</li>
 <li>Public Transit: Consider getting an EasyCard, which can be used on buses, trains, and even in some convenience stores.</li>
+**Dining**
+Hsinchu is famous for its delicious local cuisine. Don’t miss out on trying Hsinchu’s pork balls, rice noodles, and the unique peanut ice cream roll. The city has numerous restaurants and street food stalls offering a variety of Taiwanese and international dishes.
 
 #### Weather in February
 
