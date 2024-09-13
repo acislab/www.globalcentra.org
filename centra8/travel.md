@@ -22,7 +22,7 @@ While we hope that everyone arrives healthy and without incident, we know many h
 
 ### Air Travel
 
-The major international airport is [**Taoyuan International Airport (TPE)**](https://www.taoyuan-airport.com/?lang=en) It’s approximately a 40-minute drive to Hsinchu. and [**Haneda Airport (HND)**](http://www.haneda-airport.com/). Whether you arrive at either Tokyo airport will depend on which airline you use. Both airports have convenient access to central Tokyo.
+The major international airport is [**Taoyuan International Airport (TPE)**](https://www.taoyuan-airport.com/?lang=en) It’s approximately a 40-minute drive to Hsinchu.
 
 #### Ground Transportation from Taoyuan Airport to HsinChu
 Taoyuan Airport is located about 60 kilometers north from Hsinchu. There are many options to reach Hsinchu from the airport:  
