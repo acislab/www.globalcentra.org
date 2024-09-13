@@ -29,6 +29,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 <br>
 
 | February 22, Saturday | Location: NCHC Headquater |
+| ---- | ---- |
 | 10:30-12:00 | Collaboration Discussion I | 
 | 12:00-13:30 | Lunch |
 | 13:30-15:30 | Collaboration Discussion II |
