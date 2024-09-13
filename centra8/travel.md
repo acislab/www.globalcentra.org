@@ -26,11 +26,11 @@ The major international airport is [**Taoyuan International Airport (TPE)**](htt
 
 #### Ground Transportation from Taoyuan Airport to HsinChu
 Taoyuan Airport is located about 60 kilometers north from Hsinchu. There are many options to reach Hsinchu from the airport:  
-*Ri Hao Bus*  
+*Ri Hao Bus*:  
 Ri Hao Bus has direct access from Taoyuan Airport to Hsinchu, the nearest stop to the venu is NYCU stop (陽明交大光復路).
 Check [*the bus route and time table*](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1622602799261&lan=E)
 
-*HSR*
+*HSR*:<br/>
 Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. From the airport, take metro to HSR Taoyuan station, then ride a south bounde train to HSR HsinChu Station. From HSR HsinChu station, get a taxi/uber to the venu. The time required to the venu is varied, can be from 15 minutes to 60+ minutes, depends on the time you arrive at HSR Hsinchu station. [HSR route and time table](https://en.thsrc.com.tw/) 
 
 *TAXI*:   
@@ -38,8 +38,8 @@ Taxi service is available, the fare is somehow acceptable, the average fare for 
    
 ### Useful Information on Travelling in Hsinchu
 Known as Taiwan’s "Silicon Valley," Hsinchu is a vibrant city renowned for its technological innovation and rich cultural heritage. Here’s some essential travel information to help you navigate your stay: <br/><br/>
-**Getting Around:**<br/><br/>
-**Transportation:** Hsinchu is well-connected by public transportation. You can use the local bus services and taxis for convenient travel within the city. The Hsinchu Train Station and Hsinchu High-Speed Rail (HSR) Station provide access to other major cities in Taiwan.<br/><br/>
+**Getting Around:**<br/>
+**Transportation:** Hsinchu is well-connected by public transportation. You can use the local bus services and taxis for convenient travel within the city. The Hsinchu Train Station and Hsinchu High-Speed Rail (HSR) Station provide access to other major cities in Taiwan.<br/>
 **Public Transit:** Consider getting an EasyCard, which can be used on buses, trains, and even in some convenience stores.
 
 **Dining:**
