@@ -34,7 +34,7 @@ Check [*the bus route and time table*](https://www.taiwanbus.tw/eBUSPage/Query/Q
 Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. From the airport, take metro to HSR Taoyuan station, then ride a south bounde train to HSR HsinChu Station. From HSR HsinChu station, get a taxi/uber to the venu. The time required to the venu is varied, can be from 15 minutes to 60+ minutes, depends on the time you arrive at HSR HsinChu station. [HSR route and time table](https://en.thsrc.com.tw/) 
 
 *TAXI*:   
-Taxi service is available, the fare is somehow acceptable, the average fare for trips to HsinChu is around NT1700 (US52).  
+Taxi service is available, the fare is somewhat acceptable, the average fare for trips to HsinChu is around NT1700 (US52).  
    
 ### Useful Information on Travelling in HsinChu
 Known as Taiwan’s "Silicon Valley," HsinChu is a vibrant city renowned for its technological innovation and rich cultural heritage. Here’s some essential travel information to help you navigate your stay: <br/><br/>
