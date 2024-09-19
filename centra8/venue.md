@@ -8,8 +8,8 @@ hide: true
 ---
 
 ### Venue
-[**NCHC Headquater**](https://www.nchc.org.tw/Home/ChangeLang?lang=2)  
-Both the Pre-meeting Workshop and CENTRA 8 Meeting will be held at NCHC Headquater located in Hsinchu, Taiwan.  
+[**NCHC Headquarters**](https://www.nchc.org.tw/Home/ChangeLang?lang=2)  
+Both the Pre-meeting Workshop and CENTRA 8 Meeting will be held at NCHC Headquarters located in Hsinchu, Taiwan.  
 ([Map](https://maps.app.goo.gl/2ASvf9KnxrQYYcPv6))
 
 Address: No.7, R&D Road 6, East District, Hsinchu, Taiwan 
