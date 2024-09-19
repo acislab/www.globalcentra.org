@@ -10,5 +10,5 @@ hide: true
 
 ## Satellite Events  
 
-CENTRA 8 is in conjunction with [HPC Asia 2025](https://event1.nchc.org.tw/hpcasia2025). We would like to invite you all to participate in the conference also.  
+CENTRA 8 is in conjunction with [HPC Asia 2025](https://event1.nchc.org.tw/hpcasia2025){:target="_blank"}. We would like to invite you all to participate in the conference also.  
 
