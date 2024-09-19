@@ -28,20 +28,20 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
 
-| February 22, Saturday | Location: NCHC Headquater |
+| February 22, Saturday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 10:30-12:00 | Collaboration Discussion I | 
 | 12:00-13:30 | Lunch |
 | 13:30-15:30 | Collaboration Discussion II |
 
-| February 23, Sunday | Location: NCHC Headquater |
+| February 23, Sunday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 10:30-12:00 | Collaboration Discussion III | 
 | 12:00-13:30 | Lunch |
 | 13:30-15:30 | Collaboration Discussion IV| 
 | 17:30 ~ | Reception |
 
-|February 24, Monday | Location: NCHC Headquater |
+|February 24, Monday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 08:30-09:00 | Opening |
 | 08:30-12:00 | CENTRA Meeting I | 
@@ -49,7 +49,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 13:30-17:30 | CENTRA Meeting II |
 | 17:30~ | Dinner |
 
-|February 25, Tuesday | Location: NCHC Headquater |
+|February 25, Tuesday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 08:30-12:00 | CENTRA Meeting III | 
 | 12:00-13:30 | Lunch // Steering Committee Meeting |
