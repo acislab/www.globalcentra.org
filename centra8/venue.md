@@ -15,9 +15,9 @@ Both the Pre-meeting Workshop and CENTRA 8 Meeting will be held at NCHC Headquar
 Address: No.7, R&D Road 6, East District, Hsinchu, Taiwan 
 Phone: +886-3-5776085
 
-### Access to Venue  
+<!--
+### Access to Venue
 
-<!-- 
 #### By Train
 Shinbashi Station provides the most convenient access to AIST Tokyo Waterfront and Miraikan. Take the Yurikamome line from Shimbashi (U01) and get off at Telecom Center station (U09). It is a 3-minute walk to AIST and a 4-minute walk to Miraikan from the station.
 
