@@ -16,7 +16,7 @@ Registration for CENTRA 8 will open soon.
 - You may register someone else from your institution to attend.
 - Attendees are responsible for their own travel arrangements and asociated expenses during their travel.
 - VISA letters and invitation letters will be available through the registration process.
-- To cancel your registration email [CENTRA8 secretariat](mailto:centra8.secretariant@gmail.com).
+- To cancel your registration email [CENTRA8 secretariat](mailto:centra8.secretariat@gmail.com).
 - Hotel and venue information are available [here](https://www.globalcentra.org/centra8/venue.html).
 
 <!--Registration for CENTRA 8 is now open. [Click here to register](https://3stars-tyo.co.jp/centra7/form). You will be confirmed to the event once your registration has been duly processed. -->
