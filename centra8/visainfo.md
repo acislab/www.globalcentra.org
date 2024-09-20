@@ -18,5 +18,5 @@ If you need an official letter of invitation from the Organizing Committee to in
 1.	First register for the CENTRA 8 meeting and indicate that you need an invitation letter from the Organizing Committee in the registration form.
 2.	Your request will be reviewed and processed within 2-4 business days, and the invitation letter will be sent to your email address.  
 
-If you have any questions regarding visa letters, please contact [CENTRA8 Secretariant](mailto:centra8.secretariant@gmail.com)
+If you have any questions regarding visa letters, please contact [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com)
 
