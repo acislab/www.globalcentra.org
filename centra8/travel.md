@@ -27,11 +27,11 @@ The major international airport is [**Taoyuan International Airport (TPE)**](htt
 #### Ground Transportation from Taoyuan Airport to HsinChu
 Taoyuan Airport is located about 60 kilometers north from HsinChu. There are many options to reach Hsinchu from the airport:  
 *Ri Hao Bus*:  
-Ri Hao Bus has direct access from Taoyuan Airport to HsinChu, the nearest stop to the venu is NYCU stop (陽明交大光復路).
+Ri Hao Bus has direct access from Taoyuan Airport to HsinChu, the nearest stop to the venue is NYCU stop (陽明交大光復路).
 Check [*the bus route and time table*](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1622602799261&lan=E)
 
 *HSR*:<br/>
-Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. From the airport, take metro to HSR Taoyuan station, then ride a south bounde train to HSR HsinChu Station. From HSR HsinChu station, get a taxi/uber to the venu. The time required to the venu is varied, can be from 15 minutes to 60+ minutes, depends on the time you arrive at HSR HsinChu station. [HSR route and time table](https://en.thsrc.com.tw/) 
+Taiwan High Speed Rail offers fastest connection between Taoyuan and Hsinchu. From the airport, take metro to HSR Taoyuan station, then ride a south bounde train to HSR HsinChu Station. From HSR HsinChu station, get a taxi/uber to the venue. The time required to the venue is varied, can be from 15 minutes to 60+ minutes, depends on the time you arrive at HSR HsinChu station. [HSR route and time table](https://en.thsrc.com.tw/) 
 
 *TAXI*:   
 Taxi service is available, the fare is somewhat acceptable, the average fare for trips to HsinChu is around NT1700 (US52).  
