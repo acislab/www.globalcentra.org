@@ -7,15 +7,15 @@ published: true
 hide: true
 ---
 
-## Program Co-Chairs
+## General Co-Chairs
 - Chau-Lyan Chang, National Center for High-performance Computing (NCHC), NARLabs, Taiwan
 - Steven Shiau, National Center for High-performance Computing (NCHC), NARLabs, Taiwan
 
 ## Program Committee
-- Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), NARLabs,Taiwan
+- **Chair:** Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), NARLabs,Taiwan
 - Jose Fortes, University of Florida, US
 - Renato Figueiredo, University of Florida, US
-- Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- **Co-Chair:** Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Jeonghoon Moon, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
 - Rui Oliveria, INESCTEC, Portugal
 - Beth Plale, Indiana University, US
@@ -24,17 +24,18 @@ hide: true
 - Huiping Tsai, National Chung Hsing University (NCHU), Taiwan
 - Sachith Withana, Indiana University, US
 
-## Organizing Committees
-### Local Organizing Committee
+## Local Organizing Committee
 -	Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
 -	SuFeng Chen, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
 - Ching Lee, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
  
-### Operations Committee
+## Operations Committee
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Robert Ping, Pervasive Technology Institute at Indiana University, US
 -	Andreia Passos, INESCTEC, Portugal
-  
+
+<!--
 ## Sponsors
 
-<!--## Contact-->
+## Contact 
+-->
