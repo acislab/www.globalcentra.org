@@ -13,9 +13,9 @@ hide: true
 
 ## Program Committee
 - **Chair:** Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), NARLabs,Taiwan
+- **Co-Chair:** Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Jose Fortes, University of Florida, US
 - Renato Figueiredo, University of Florida, US
-- **Co-Chair:** Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Jeonghoon Moon, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
 - Rui Oliveria, INESCTEC, Portugal
 - Beth Plale, Indiana University, US
