@@ -28,6 +28,8 @@ Partners support one or more of the following activities: workshops, webinars, t
 **Invited Institutional Members:**
 *  [PRAGMA:](https://www.pragma-grid.net) Pacific Rim Application And Grid Middleware Assembly 
 
+<!--
+
 <div id="researchers"> </div>
 
 # Researchers
@@ -152,3 +154,4 @@ Ryan Vrecenar | PhD Student, Texas A&M University | Reverse engineering, securit
 Juan Sebastian Aguirre Zarraonandia      |Master's Student, Osaka University, Japan      |Software-defined network, Wide Area Network
 {: class="table"}
 <a href="#founders">Back to top</a>
+-->
