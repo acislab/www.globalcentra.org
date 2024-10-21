@@ -9,7 +9,7 @@ published: true
 
 # Founding Members
 
-The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the [National Center for High-Performance Computing (NCHC)](https://www.nchc.org.tw/?langid=2) of the [National Research Laboratories](https://www.narlabs.org.tw/en) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
+The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the [National Center for High-Performance Computing (NCHC)](https://www.nchc.org.tw/?langid=2) of the [National Research Laboratories](https://www.narlabs.org.tw/en) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the [National Institute of Information and Communications Technologies (NICT)](https://www.nict.go.jp/en/), Japan.
 
 <div id="partners"> </div>
 
