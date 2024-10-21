@@ -29,7 +29,7 @@ For more information, contact the event organisers at [...](mailto:).
 -->
 
 ## Registration
-All workshop participants must be registered for CENTRA 8. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, contact meeting secretariat at ... .
+All workshop participants must be registered for CENTRA 8. Details about registration and procedures can be found in the menu on the left. 
 
-We look forward to an engaging session exploring the worldwide views of ...!
+We look forward to an engaging session!
 
