@@ -28,12 +28,37 @@ Partners support one or more of the following activities: workshops, webinars, t
 **Invited Institutional Members:**
 *  [PRAGMA:](https://www.pragma-grid.net) Pacific Rim Application And Grid Middleware Assembly 
 
-<!--
-
 <div id="researchers"> </div>
 
 # Researchers
 
+Member researchers are a vital part of our community and contribute in a variety of roles as session chairs, presenters, project leaders, meeting organizers, and attendees. Browse some of our current and past members:
+
+**CENTRA 7:**
+[Presenters:](https://www.globalcentra.org/centra7/program.html)
+[Attendees (partial list):](https://centra7.sched.com/directory/attendees)
+
+**CENTRA 6:**
+[Presenters:](https://centra6.sched.com/directory/speakers)
+[Attendees:](https://centra6.sched.com/directory/attendees)
+
+**CENTRA 5:**
+[Presenters:](https://www.globalcentra.org/centra5/program.html)
+
+**CENTRA 4:**
+[Presenters:](https://www.globalcentra.org/centra4/program.html)
+
+**CENTRA 3:**
+[Presenters:](https://www.globalcentra.org/centra3/program.html)
+
+**CENTRA 2:**
+[Presenters:](https://www.globalcentra.org/centra2/program.html)
+
+**CENTRA Kickoff Meeting:**
+[Presenters:](https://event.nchc.org.tw/2019/CECEA/index.php?CONTENT_ID=22)
+[Kickoff participants and expertise:](https://www.globalcentra.org/meetings/kickoff2016.html)
+
+<!--
 Member researchers who engage and advise junior researchers in CENTRA-related projects include the following:
 
 **Name**  | **Role and Institution**  | **Interests** |
