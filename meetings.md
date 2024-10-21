@@ -198,7 +198,7 @@ published: true
   <tr>
     <th ><img src="/img/centra-2016.jpg" border="5"></th>
     <th class="noBorder"> CENTRA Kickoff Meeting, March 30 to April 2, 2016, Taichung, Taiwan <br>
-        <a href="https://event.nchc.org.tw/2019/CECEA/index.php?CONTENT_ID=20">Website</a> | <a href="/meetings/kickoff2016.html">Kickoff participants and expertise</a>
+        <a href="https://event.nchc.org.tw/2019/CECEA/index.php?CONTENT_ID=20">Website</a> | <a href="/meetings/kickoff2016.html">Kickoff Meeting Attendees</a>
         </th>
   </tr>
 
