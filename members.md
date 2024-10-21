@@ -9,20 +9,20 @@ published: true
 
 # Founding Members
 
-The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the [Center of Excellence for Cyber-Enablement of Applications CECEA)](https://cecea.nchc.org.tw/e_index.php)  of the National Center for High-Performance Computing (NCHC) with support from the Ministry of Science and Technology (MOST) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
+The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the [National Center for High-Performance Computing (NCHC)](https://www.nchc.org.tw/?langid=2) of the [National Research Laboratories](https://www.narlabs.org.tw/en) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
 
 <div id="partners"> </div>
 
 # Partners - Institutional Members
 
-Partners support one or more of the following actvities: workshops, webinars, the annual meeting, sending their researchers to visit/collaborate with other partners, hosting CENTRA collaborations, and/or providing access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
+Partners support one or more of the following activities: workshops, webinars, the annual meeting, sending their researchers to visit/collaborate with other partners, hosting CENTRA collaborations, and/or providing access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
 
 *  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
 *  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
-*  [CECEA:](https://cecea.nchc.org.tw/e_index.php) Center of Excellence for Cyber-Enablement of Applications, Taiwan
 *  [IU:](https://www.iu.edu/index.html) Indiana University, USA
 *  [INESC TEC:](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
+*  [NCHC:](https://www.nchc.org.tw/?langid=2) National Center for High-Performance Computing, Taiwan
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
 **Invited Institutional Members:**
