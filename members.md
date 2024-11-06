@@ -58,7 +58,10 @@ Member researchers are a vital part of our community and contribute in a variety
  [Presenters](https://event.nchc.org.tw/2019/CECEA/index.php?CONTENT_ID=22) 
  | [Kickoff Meeting Attendees](https://www.globalcentra.org/meetings/kickoff2016.html)
 
-**Webinars:**
+**PROJECT LEADERS:**
+ [Current Projects and Leaders](https://www.globalcentra.org/projects/)
+
+**WEBINARS:**
 * [2020-2021 Webinar Presenters](https://www.globalcentra.org/2020-2021webinars/)
 * [2019 Webinar Presenters](https://www.globalcentra.org/2019webinars/)
 * [2018 Webinar Presenters](https://www.globalcentra.org/2018webinars/)
