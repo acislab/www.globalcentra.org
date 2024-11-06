@@ -62,9 +62,9 @@ Member researchers are a vital part of our community and contribute in a variety
  [Current Projects and Leaders](https://www.globalcentra.org/projects/)
 
 **WEBINARS:**
-* [2020-2021 Webinar Presenters](https://www.globalcentra.org/2020-2021webinars/)
-* [2019 Webinar Presenters](https://www.globalcentra.org/2019webinars/)
-* [2018 Webinar Presenters](https://www.globalcentra.org/2018webinars/)
+ [2020-2021 Webinar Presenters](https://www.globalcentra.org/2020-2021webinars/)
+ | [2019 Webinar Presenters](https://www.globalcentra.org/2019webinars/)
+ | [2018 Webinar Presenters](https://www.globalcentra.org/2018webinars/)
 
 
 
