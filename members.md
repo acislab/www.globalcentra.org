@@ -35,8 +35,8 @@ Partners support one or more of the following activities: workshops, webinars, t
 Member researchers are a vital part of our community and contribute in a variety of roles as session chairs, presenters, project leaders, meeting organizers, and attendees. Browse some of our current and past members:
 
 **CENTRA 7:**
-* [Presenters](https://www.globalcentra.org/centra7/program.html)
-* [Attendees (partial list)](https://centra7.sched.com/directory/attendees)
+[Presenters](https://www.globalcentra.org/centra7/program.html)
+| [Attendees (partial list)](https://centra7.sched.com/directory/attendees)
 
 **CENTRA 6:**
 * [Presenters](https://centra6.sched.com/directory/speakers)
