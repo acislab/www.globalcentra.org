@@ -55,7 +55,7 @@ The Steering Committee consists of staff from Institutional Member Organizations
 **Current Members:**
 *  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
 *  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
-*  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)
+*  Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan (Initial member)
 *  Hidehisa Nagano, National Institute of Information and Communications Technologies, Japan (Initial member)
 *  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
 *  Beth Plale, Indiana University (IU), USA
@@ -66,8 +66,10 @@ The Steering Committee consists of staff from Institutional Member Organizations
 
 **Past Members:**
 *  Peter Arzberger, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
-*  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
 *  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea
+*  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)
+*  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
+
 
 # Operations Committee
 Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
@@ -86,10 +88,10 @@ CENTRA engages international entities in collaborative research activities in se
 **Current Institutional Members:** 
 *  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
 *  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
-*  [CECEA:](http://cecea.nchc.org.tw/) Center of Excellence for Cyber-Enablement of Applications, Taiwan
 *  [INESC TEC:](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
 *  [IU:](https://www.iu.edu/index.html) Indiana University, USA
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
+*  [NCHC:](https://www.nchc.org.tw/?langid=2) National Center for High-performance Computing, Taiwan
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
 **Invited Institutional Members:**
