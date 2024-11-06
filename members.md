@@ -39,24 +39,31 @@ Member researchers are a vital part of our community and contribute in a variety
 | [Attendees (partial list)](https://centra7.sched.com/directory/attendees)
 
 **CENTRA 6:**
-* [Presenters](https://centra6.sched.com/directory/speakers)
-* [Attendees](https://centra6.sched.com/directory/attendees)
+ [Presenters](https://centra6.sched.com/directory/speakers)
+| [Attendees](https://centra6.sched.com/directory/attendees)
 
 **CENTRA 5:**
-* [Presenters](https://www.globalcentra.org/centra5/program.html)
+ [Presenters](https://www.globalcentra.org/centra5/program.html)
 
 **CENTRA 4:**
-* [Presenters](https://www.globalcentra.org/centra4/program.html)
+ [Presenters](https://www.globalcentra.org/centra4/program.html)
 
 **CENTRA 3:**
-* [Presenters](https://www.globalcentra.org/centra3/program.html)
+ [Presenters](https://www.globalcentra.org/centra3/program.html)
 
 **CENTRA 2:**
-* [Presenters](https://www.globalcentra.org/centra2/program.html)
+ [Presenters](https://www.globalcentra.org/centra2/program.html)
 
 **CENTRA Kickoff Meeting:**
-* [Presenters](https://event.nchc.org.tw/2019/CECEA/index.php?CONTENT_ID=22)
-* [Kickoff Meeting Attendees](https://www.globalcentra.org/meetings/kickoff2016.html)
+ [Presenters](https://event.nchc.org.tw/2019/CECEA/index.php?CONTENT_ID=22) 
+ | [Kickoff Meeting Attendees](https://www.globalcentra.org/meetings/kickoff2016.html)
+
+**Webinars:**
+* [2020-2021 Webinar Presenters](https://www.globalcentra.org/2020-2021webinars/)
+* [2019 Webinar Presenters](https://www.globalcentra.org/2019webinars/)
+* [2018 Webinar Presenters](https://www.globalcentra.org/2018webinars/)
+
+
 
 <!--
 Member researchers who engage and advise junior researchers in CENTRA-related projects include the following:
