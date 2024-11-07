@@ -40,7 +40,7 @@ Member researchers are a vital part of our community and contribute in a variety
 
 **CENTRA 6:**
  [Presenters](https://centra6.sched.com/directory/speakers)
-| [Attendees](https://centra6.sched.com/directory/attendees)
+| [Attendees (partial list)](https://centra6.sched.com/directory/attendees)
 
 **CENTRA 5:**
  [Presenters](https://www.globalcentra.org/centra5/program.html)
