@@ -25,8 +25,8 @@ Authors are encouraged to submit original research, case studies, and innovative
 
 ## Important Dates:
 
-- Paper submissions deadline: January 12, 2025
-- Notification of acceptance: January 15, 2025
+- Paper submissions deadline: December 12, 2025
+- Notification of acceptance: January 10, 2025
 - Camera-ready deadline: February 9, 2025
 
 For more information, contact the event organisers at [centra8.secretariat@gmail.com](mailto:centra8.secretariat@gmail.com).
