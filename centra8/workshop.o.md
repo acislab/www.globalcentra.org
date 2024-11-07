@@ -1,7 +1,7 @@
 ---
 layout: centrameeting8
 title: CENTRA 2025
-permalink: /centra8/workshop.html
+permalink: /centra8/workshop.o.html
 "feature-img": img/centra8/centra8-banner-02.jpg
 published: true
 hide: true
