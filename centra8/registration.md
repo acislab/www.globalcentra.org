@@ -12,7 +12,6 @@ hide: true
 Registration for CENTRA 8 will open soon. 
 
 - There is no fee for attending.
-- Registration for CENTRA 8 includes the pre-meeting workshop on TOPICS IN DISCUSSION.
 - You may register someone else from your institution to attend.
 - Attendees are responsible for their own travel arrangements and asociated expenses during their travel.
 - VISA letters and invitation letters will be available through the registration process.
