@@ -12,7 +12,7 @@ hide: true
 <!--- 2025.01.04 -->
 CENTRA 8 will be held on ***Feburary 22-25***, in conjunction with [HPC Asia 2025 (Feb. 19-21)](https://event1.nchc.org.tw/hpcasia2025/) and **SEAIP20 (Feb. 21-23)** <br/>
 CENTRA 8 registration: Expect to open on **Nov. 18, 2024** <br/>
-**- 2024.12.12**: [Paper submissions](https://www.globalcentra.org/centra8/workshop.html) deadline <br/>
+**- 2024.12.12**: [All submissions](https://www.globalcentra.org/centra8/workshop.html) deadline <br/>
 **- 2025.01.10**: Notification of paper acceptance <br/>
 **- 2025.02.09**: Camera-ready deadline <br/>
 
