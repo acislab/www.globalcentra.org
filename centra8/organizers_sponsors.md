@@ -9,7 +9,7 @@ hide: true
 
 ## General Co-Chairs
 - Chau-Lyan Chang, National Center for High-performance Computing (NCHC), NARLabs, Taiwan
-- Steven Shiau, National Center for High-performance Computing (NCHC), NARLabs, Taiwan
+- Ming-Der Yang, National Chung Hsing Universiry (NCHU),Taiwan
 
 ## Program Committee
 - **Chair:** Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), NARLabs,Taiwan
