@@ -27,7 +27,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
-
+<!-- add program here later
 | February 22, Saturday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 10:30-12:00 | Collaboration Discussion I | 
@@ -56,3 +56,4 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 13:30-15:30 | CENTRA Meeting IV |
 | 15:30-16:00 | Closing Remarks <br> Announcements for Future CENTRA Events |
 
+-->
