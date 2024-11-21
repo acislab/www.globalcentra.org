@@ -9,7 +9,8 @@ hide: true
 
 ## Registration
 
-Registration for CENTRA 8 is now open. [Click here to register](https://forms.gle/mpZoojZULUBureiZ8). <br>
+**Registration for CENTRA 8 is now open. [Click here to register](https://forms.gle/mpZoojZULUBureiZ8).** <br>
+<br>
 You will be confirmed to the event once your registration has been duly processed. <br>
 
 Please note:
