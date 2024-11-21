@@ -15,7 +15,7 @@ You will be confirmed to the event once your registration has been duly processe
 Please note:
 - There is no fee to attend; however, seats are limited. We encourage you to register soon to secure your spot.
 - You may register someone else from your institution to attend.
-- Attendees are responsible for their own travel arrangements and asociated expenses during their travel.
+- Attendees are responsible for their own travel arrangements and associated expenses during their travel.
 - VISA letters and invitation letters will be available through the registration process.
 - To cancel your registration, please email [CENTRA8 secretariat](mailto:centra8.secretariat@gmail.com).
 - Hotel and venue information are available [here](https://www.globalcentra.org/centra8/venue.html).
