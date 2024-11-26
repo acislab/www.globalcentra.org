@@ -28,6 +28,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
 
+<!--
 | February 22, Saturday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 10:30-12:00 | SEAIP  | 
@@ -56,3 +57,4 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 12:00-13:30 | Lunch // Steering Committee Meeting |
 | 13:30-15:30 | CENTRA Meeting IV |
 | 15:30-16:00 | Closing Remarks Announcements for Future CENTRA Events |
+-->
