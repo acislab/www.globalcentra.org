@@ -27,6 +27,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
+
 | February 22, Saturday | Location: NCHC Headquarters |
 | ---- | ---- |
 | 10:30-12:00 | SEAIP  | 
