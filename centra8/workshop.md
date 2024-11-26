@@ -7,8 +7,8 @@ published: true
 hide: true
 ---
 
-## Abstract Submission for: 
-### New Project / Project News
+## Call for Submissions: 
+### New Project / Project News / Project Report
 We cordially invite CENTRA researchers, practitioners, and professionals to submit brief abstracts for ongoing project updates and new project proposals. CENTRA 8 will feature a "warm-up" session, offering a valuable opportunity to present your ideas, receive feedback, and connect with potential collaborators.
 
 ### Technical Paper
