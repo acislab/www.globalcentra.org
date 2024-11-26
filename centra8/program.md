@@ -27,19 +27,19 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
-<!-- add program here later; replace 
 | February 22, Saturday | Location: NCHC Headquarters |
 | ---- | ---- |
-| 10:30-12:00 | Collaboration Discussion I | 
+| 10:30-12:00 | SEAIP  | 
 | 12:00-13:30 | Lunch |
-| 13:30-15:30 | Collaboration Discussion II |
+| 13:30-15:30 | SEAIP |
+| 17:30 ~ | Social Function |
 
 | February 23, Sunday | Location: NCHC Headquarters |
 | ---- | ---- |
-| 10:30-12:00 | Collaboration Discussion III | 
+| 10:30-12:00 | SEAIP | 
 | 12:00-13:30 | Lunch |
-| 13:30-15:30 | Collaboration Discussion IV| 
-| 17:30 ~ | Reception |
+| 13:30-15:30 | SEAIP/CENTRA| 
+| 17:30 ~ | CENTRA Reception |
 
 |February 24, Monday | Location: NCHC Headquarters |
 | ---- | ---- |
@@ -55,5 +55,3 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 | 12:00-13:30 | Lunch // Steering Committee Meeting |
 | 13:30-15:30 | CENTRA Meeting IV |
 | 15:30-16:00 | Closing Remarks Announcements for Future CENTRA Events |
-
--->
