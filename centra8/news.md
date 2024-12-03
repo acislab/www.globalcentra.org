@@ -6,12 +6,19 @@ permalink: /centra8/news.html
 published: true
 hide: true
 ---
+CENTRA 8 will be held on ***Feburary 22-25, 2025***, in conjunction with [HPC Asia 2025 (Feb. 19-21)](https://event1.nchc.org.tw/hpcasia2025/) and **SEAIP20 (Feb. 21-23)** <br/>
 
+## Call For Participation
+We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here are some of the highlights you can look forward to:
+- Keynote Speeches: Gain invaluable insights from two esteemed experts as they share their knowledge and experiences on "AI applications in linguistics", and "AI & Cognitive Psychology".
+- Presentation Tracks: Delve into a wide array of sessions featuring AI Enabled Applications, Advanced Cyberinfrastructure, and Infrastructure Management. In addition to the plenary talks, participants are encouraged to submit their work or ideas to the New Projects/Project Updates and Technical Papers tracks. These sessions will showcase groundbreaking work and pioneering ideas, providing an excellent platform for innovation and collaboration.
+- Group Discussions: Participate in interactive group discussions designed to deepen understanding and encourage dialogue on pressing topics.
+- Networking Opportunities: Connect with peers and potential collaborators to exchange ideas and foster professional relationships.
+## CENTRA 8 registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure the spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA)
+
+## Call For Submissions
 ## Important Dates
 
-<!--- 2025.01.04 -->
-CENTRA 8 will be held on ***Feburary 22-25***, in conjunction with [HPC Asia 2025 (Feb. 19-21)](https://event1.nchc.org.tw/hpcasia2025/) and **SEAIP20 (Feb. 21-23)** <br/>
-<!-- CENTRA 8 registration: Expect to open on **Nov. 18, 2024** --> <br/>
 **- 2024.12.12**: [All submissions](https://www.globalcentra.org/centra8/workshop.html) deadline <br/>
 **- 2025.01.10**: Notification of paper acceptance <br/>
 **- 2025.02.09**: Camera-ready deadline <br/>
