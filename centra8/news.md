@@ -26,7 +26,7 @@ We are excited to invite you to submit your work for presentation at the upcomin
 **Important Dates**
 - All submission Deadline: December 12, 2024
 - Notification of Acceptance: Janurary 10, 2025
-- Event Date: Feburary 23-25, 2025
+- Event Date: Feburary 22-25, 2025
 <br/>
 
 
