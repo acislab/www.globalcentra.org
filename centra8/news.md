@@ -7,8 +7,11 @@ published: true
 hide: true
 ---
 CENTRA 8 will be held on **Feburary 22-25, 2025**, in conjunction with [**HPC Asia 2025 (Feb. 19-21)**](https://event1.nchc.org.tw/hpcasia2025/) and **SEAIP20 (Feb. 21-23)** <br/>
+**Call For Submission**<br/>
+We cordially invite you to submit your work for presentation at the upcoming CENTRA8 meeting. Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions. <br/>
 
-**The registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA)** <br/>
+**Call For Participation**<br/>
+The registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA) <br/>
 
 ## Call For Participation
 We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here are some of the highlights you can look forward to:
@@ -20,7 +23,7 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 <br/>
 
 ## Call For Submissions
-We are excited to invite you to submit your work for presentation at the upcoming CENTRA8 meeting. 
+ 
 <br/>
 
 **Important Dates**
