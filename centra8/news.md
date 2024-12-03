@@ -6,7 +6,7 @@ permalink: /centra8/news.html
 published: true
 hide: true
 ---
-CENTRA 8 will be held on **Feburary 22-25, 2025**, in conjunction with **[HPC Asia 2025 (Feb. 19-21)]**(https://event1.nchc.org.tw/hpcasia2025/) and **SEAIP20 (Feb. 21-23)** <br/>
+CENTRA 8 will be held on **Feburary 22-25, 2025**, in conjunction with [**HPC Asia 2025 (Feb. 19-21)**](https://event1.nchc.org.tw/hpcasia2025/) and **SEAIP20 (Feb. 21-23)** <br/>
 
 **The registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA)**
 
