@@ -28,5 +28,5 @@ We are excited to invite you to submit your work for presentation at the upcomin
 - Event Date: Feburary 23-25, 2025
 <br/>
 
-**Please visit CENTRA8 website at [https://globalcentra.org/centra8/workshop.html] for detailed submission instructions.**
+**Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed instructions.**
 
