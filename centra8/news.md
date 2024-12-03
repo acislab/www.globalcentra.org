@@ -19,11 +19,22 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 <br/>
 
 ## Call For Submissions
+We are excited to invite you to submit your work for presentation at the upcoming CENTRA8 meeting. There are two tracks of submission:
+1. New Projects/Project News/Project Updates:
+   - Share the latest developments and innovative concepts in your ongoing projects.
+   - Ideal for participants looking to gain feedback, explore collaborations, and showcase pioneering ideas that are yet to be fully realized.
+2. Technical Papers:
+   - Present detailed research findings and technical studies.
+   - Suitable for completed work with robust results, in-depth analysis, and substantial contributions to the field.
+<br/>
+
 ## Important Dates
 
 **- 2024.12.12**: [All submissions](https://www.globalcentra.org/centra8/workshop.html) deadline <br/>
 **- 2025.01.10**: Notification of paper acceptance <br/>
 **- 2025.02.09**: Camera-ready deadline <br/>
+
+**Please visit CENTRA8 website at [https://globalcentra.org/centra8/workshop.html] for detailed submission instructions.**
 
 <!--## announce later
   
