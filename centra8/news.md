@@ -14,7 +14,7 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 - Presentation Tracks: Delve into a wide array of sessions featuring AI Enabled Applications, Advanced Cyberinfrastructure, and Infrastructure Management. In addition to the plenary talks, participants are encouraged to submit their work or ideas to the New Projects/Project Updates and Technical Papers tracks. These sessions will showcase groundbreaking work and pioneering ideas, providing an excellent platform for innovation and collaboration.
 - Group Discussions: Participate in interactive group discussions designed to deepen understanding and encourage dialogue on pressing topics.
 - Networking Opportunities: Connect with peers and potential collaborators to exchange ideas and foster professional relationships.
-## CENTRA 8 registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure the spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA)
+## CENTRA 8 registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA)
 
 ## Call For Submissions
 ## Important Dates
