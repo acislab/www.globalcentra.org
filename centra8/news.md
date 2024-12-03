@@ -21,6 +21,7 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 ## Call For Submissions
 We are excited to invite you to submit your work for presentation at the upcoming CENTRA8 meeting.
 <br/>
+
 **Important Dates**
 - All submission Deadline: December 12, 2024
 - Notification of Acceptance: Janurary 10, 2025
