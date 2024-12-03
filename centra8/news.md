@@ -13,7 +13,8 @@ CENTRA 8 will be held on **Feburary 22-25, 2025**, in conjunction with [**HPC As
 ## Call For Participation
 We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here are some of the highlights you can look forward to:
 - Keynote Speeches: Gain invaluable insights from two esteemed experts as they share their knowledge and experiences on "AI applications in linguistics", and "AI & Cognitive Psychology".
-- Presentation Tracks: Delve into a wide array of sessions featuring AI Enabled Applications, Advanced Cyberinfrastructure, and Infrastructure Management. In addition to the plenary talks, participants are encouraged to submit their work or ideas to the New Projects/Project Updates and Technical Papers tracks. These sessions will showcase groundbreaking work and pioneering ideas, providing an excellent platform for innovation and collaboration.
+- Presentation Tracks: Delve into a wide array of sessions featuring AI Enabled Applications, Advanced Cyberinfrastructure, and Infrastructure Management.
+- In addition to the plenary talks, participants are encouraged to submit their work or ideas to the New Projects/Project Updates and Technical Papers tracks. **Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions.**
 - Group Discussions: Participate in interactive group discussions designed to deepen understanding and encourage dialogue on pressing topics.
 - Networking Opportunities: Connect with peers and potential collaborators to exchange ideas and foster professional relationships.
 <br/>
