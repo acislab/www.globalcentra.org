@@ -12,17 +12,19 @@ We cordially invite you to submit your work for presentation at the upcoming CEN
 **Call For Participation**<br/>
 The registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [**Register Here**](https://forms.gle/PMq8iGSjXKm6U4FAA) <br/>
 
-##
 ## Call For Participation
 We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here are some of the highlights you can look forward to:
 - Keynote Speeches: Gain invaluable insights from two esteemed experts as they share their knowledge and experiences on "AI applications in linguistics", and "AI & Cognitive Psychology".
 - Presentation Tracks: Delve into a wide array of sessions featuring AI Enabled Applications, Advanced Cyberinfrastructure, and Infrastructure Management.
-- In addition to the plenary talks, participants are encouraged to submit their work or ideas to the New Projects/Project Updates and Technical Papers tracks. **Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions.**
+- In addition to the plenary talks, participants are encouraged to submit their work or ideas to the New Projects/Project Updates and Technical Papers tracks. 
 - Group Discussions: Participate in interactive group discussions designed to deepen understanding and encourage dialogue on pressing topics.
 - Networking Opportunities: Connect with peers and potential collaborators to exchange ideas and foster professional relationships.
 <br/>
 
 ## Call For Submissions
+**Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions.**
+<br/>
+
 **Important Dates**
 - All submission Deadline: December 12, 2024
 - Notification of Acceptance: Janurary 10, 2025
