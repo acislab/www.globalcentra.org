@@ -7,13 +7,12 @@ published: true
 hide: true
 ---
 **Call For Submission**<br/>
-We cordially invite you to submit your work for presentation at the upcoming CENTRA8 meeting. Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions. <br/>
+We cordially invite you to submit your work for presentation at the upcoming CENTRA8 meeting. Please visit [**Call for Submission**](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions. <br/>
 
 **Call For Participation**<br/>
-The registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [Register Here](https://forms.gle/PMq8iGSjXKm6U4FAA) <br/>
+The registration is now open, there is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. [**Register Here**](https://forms.gle/PMq8iGSjXKm6U4FAA) <br/>
 
 ##
-
 ## Call For Participation
 We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here are some of the highlights you can look forward to:
 - Keynote Speeches: Gain invaluable insights from two esteemed experts as they share their knowledge and experiences on "AI applications in linguistics", and "AI & Cognitive Psychology".
@@ -24,9 +23,6 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 <br/>
 
 ## Call For Submissions
- 
-<br/>
-
 **Important Dates**
 - All submission Deadline: December 12, 2024
 - Notification of Acceptance: Janurary 10, 2025
