@@ -19,7 +19,7 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 <br/>
 
 ## Call For Submissions
-We are excited to invite you to submit your work for presentation at the upcoming CENTRA8 meeting.
+We are excited to invite you to submit your work for presentation at the upcoming CENTRA8 meeting. **Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed instructions.**
 <br/>
 
 **Important Dates**
@@ -28,5 +28,5 @@ We are excited to invite you to submit your work for presentation at the upcomin
 - Event Date: Feburary 23-25, 2025
 <br/>
 
-**Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed instructions.**
+
 
