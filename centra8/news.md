@@ -22,7 +22,7 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 <br/>
 
 ## Call For Submissions
-**Please visit [Call for Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions.**
+**Please visit [Abstract Submission](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions.**
 <br/>
 
 **Important Dates**
