@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 **Call For Submission**<br/>
-We cordially invite you to submit your work for presentation at the upcoming CENTRA8 meeting. Please visit [**Call for Submission**](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions. <br/>
+We cordially invite you to submit your work for presentation at the upcoming CENTRA8 meeting. Please visit [**Abstract Submission**](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions. <br/>
 
 **Call For Participation**<br/>
 The registration is now open, [**Register Here**](https://forms.gle/PMq8iGSjXKm6U4FAA) There is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. <br/>
