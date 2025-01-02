@@ -26,10 +26,10 @@ We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here 
 <br/>
 
 **Important Dates**
-- All submission Deadline: ~~December 12, 2024~~ ~~December 20, 2024~~Janurary 10, 2025
-- Notification of Acceptance: ~~Janurary 10, 2025~~ ~~Janurary 15, 2025~~Janurary 25, 2025
-- Camera-ready Deadline: Feburary 20, 2025
-- Event Date: Feburary 22-25, 2025
+- All submission Deadline: ~~December 12, 2024~~ ~~December 20, 2024~~January 10, 2025
+- Notification of Acceptance: ~~Janurary 10, 2025~~ ~~Janurary 15, 2025~~January 25, 2025
+- Camera-ready Deadline: February 20, 2025
+- Event Date: February 22-25, 2025
 <br/>
 
 
