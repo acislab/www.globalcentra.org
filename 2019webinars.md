@@ -3,6 +3,7 @@ layout: page
 title: 2019 Webinars
 permalink: /2019webinars/
 "feature-img": img/header-nologo.jpg
+hide: true
 ---
   
 <p align="center">

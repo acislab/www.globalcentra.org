@@ -1,46 +1,139 @@
 ---
 layout: page
-title: 2020-2021 Webinars
-permalink: /2020-2021webinars/
-"feature-img": img/header-nologo.jpg
-hide: true
+title: "Webinars"
+permalink: /webinars/
+feature-img: img/header-nologo.jpg
+published: true
 ---
 
-<p class="text-center">
-    Recordings of the upcoming webinars (2020) will be available within 7 days after each event and linked to the presentations below. 2016-2019 webinar recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a>
-</p>
+# Global CENTRA Webinars Archive (2018–2021)
 
-<div style="text-align: justify;">
-    <h3>2020 Global CENTRA Webinar Series</h3>
-</div>
-<p>
-    Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation <em>(webinar times and dates may be subject to change)</em>. 
-</p>
-    <p>
-    The Global CENTRA Webinars are free and open to all, whether they have been involved in CENTRA member organizations or not. Please invite your colleagues and students interested in these topics and may benefit from interacting with the speakers and CENTRA researchers! Questions? Please e-mail <a href="mailto:centra@acis.ufl.edu">centra@acis.ufl.edu</a>. 
-    </p>
-    <p>
-    Here is a preview of current scheduled webinars and more potential topics being confirmed during the Fall of 2020. More details are being updated here as they become available. Check back to this page often and follow us on Facebook <a href="https://www.facebook.com/GlobalCENTRA/">globalcentra</a> and Twitter <a href="https://twitter.com/globalcentra">@globalcentra.</a>
-</p>
-<h3>2020-2021 Past Webinars(video recordings can be viewed)</h3>
-<ul>
-<li><a href="#10072020webinar">10/7/2020 webinar, Differential Privacy and its Applications on Data Release and Data Collection, Speaker: Dr. Chia-Mu</a></li>
-<li><a href="#10212020webinar">10/21/2020 webinar, KISTI Supercomputing for COVID-19 Challenges, Speaker: Dr. Sangjae Seo</a></li>
-<li><a href="#11042020webinar">11/04/2020 webinar, Edge X and IoT technology, Speaker: Dr. Kiwook Kim</a></li>
-<li><a href="#11182020webinar">11/18/2020 webinar, Edge intelligence: QoS-Cost tradeoff for learning-based services at the edge, Speaker: Dr. Hana Khamfroush</a></li>
-<li><a href="#12022020webinar">12/02/2020 webinar, InterConnect: European large scale demonstration of IoT interoperability, Speaker: Dr. Fábio Coelho</a></li>
-<li><a href="#12162020webinar">12/16/2020 webinar, EdgeVPN.io: Software-Defined Overlay Virtual Private Networks for Edge Computing, Speaker: Dr. Renato Figueiredo</a></li>
-<li><a href="#01202021webinar">01/20/2021 webinar, STAYAWAY COVID, Speaker: Dr. Rui Oliveira </a></li>
-<li><a href="#02032021webinar">02/03/2021 webinar, AI-Support Network Control and Management towards Beyond 5G Era, Speaker: Dr. Hiroaki Harai</a></li>
-<li><a href="#02172021webinar">02/17/2021 webinar, Dynamic Interactions between Human and Information in Complex Online Environments Responding to SARS-COV-2, Speaker: Dr. Yan Wang</a></li>
-<li><a href="#03032021webinar">03/03/2021 webinar, Management of geospatial time series from ship measurements in the scope of the AIR_DataNet infrastructure, Speaker: Dr. Susana Barbosa</a></li>
-<li><a href="#03032021webinar">03/17/2021 webinar, IoT Edge Computing Technologies, Speaker: Dr. Yuuichi Teranishi</a></li>
-<li><a href="#03312021webinar">03/31/2021 webinar, The full-scale experiment testbed of building green energy technology – The SPIN Lab in Taiwan, Speaker: Dr. Yen-Jong Chen</a></li>
-</ul>
-<br>
-<h3 id="past-webinars">Past Webinars</h3>
+Below you will find an archive of Global CENTRA webinars organized by year. Each section includes webinar dates, times, speakers, and links to abstracts and/or recordings (where available).
+
+---
+
+## 2018 Webinars
+
+**Recordings Note**  
+*Recordings of 2016–2018 webinars are available on [CENTRA's Vimeo channel](https://goo.gl/nUjf6F).*
+
+### Spring 2018 Global CENTRA Webinar Series
+
+Global CENTRA invites you to review the following webinars to learn about past ongoing and proposed CENTRA collaborative research. The purpose of these webinars was to engage international researchers in transnational collaborations. Webinar presentations included descriptions of specific areas or questions where collaborations are desirable, and attendees had the opportunity to follow up with presenters on their interest in engaging in such collaborations.
+
+> **2018/01/09 @18:00 US EST**  
+> *01/09 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
+> *01/10 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
+> **Development and Opportunities in the New Digital Society**  
+> By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan University of Science and Technology, Taiwan  
+> [Abstract and Webinar Recording](https://goo.gl/S29GAW)
+
+> **2018/01/16 @18:00 US EST**  
+> *01/16 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
+> *01/17 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
+> **PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim**  
+> By Dr. Kohei Ichikawa, Nara Institute of Science and Technology, Japan  
+> [Abstract and Webinar Recording](https://goo.gl/7EhEzX)
+
+> **2018/01/24 @08:00 US EST**  
+> *01/24 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1300 Portugal*  
+> *01/24 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
+> **Edge Computing for Autonomous Systems**  
+> By Dr. Christopher Stewart, The Ohio State University, USA  
+> [Abstract and Webinar Recording](https://vimeo.com/globalcentra/edgecomputing)
+
+> **2018/02/07 @08:00 US EST**  
+> *02/07 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1300 Portugal*  
+> *02/07 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
+> **Implementation of a Transnational Testbed with Layer 3 SDX**  
+> By Dr. Te-Lung Liu, National Center for High-performance Computing, Taiwan  
+> [Abstract and Webinar Recording](https://vimeo.com/255599894)
+
+> **2018/02/13 @18:00 US EST**  
+> *02/13 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
+> *02/14 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
+> **Dynamic Information Flow for IoT in Hardware**  
+> By Dr. Daniela Oliveira, University of Florida, USA  
+> [Abstract and Webinar Recording](https://vimeo.com/255664003)
+
+> **2018/02/28 @20:00 US EST**  
+> *02/28 at 1500 Hawaii | 1700 US Pacific | 1800 US Mountain | 03/01 at 0200 Portugal*  
+> *03/01 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
+> **Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
+> By Dr. Tho Nguyen, University of Virginia, USA  
+> [Abstract and Webinar Recording](https://vimeo.com/258136880)
+
+> **2018/03/13 @20:00 US EDT**  
+> *03/13 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain | 0000 Midnight Portugal*  
+> *03/14 at 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
+> **Camera Sensor Technology and Automatic Traffic Control**  
+> By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
+> [Abstract and Webinar Recording](https://vimeo.com/276162100)
+
+> **2018/03/28 @10:00 US EDT**  
+> *03/28 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
+> *03/28 at 2100 Indonesia/Thailand/Vietnam | 2200 Taiwan/Malaysia/The Philippines | 2300 Japan/S. Korea*  
+> **SafeFS: Secure Software-Defined Storage**  
+> By Dr. João Paulo, INESC TEC, Portugal  
+> [Abstract and Webinar Recording](https://vimeo.com/globalcentra/safefs)
+
+> **2018/04/10 @10:00 US EDT**  
+> *04/10 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
+> *04/10 at 2100 Indonesia/Thailand/Vietnam | 2200 Taiwan/Malaysia/The Philippines | 2300 Japan/S. Korea*  
+> **SafeDB: Secure Database Processing**  
+> By Dr. Francisco Maia, INESC TEC, Portugal  
+> [Abstract and Webinar Recording](https://vimeo.com/globalcentra/SafeDB)
+
+> **2018/04/25 @21:00 US EDT**  
+> *04/25 at 1500 Hawaii | 1800 US Pacific | 1900 US Mountain | 04/26 at 0200 Portugal*  
+> *04/26 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
+> **Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
+> By Dr. Shyhtsun Felix Wu, University of California at Davis, USA  
+> [Abstract and Webinar Recording](https://vimeo.com/276910482)
+
+---
+
+## 2019 Webinars
+
+**Recordings Note**  
+*Recordings of the 2019 webinars were made available within 7 days after each event. 2016–2018 webinar recordings are also on [CENTRA's Vimeo channel](https://goo.gl/nUjf6F).*
+
+### Spring 2019 Global CENTRA Webinar Series
+
+Global CENTRA invited attendees to the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose was also to engage international researchers in transnational collaborations. Presentations included descriptions of specific areas or questions for collaboration, and participants were encouraged to follow up with presenters.
+
+> **2019/01/17 @20:00 US EST**  
+> *01/17 at 1500 Hawaii | 1700 US Pacific | 1800 US Mountain*  
+> *01/18 at 0100 Portugal | 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
+> **Integrating Autonomy into Transportation Systems**  
+> By Dr. Cathy Wu, Microsoft Research AI, USA  
+> [Abstract and Video Recording](https://vimeo.com/319636804)
+
+> **2019/03/21 @08:00 US EDT**  
+> *03/21 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1200 Portugal*  
+> *03/21 at 1900 Indonesia/Thailand/Vietnam | 2000 Taiwan/Malaysia/The Philippines | 2100 Japan/S. Korea*  
+> **Machine Learning and Application in Remote Sensing**  
+> By Dr. Alina Zare, University of Florida, USA  
+> [Abstract and Video Recording](https://vimeo.com/325987097)
+
+> **2019/04/10 @20:00 US EDT**  
+> *04/10 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain*  
+> *04/11 at 0100 Portugal | 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
+> **ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**  
+> By Dr. Ryuosei Takano, AIST, Japan  
+> [Abstract and Video Recording](https://vimeo.com/330841817)
+
+Future webinar information for 2019 was updated on the site as it became available.
+
+---
+
+## 2020–2021 Webinars
+
+**Recordings Note**  
+*Recordings of 2020 webinars were made available within 7 days after each event. 2016–2019 webinar recordings are also on [CENTRA's Vimeo channel](https://goo.gl/nUjf6F).*
+
 <!-- Item 1-->
-<div class="row row-content align-items-center vertical-align row-m">
+<div style="margin-top: 0" class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
         <h4 id="10072020webinar">Date: 10/7/2020</h4>
         9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+Differential+Privacy+and+its+Applications+on+Data+Release+and+Data+Collection.&iso=20201007T13">Convert to local time</a>
@@ -48,7 +141,7 @@ hide: true
         <a href="https://vimeo.com/469061308" style="font-size: 125%">Video Recording</a><br>
         Speaker: Dr. Chia-Mu Yu<br>
         Department of Information Management and Finance, <a href="https://www.nctu.edu.tw/en">National Chiao Tung University</a>, Taiwan
-        <h4>Short Abstract</h4> Differential privacy can be seen as a de-facto standard for data privacy. Compared to the conventional de-identification approaches such as k-anonymization, l-diversity, and t-closeness, differential privacy can not only have a provable privacy guarantee but also achieve better data utility. Differential privacy has been deployed by government agencies such as the U.S. Census Bureau and commercial companies such as Apple, Google, and Facebook. In this talk, we will overview how differential privacy helps data release and data collection without sacrificing personal privacy.<br> 
+        <h4>Short Abstract</h4> Differential privacy can be seen as a de-facto standard for data privacy. Compared to the conventional de-identification approaches such as k-anonymization, l-diversity, and t-closeness, differential privacy can not only have a provable privacy guarantee but also achieve better data utility. Differential privacy has been deployed by government agencies such as the U.S. Census Bureau and commercial companies such as Apple, Google, and Facebook. In this talk, we will overview how differential privacy helps data release and data collection without sacrificing personal privacy.<br>
     </div>
     <div class="col-xs-12 col-md-4">
         <img src="../img/members/Chia-Mu_Yu.jpg" class="pull-right" alt="Photo of Chia-Mu Yu" title="Photo of Chia-Mu Yu">
@@ -57,7 +150,7 @@ hide: true
 <!-- Item 2-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-sm-8">
-        <h4 id="10212020webinar">Date:10/21/2020</h4><p>
+        <h4 id="10212020webinar">Date:10/21/2020</h4>
         9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+KISTI+Supercomputing+for+COVID-19+Challenges&iso=20201021T13">Convert to local time</a>
         <h3>KISTI Supercomputing for COVID-19 Challenges</h3>
         <a href="https://vimeo.com/475215465" style="font-size: 125%">Video Recording</a><br>
@@ -73,7 +166,7 @@ hide: true
 <!-- Item 3-->
 <div class="row row-content align-items-center vertical-align row-m" style="padding-top: 0px;">
     <div class="col-xs-12 col-md-8">
-        <h4 id="11042020webinar">Date:11/04/2020</h4><p>
+        <h4 id="11042020webinar">Date:11/04/2020</h4>
         9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+Edge+X+and+IoT+technology+(KISTI)&iso=20201104T14&p1=%3A">Convert to local time</a>
         <h3>Edge X and IoT technology (KISTI)</h3>
         <a href="https://vimeo.com/477736575" style="font-size: 125%">Video Recording</a><br>
@@ -89,10 +182,10 @@ hide: true
 <!-- Item 4-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="11182020webinar">Date: 11/18/2020</h4><p>
+        <h4 id="11182020webinar">Date: 11/18/2020</h4>
         9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+Edge+intelligence%3A+QoS-Cost+tradeoff+for+learning-based+services+at+the+edge&iso=20201111T14">Convert to local time</a></a>
         <h3>Edge intelligence: QoS-Cost tradeoff for learning-based services at the edge</h3>
-        <a href="https://vimeo.com/485713393" style="font-size: 125%">Video Recording</a><br> 
+        <a href="https://vimeo.com/485713393" style="font-size: 125%">Video Recording</a><br>
         Speaker: Dr. Hana Khamfroush<br>
         <a href="https://www.uky.edu/">University of Kentucky</a>
         <h4>Short Abstract</h4>
@@ -105,8 +198,8 @@ hide: true
 <!-- Item 5-->
 <div class="row row-content vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="12022020webinar">Date: 12/2/2020</h4><p>
-        9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=InterConnect%3A+European+large+scale+demonstration+of+IoT+interoperability&iso=20201202T14">Convert to local time</a> 
+        <h4 id="12022020webinar">Date: 12/2/2020</h4>
+        9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=InterConnect%3A+European+large+scale+demonstration+of+IoT+interoperability&iso=20201202T14">Convert to local time</a>
         <h3>InterConnect: European large scale demonstration of IoT interoperability</h3>
         <a href="https://vimeo.com/488132319" style="font-size: 125%">Video Recording</a><br>
         Speaker: Dr. Fábio Coelho, <a href="https://www.inesctec.pt/en">INESC TEC</a>, Portugal<br>
@@ -120,14 +213,14 @@ hide: true
 <!-- Item 6-->
 <div class="row row-content vertical-align row-m">
 <div class="col-xs-12 col-md-8">
-    <h4 id="12162020webinar">Date: 12/16/2020</h4><p>
-    9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+EdgeVPN.io&iso=20201216T14">Convert to local time</a> 
+    <h4 id="12162020webinar">Date: 12/16/2020</h4>
+    9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+EdgeVPN.io&iso=20201216T14">Convert to local time</a>
     <h3>EdgeVPN.io: Software-Defined Overlay Virtual Private Networks for Edge Computing</h3>
     <a href="https://vimeo.com/496618642" style="font-size: 125%">Video Recording</a><br>
     Speaker: Dr. Renato Figueiredo<br>
     <a href="https://www.ufl.edu/">University of Florida</a>
     <h4>Short Abstract</h4>
-        Edge and fog computing encompass a variety of technologies that are poised to enable new applications across the Internet that support data capture, storage, processing, and communication across the networking continuum: from Internet-of-Things (IoT) devices to edge and cloud data centers. These environments pose unique challenges to the design and implementation of networks: membership can be dynamic, devices are heterogeneous, widely distributed geographically and/or mobile, and potentially assigned private IP addresses constrained by policies of different NAT (Network Address Translation) and firewall middleboxes. This talk overviews EdgeVPN.io, an open-source, software-defined network (SDN) that addresses challenges in the deployment of virtual networks spanning distributed edge and cloud resources. In particular, the talk describes the Evio software architecture, how it leverages standards and open-source software for firewall/NAT traversal (XMPP, STUN, TURN, and WebRTC), how it integrates with open-source SDN software switches (Open vSwitch), and how it supports deployment of unmodified container-based middleware and services (Docker, Kubernetes, and Flannel). 
+        Edge and fog computing encompass a variety of technologies that are poised to enable new applications across the Internet that support data capture, storage, processing, and communication across the networking continuum: from Internet-of-Things (IoT) devices to edge and cloud data centers. These environments pose unique challenges to the design and implementation of networks: membership can be dynamic, devices are heterogeneous, widely distributed geographically and/or mobile, and potentially assigned private IP addresses constrained by policies of different NAT (Network Address Translation) and firewall middleboxes. This talk overviews EdgeVPN.io, an open-source, software-defined network (SDN) that addresses challenges in the deployment of virtual networks spanning distributed edge and cloud resources. In particular, the talk describes the Evio software architecture, how it leverages standards and open-source software for firewall/NAT traversal (XMPP, STUN, TURN, and WebRTC), how it integrates with open-source SDN software switches (Open vSwitch), and how it supports deployment of unmodified container-based middleware and services (Docker, Kubernetes, and Flannel).
     </div>
     <div class="col-xs-12 col-md-4">
         <img src="../img/members/Renato_Figueiredo_portrait.jpg" class="pull-right" alt="Photo of Renato Figueiredo" title="Photo of Renato Figueiredo">
@@ -136,8 +229,8 @@ hide: true
 <!-- Item 7-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="01202021webinar">Date: 1/20/2021</h4><p>
-        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=STAYAWAY+COVID&iso=20210120T14&p1=%3A">Convert to local time</a> 
+        <h4 id="01202021webinar">Date: 1/20/2021</h4>
+        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=STAYAWAY+COVID&iso=20210120T14&p1=%3A">Convert to local time</a>
         <h3>STAYAWAY COVID</h3>
         <a href="https://vimeo.com/505276386" style="font-size: 125%">Video Recording</a><br>
         Speaker: Dr. Rui Oliveira, <a href="https://www.inesctec.pt/en">INESC TEC</a><br>
@@ -147,12 +240,12 @@ hide: true
     <div class="col-xs-12 col-md-4">
         <img src="../img/members/rui_oliveira.jpeg" class="pull-right" alt="Photo of Rui Oliveira" title="Photo of Rui Oliveira">
     </div>
-</div>   
+</div>
 <!-- Item 8-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="02032021webinar">Date: 2/03/2021</h4><p>
-        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI-Support+Network+Control+and+Management+towards+Beyond+5G+Era&iso=20210203T14&p1=%3A">Convert to local time</a> 
+        <h4 id="02032021webinar">Date: 2/03/2021</h4>
+        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI-Support+Network+Control+and+Management+towards+Beyond+5G+Era&iso=20210203T14&p1=%3A">Convert to local time</a>
         <h3>AI-Support Network Control and Management towards Beyond 5G Era</h3>
         <a href="https://vimeo.com/510312766" style="font-size: 125%"> Video Recording</a><br>
         Speaker: Dr. Hiroaki Harai, <a href="https://www.nict.go.jp/en/">NICT</a>, Japan<br>
@@ -166,7 +259,7 @@ hide: true
 <!-- Item 9-->
 <div class="row row-content align-items-center vertical-align row-m">
    <div class="col-xs-12 col-md-8">
-        <h4 id="02172021webinar">Date: 2/17/2021</h4><p>
+        <h4 id="02172021webinar">Date: 2/17/2021</h4>
         9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=GlobalCENTRA+Webinar%3A+Dynamic+Interactions+between+Human+and+Information+in+Complex+Online+Environme&iso=20210217T14">Convert to local time</a>
         <h3>Dynamic Interactions between Human and Information in Complex Online Environments Responding to SARS-COV-2</h3>
         <a href="https://vimeo.com/515952129" style="font-size: 125%"> Video Recording</a><br>
@@ -182,8 +275,8 @@ hide: true
 <!-- Item 10-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="03032021webinar">Date: 3/3/2021</h4><p>
-        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Management+of+geospatial+time+series+from+ship+measurements+in+the+scope+of+the+AIR_DataNet+infrastr&iso=20210303T14">Convert to local time</a> 
+        <h4 id="03032021webinar">Date: 3/3/2021</h4>
+        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Management+of+geospatial+time+series+from+ship+measurements+in+the+scope+of+the+AIR_DataNet+infrastr&iso=20210303T14">Convert to local time</a>
         <h3>Management of geospatial time series from ship measurements in the scope of the AIR_DataNet infrastructure</h3>
         <a href="https://vimeo.com/522326448" style="font-size: 125%"> Video Recording </a><br>
         Speaker:  Dr. Susana Barbosa, <a href="https://www.inesctec.pt/en">INESC TEC</a><br>
@@ -197,8 +290,8 @@ hide: true
 <!-- Item 11-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="03172021webinar">Date: 3/17/2021</h4><p>
-        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=IoT+Edge+Computing+Technologies&iso=20210317T13">Convert to local time</a> 
+        <h4 id="03172021webinar">Date: 3/17/2021</h4>
+        9 AM Eastern |  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=IoT+Edge+Computing+Technologies&iso=20210317T13">Convert to local time</a>
         <h3>IoT Edge Computing Technologies</h3>
         <a href="https://vimeo.com/533161052" style="font-size: 125%"> Video Recording </a><br>
         Speaker:   Dr. Yuuichi Teranishi, <a href="https://www.nict.go.jp/en/">NICT</a>, Japan<br>
@@ -211,8 +304,8 @@ hide: true
 <!--Item 12-->
 <div class="row row-content align-items-center vertical-align row-m">
     <div class="col-xs-12 col-md-8">
-        <h4 id="03312021webinar">Date: 3/31/2021</h4><p>
-        9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+full-scale+experiment+testbed+of+building+green+energy+technology+%E2%80%93+The+SPIN+Lab+in+Taiwan+&iso=20210331T09&p1=2132&ah=1">Convert to local time</a> 
+        <h4 id="03312021webinar">Date: 3/31/2021</h4>
+        9 AM Eastern | <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+full-scale+experiment+testbed+of+building+green+energy+technology+%E2%80%93+The+SPIN+Lab+in+Taiwan+&iso=20210331T09&p1=2132&ah=1">Convert to local time</a>
         <h3>The full-scale experiment testbed of building green energy technology – The SPIN Lab in Taiwan </h3>
         <a href="https://vimeo.com/534428231" style="font-size: 125%"> Video Recording </a><br>
         Speaker:   Dr. Yen-Jong Chen, <a href="https://web.ncku.edu.tw/">National Cheng Kung University</a>, Taiwan<br>
@@ -221,4 +314,7 @@ hide: true
     <div class="col-xs-12 col-md-4">
         <img src="../img/members/Chen-2019-2020.resized.jpg" class="pull-right" alt="Photo of Yen-Jong Chen" title="Photo of Yen-Jong Chen">
     </div>
-    </div>
+</div>
+
+**For additional webinar series information**
+- Visit [CENTRA's Vimeo channel](https://goo.gl/nUjf6F) for all available webinar recordings from 2016 to the most recent year.
