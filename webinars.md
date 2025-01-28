@@ -6,7 +6,7 @@ feature-img: img/header-nologo.jpg
 published: true
 ---
 
-# Global CENTRA Webinars Archive (2018–2021)
+# Global CENTRA Webinars
 
 Below you will find an archive of Global CENTRA webinars organized by year. Each section includes webinar dates, times, speakers, and links to abstracts and/or recordings (where available).
 
