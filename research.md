@@ -16,7 +16,7 @@ The related middleware research seeks solutions for software-defined data sharin
 
 # Working Groups and Projects
 
-Click [here](/projects.html) to know about projects and working groups. 
+Click [here](/projects.html) to learn about projects and working groups. 
 
 
 # Testbeds and Resources
