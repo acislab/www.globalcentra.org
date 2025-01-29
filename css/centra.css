@@ -120,3 +120,34 @@ margin-bottom: 1em;
     padding-top: 10px;
     padding-bottom: 10px;
   }
+
+.gap-responsive {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0px;  /* Default small gap for mobile */
+}
+
+@media (min-width: 768px) {
+    .gap-responsive {
+        /*gap: 40px;  !* Larger gap for desktop *!*/
+        /*margin-right: 40px;*/
+    }
+    .img-container {
+        padding: 20px
+    }
+}
+
+@media (max-width: 500px) {
+    .gap-responsive {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}
+
+.img-rounded {
+    max-width: 150px; !important;
+    width: 100%;
+}
+
+
