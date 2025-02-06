@@ -8,7 +8,7 @@ published: true
 
 # Global CENTRA Webinars
 
-Learn about ongoing and proposed CENTRA transnational collaborative research topics through CENTRA webinars. Webinar presentations include descriptions of specific technical areas or questions where collaborations are desirable and attendees have the opportunity to follow up with presenters on their interest in engaging in such collaborations. The Global CENTRA Webinars are free and open to all, regardless of whether attendees have been involved in CENTRA member organizations or not. We invite colleagues and students interested in the webinar topics or in interacting with the speakers and CENTRA researchers!
+Learn about ongoing and proposed CENTRA transnational collaborative research topics through CENTRA webinars. Webinar presentations include descriptions of specific technical areas or questions where collaborations are desirable. Attendees have the opportunity to follow up with presenters on their interest in engaging in the collaborations. The Global CENTRA Webinars are free and open to all, regardless of whether attendees have been involved in CENTRA member organizations or not. We invite colleagues and students interested in the webinar topics or in interacting with the speakers and CENTRA researchers!
 
 ---
 
