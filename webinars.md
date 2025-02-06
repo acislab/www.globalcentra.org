@@ -11,8 +11,17 @@ published: true
 Learn about ongoing and proposed CENTRA transnational collaborative research topics through CENTRA webinars. Webinar presentations include descriptions of specific technical areas or questions where collaborations are desirable. Attendees have the opportunity to follow up with presenters on their interest in engaging in the collaborations. The Global CENTRA Webinars are free and open to all, regardless of whether attendees have been involved in CENTRA member organizations or not. We invite colleagues and students interested in the webinar topics or in interacting with the speakers and CENTRA researchers!
 
 ---
+## 2020–2021 Webinars
+
+## 2019 Webinars
 
 ## 2018 Webinars
+
+**For additional webinar series information**
+- Visit [CENTRA's Vimeo channel](https://goo.gl/nUjf6F) for all available webinar recordings from 2016 to the most recent year.
+
+  
+<!-- ## 2018 Webinars
 
 **Recordings Note**  
 *Recordings of 2016–2018 webinars are available on [CENTRA's Vimeo channel](https://goo.gl/nUjf6F).*
@@ -315,6 +324,5 @@ Future webinar information for 2019 was updated on the site as it became availab
         <img src="../img/members/Chen-2019-2020.resized.jpg" class="pull-right" alt="Photo of Yen-Jong Chen" title="Photo of Yen-Jong Chen">
     </div>
 </div>
+-->
 
-**For additional webinar series information**
-- Visit [CENTRA's Vimeo channel](https://goo.gl/nUjf6F) for all available webinar recordings from 2016 to the most recent year.
