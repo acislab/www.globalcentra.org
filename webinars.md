@@ -12,10 +12,13 @@ Learn about ongoing and proposed CENTRA transnational collaborative research top
 
 ---
 ## 2020–2021 Webinars
+ [Presenters, Abstracts, Video Recordings](https://www.globalcentra.org/2020-2021webinars/)
 
 ## 2019 Webinars
+ [Presenters, Abstracts, Video Recordings](https://www.globalcentra.org/2019webinars/)
 
 ## 2018 Webinars
+ [Presenters, Abstracts, Video Recordings](https://www.globalcentra.org/2018webinars/)
 
 **For additional webinar series information**
 - Visit [CENTRA's Vimeo channel](https://goo.gl/nUjf6F) for all available webinar recordings from 2016 to the most recent year.
@@ -133,9 +136,9 @@ Global CENTRA invited attendees to the following webinars to learn about ongoing
 > [Abstract and Video Recording](https://vimeo.com/330841817)
 
 Future webinar information for 2019 was updated on the site as it became available.
-
+-->
 ---
-
+<!--
 ## 2020–2021 Webinars
 
 **Recordings Note**  
