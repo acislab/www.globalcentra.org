@@ -6,6 +6,37 @@ permalink: /projects/
 published: true
 ---
 <div class="row row-md-12" style="text-align: left; display: flex; flex-direction: column;">
+	<!--	Fullscreen image functionality	-->
+	<div id="fullscreen-container" class="fullscreen">
+		<img id="fullscreen-image">
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			const images = document.querySelectorAll(".clickable-image");
+			const fullscreenContainer = document.getElementById("fullscreen-container");
+			const fullscreenImage = document.getElementById("fullscreen-image");
+
+			if (images.length === 0) {
+				console.error("No images found with the class 'clickable-image'.");
+			}
+
+			// Attach click event to each image
+			images.forEach(img => {
+				img.addEventListener("click", function () {
+					fullscreenImage.src = this.src; // Copy the clicked image src
+					fullscreenContainer.style.display = "flex"; // Show the overlay
+				});
+			});
+
+			// Close fullscreen when clicking outside the image
+			fullscreenContainer.addEventListener("click", function (e) {
+				if (e.target === fullscreenContainer) { // Ensures clicking outside the image closes the overlay
+					fullscreenContainer.style.display = "none";
+				}
+			});
+		});
+	</script>
+
 	<div>
 		<div style="text-align: left; display: flex; padding-left: 1em" >
 			CENTRA projects are developed through the rich discussions and interactions at CENTRA meetings. The collaborative projects combine the expertise, ideas, and experiences of our international community of scientists, educators, policy makers, and citizens.
@@ -82,13 +113,13 @@ published: true
 
 				<div class="row gap-responsive" style="display: flex;  flex-direction: row;">
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Tsai 2.jpg" alt="Tsai 2">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Tsai 2.jpg" alt="Tsai 2">
 					</div>
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Tsai 3.jpg" alt="Tsai 2">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Tsai 3.jpg" alt="Tsai 2">
 					</div>
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Tsai 1.png" alt="Tsai 2">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Tsai 1.png" alt="Tsai 2">
 					</div>
 
 				</div>
@@ -124,10 +155,10 @@ published: true
 
 				<div class="row gap-responsive" style="display: flex;  flex-direction: row;">
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Weicheng 1.png" alt="Weicheng 1">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Weicheng 1.png" alt="Weicheng 1">
 					</div>
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Weicheng 2.png" alt="Weicheng 1">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Weicheng 2.png" alt="Weicheng 1">
 					</div>
 				</div>
 			</div>
@@ -162,16 +193,16 @@ published: true
 
 				<div class="row gap-responsive" style="display: flex;  flex-direction: row;">
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Yang 2.jpg" alt="Yang 2">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Yang 2.jpg" alt="Yang 2">
 					</div>
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Yang 3.jpg" alt="Yang 3">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Yang 3.jpg" alt="Yang 3">
 					</div>
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Yang 1.png" alt="Yang 1">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Yang 1.png" alt="Yang 1">
 					</div>
 					<div class="img-container" style="display: flex; flex-direction: column; ">
-						<img class="img-responsive img-rounded img-size" src="../img/projects/Yang 1a.png" alt="Yang 1a">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/projects/Yang 1a.png" alt="Yang 1a">
 					</div>
 				</div>
 			</div>
@@ -254,6 +285,29 @@ I set a maximum width of 150px for images, if you have a landscape image or othe
 style="max-width: 150px;" to the img tag.
 example:
 	<img style="max-width: 150px;" />
+
+
+**EDIT - 02-12-2025 **
+
+I added a single title, multi image layout.
+You can accomplish this by moving the title outside of row div. It looks like this:
+
+	<div>
+		Contact: Manuel Luciano
+	</div>
+	<div class="row gap-responsive" style="display: flex; flex-direction: row;">
+			<div class="img-container" style="display: flex; flex-direction: column;">
+				...
+			</div>
+			<div class="img-container" style="display: flex; flex-direction: column;">
+				...
+			</div>
+			<div class="img-container" style="display: flex; flex-direction: column;">
+				...
+			</div>
+	</div>
+
+	See the AUAV or Federated learning framework for an example.
 -->
 
 				<!--		SINGLE IMAGE WITH SINGLE TITLE		-->
@@ -262,7 +316,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">
 					</div>
 				</div>
 
@@ -331,7 +385,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: Te-Lung Liu <br>Email: tlliu (at) nchc (dot) narl (dot) org (dot) tw
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/telungliu.jpg" alt="Te-Lung Liu">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/telungliu.jpg" alt="Te-Lung Liu">
 					</div>
 				</div>
 			</div>
@@ -357,7 +411,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: João Paulo <br>Email: jtpaulo (at) inesctec (dot) pt
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/JoaoPaulo.png" alt="Joao Paulo">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/JoaoPaulo.png" alt="Joao Paulo">
 					</div>
 				</div>
 			</div >
@@ -377,7 +431,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: Beth Plale <br>Email: plale (at) indiana (dot) edu
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/bethplale.jpg" alt="Beth Plale">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/bethplale.jpg" alt="Beth Plale">
 					</div>
 				</div>
 			</div>
@@ -401,7 +455,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: Jason Haga <br>Email: jh (dot) haga (at) aist (dot) go (dot) jp
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/jasonhaga.jpg" alt="Jason Haga">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/jasonhaga.jpg" alt="Jason Haga">
 					</div>
 				</div>
 			</div>
@@ -427,7 +481,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: Renato Figueiredo <br>Email: renato (at) acis (dot) ufl (dot) edu
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/renatofigueiredo.jpg" alt="Renato Figueiredo">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/renatofigueiredo.jpg" alt="Renato Figueiredo">
 					</div>
 				</div>
 			</div>
@@ -453,7 +507,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: James Beach <br>Email: beach (at) ku (dot) edu
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/jamesbeach.jpg" alt="James Beach">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/jamesbeach.jpg" alt="James Beach">
 					</div>
 				</div>
 			</div>
@@ -501,7 +555,7 @@ example:
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
 							Contact: Ling-Jyh Chen <br>Email: cclljj (at) gmail (dot) com
 						</div>
-						<img class="img-responsive img-rounded img-size" src="../img/members/lingjyhchen.jpg" alt="Ling-Jyh Chen">
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/lingjyhchen.jpg" alt="Ling-Jyh Chen">
 					</div>
 				</div>
 			</div>
