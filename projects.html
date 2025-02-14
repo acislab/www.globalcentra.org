@@ -256,61 +256,6 @@ published: true
 					<br>
 				</div>
 
-<!--
-INSTRUCTIONS ON HOW TO ADD IMAGES 1/29/2025
-
-For this first project you will find several layout examples that can be uncommented and viewed:
-
-	1. Single image, single title
-	2. Multi image, multi title
-	3. Images only
-
-Items on a row will shrink to flex, I recommend no more than 4 items per row for visibility reasons.
-
-A new row is started by opening a new div like so:
-
-	<div class="row gap-responsive" style="display: flex; flex-direction: row;">
-		...
-	</div>
-
-Within a row, you add an item by adding a div like so:
-
-	<div class="img-container" style="display: flex; flex-direction: column;">
-		...
-	</div>
-
-As you can see from the examples, an item can have an image + title or just be a plain image.
-
-I set a maximum width of 150px for images, if you have a landscape image or otherwise need to adjust that, you can add
-style="max-width: 150px;" to the img tag.
-example:
-	<img style="max-width: 150px;" />
-
-
-**EDIT - 02-12-2025 **
-
-I added a single title, multi image layout.
-You can accomplish this by moving the title outside of row div. It looks like this:
-
-	<div>
-		Contact: Manuel Luciano
-	</div>
-	<div class="row gap-responsive" style="display: flex; flex-direction: row;">
-			<div class="img-container" style="display: flex; flex-direction: column;">
-				...
-			</div>
-			<div class="img-container" style="display: flex; flex-direction: column;">
-				...
-			</div>
-			<div class="img-container" style="display: flex; flex-direction: column;">
-				...
-			</div>
-	</div>
-
-	See the AUAV or Federated learning framework for an example.
--->
-
-				<!--		SINGLE IMAGE WITH SINGLE TITLE		-->
 				<div class="row gap-responsive" style="display: flex; flex-direction: row;">
 					<div class="img-container" style="display: flex; flex-direction: column;">
 						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
@@ -320,50 +265,7 @@ You can accomplish this by moving the title outside of row div. It looks like th
 					</div>
 				</div>
 
-				<!--		MULTI IMAGE MULTI TITLE		-->
-<!--				<div class="row gap-responsive" style="display: flex; flex-direction: row;">-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
-<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
-<!--						</div>-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
-<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
-<!--						</div>-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
-<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
-<!--						</div>-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
-<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
-<!--						</div>-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--				</div>-->
 
-
-				<!--		MULTI IMAGE 		-->
-<!--				<div class="row gap-responsive" style="display: flex; flex-direction: row;">-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
-<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
-<!--					</div>-->
-<!--				</div>-->
 
 			</div >
 
@@ -566,3 +468,111 @@ You can accomplish this by moving the title outside of row div. It looks like th
 
 </div>
 
+<!--
+INSTRUCTIONS ON HOW TO ADD IMAGES 1/29/2025
+
+For this first project you will find several layout examples that can be uncommented and viewed:
+
+	1. Single image, single title
+	2. Multi image, multi title
+	3. Images only
+
+Items on a row will shrink to flex, I recommend no more than 4 items per row for visibility reasons.
+
+A new row is started by opening a new div like so:
+
+	<div class="row gap-responsive" style="display: flex; flex-direction: row;">
+		...
+	</div>
+
+Within a row, you add an item by adding a div like so:
+
+	<div class="img-container" style="display: flex; flex-direction: column;">
+		...
+	</div>
+
+As you can see from the examples, an item can have an image + title or just be a plain image.
+
+I set a maximum width of 150px for images, if you have a landscape image or otherwise need to adjust that, you can add
+style="max-width: 150px;" to the img tag.
+example:
+	<img style="max-width: 150px;" />
+
+
+**EDIT - 02-12-2025 **
+
+I added a single title, multi image layout.
+You can accomplish this by moving the title outside of row div. It looks like this:
+
+	<div>
+		Contact: Manuel Luciano
+	</div>
+	<div class="row gap-responsive" style="display: flex; flex-direction: row;">
+			<div class="img-container" style="display: flex; flex-direction: column;">
+				...
+			</div>
+			<div class="img-container" style="display: flex; flex-direction: column;">
+				...
+			</div>
+			<div class="img-container" style="display: flex; flex-direction: column;">
+				...
+			</div>
+	</div>
+
+	See the AUAV or Federated learning framework for an example.
+-->
+
+				<!--		SINGLE IMAGE WITH SINGLE TITLE		-->
+<!--			<div class="row gap-responsive" style="display: flex; flex-direction: row;">
+					<div class="img-container" style="display: flex; flex-direction: column;">
+						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
+							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu
+						</div>
+						<img class="img-responsive img-rounded img-size clickable-image" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">
+					</div>
+				</div> -->
+
+				<!--		MULTI IMAGE MULTI TITLE		-->
+<!--				<div class="row gap-responsive" style="display: flex; flex-direction: row;">-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
+<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
+<!--						</div>-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
+<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
+<!--						</div>-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
+<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
+<!--						</div>-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">-->
+<!--							Contact: Jason Leigh <br>Email: leighj (at) hawaii (dot) edu-->
+<!--						</div>-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--				</div>-->
+
+
+				<!--		MULTI IMAGE 		-->
+<!--				<div class="row gap-responsive" style="display: flex; flex-direction: row;">-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--					<div class="img-container" style="display: flex; flex-direction: column;">-->
+<!--						<img class="img-responsive img-rounded img-size" src="../img/members/jasonleigh.jpg" alt="Jason Leigh">-->
+<!--					</div>-->
+<!--				</div>-->
