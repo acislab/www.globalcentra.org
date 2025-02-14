@@ -101,9 +101,9 @@ CENTRA engages international entities in collaborative research activities in se
 
 # Funding
 
-Funding for CENTRA continues through the generosity of the [Partner - Institutional Members](https://www.globalcentra.org/members/) . Partners support one or more of the following activities: workshops, webinars, the annual meeting, sending their researchers to visit/collaborate with other partners, hosting CENTRA collaborations, and/or providing access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee.
+Funding for CENTRA continues through the generosity of our [Institutional Members](https://www.globalcentra.org/members/), who support one or more of the following activities: workshops, webinars, the annual meeting, sending their researchers to visit/collaborate with other partners, hosting CENTRA collaborations, and/or providing access to cyberinfrastructure testbeds. Institutional members also provide administrative resources for communication and file management, as well as personnel for the Operations Committee.
 
-From its inception in 2015 until 2021, CENTRA was funded in the USA by the US National Science Foundation (NSF) under [grant NSF ACI 1550126](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550126) . CENTRA founding partners included the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of Taiwan, and the National Institute of Information and Communications Technologies (NICT), Japan.
+From its inception in 2015 until 2021, CENTRA was alsp funded in the USA by the US National Science Foundation (NSF) under [grant NSF ACI 1550126](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550126). 
 
 # Contact
 
