@@ -3,7 +3,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
 NSF_footer_text: >
-   CENTRA institutional members are responsible for supporting their institution’s participation in activities. Funding for the annual meeting is provided by the host institution. From CENTRA's inception in 2015 until 2021, USA participants and USA activities were also funded in part by the US National Science Foundation (NSF) under grant NSF ACI 1550126. <a href="https://www.globalcentra.org/about/">See the About page for more information.</a><br>
+   CENTRA institutional members are responsible for supporting their institution’s participation in activities. Funding for the annual meeting is provided by the host institution. From CENTRA's inception in 2015 until 2021, USA participants and USA activities were also funded in part by the US National Science Foundation (NSF) under grant NSF ACI 1550126. 
+    <br>
+    <a href="https://www.globalcentra.org/about/">See the About page for more information.</a><br>
 site_navigation_logo: <img src="/img/centra-logo.jpg" title="CENTRA logo" alt="CENTRA logo">
 
 # THEME-SPECIFIC CONFIGURATION
