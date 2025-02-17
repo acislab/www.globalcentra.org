@@ -26,7 +26,7 @@ The major international airport is [**Taoyuan International Airport (TPE)**](htt
 
 #### Ground Transportation from Taoyuan Airport to HsinChu
 Taoyuan Airport is located about 60 kilometers north from HsinChu. There are many options to reach Hsinchu from the airport:  
-*Ri Hao Bus*:  
+**Ri Hao Bus Strongly recommended**:  
 Ri Hao Bus has direct access from Taoyuan Airport to HsinChu, the nearest stop to the venue is NYCU stop (陽明交大光復路).
 Check [*the bus route and time table*](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=12500&rn=1622602799261&lan=E)
 
