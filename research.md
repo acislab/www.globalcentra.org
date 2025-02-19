@@ -25,7 +25,7 @@ The following testbeds and systems are available to CENTRA researchers.  Click o
 
 <img src="/img/starbed.jpg" style="float:right; padding: 0 0 1em 1em;" class="img-responsive" >
 * **Jetstream2** ([Jetstream2](https://jetstream-cloud.org/index.html)) - Located at Indiana University, Jetstream2 is an NSF-funded, user-friendly cloud environment designed to allow “always on” research infrastructure and to give researchers access to interactive computing and data analysis resources on demand, whenever and wherever they want to analyze their data.  It provides 8 petaFLOPS of supercomputing power to simplify data analysis, boost discovery, and increase availability of AI resources.
-* **Global Networking Expertise:** Indiana University manages global networks to 160 countries around the world and can facilitate dedicated capacity for research and education.
+* **Global Networking Expertise**  - Indiana University manages global networks to 160 countries around the world and can facilitate dedicated capacity for research and education.
 * **PRAGMA Experimental Network Testbed** ([PRAGMA-ENT](https://github.com/pragmagrid/pragma_ent/wiki)) - A breakable international software-defined network (SDN) testbed.
 * **Japan-wide Orchestrated Smart / Sensor Environment** ([JOSE](http://www.nict.go.jp/en/nrh/nwgn/jose.html)) - A testbed
 with a large number of wireless sensors, SDN capabilities, and distributed "CLOUD" resources.
