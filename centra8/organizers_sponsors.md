@@ -27,7 +27,6 @@ hide: true
 ## Local Organizing Committee
 -	Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
 -	SuFeng Chen, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
-- Ching Lee, National Center for High-performance Computing (NCHC), NARLabs,Taiwan
  
 ## Operations Committee
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
