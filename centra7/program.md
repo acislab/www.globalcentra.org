@@ -28,8 +28,10 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
 
-**Final Program**
-Please go to [Sched](https://centra7.sched.com/) for presentations and photos from the meeting
+<br>
+### Final Program<br> 
+<br>
+Please vist [Sched](https://centra7.sched.com/) for the presentations and photos from the meeting.
 <br> 
 
 ****
