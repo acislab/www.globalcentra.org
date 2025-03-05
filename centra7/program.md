@@ -8,7 +8,7 @@ hide: true
 ---
 
 # CENTRA 7 Program and Schedule <br> 
-# For the latest details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
+# For the latest details, schedule information, and presentation slides, please go to [Sched](https://centra7.sched.com/).<br> 
 ### (All times are Japan Standard Time (JST). For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
@@ -28,6 +28,9 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
 
+**Final Program**
+Please go to [Sched](https://centra7.sched.com/) for presentations and photos from the meeting
+<br> 
 
 ****
       February 6, Tuesday (火)
