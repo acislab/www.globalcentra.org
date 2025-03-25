@@ -6,11 +6,11 @@ permalink: /centra8/news.html
 published: true
 hide: true
 ---
-**Call For Submission**<br/>
+**Call For Submission Has Ended**<br/>
 We cordially invite you to submit your work for presentation at the upcoming CENTRA8 meeting. Please visit [**Abstract Submission**](https://globalcentra.org/centra8/workshop.html) for detailed submission instructions. <br/>
 
-**Call For Participation**<br/>
-The registration is now open, [**Register Here**](https://forms.gle/PMq8iGSjXKm6U4FAA) There is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. <br/>
+**Call For Participation Has Ended**<br/>
+The registration is now closed. <!-- [**Register Here**](https://forms.gle/PMq8iGSjXKm6U4FAA)  --> There is no fee for registration, but seats are limited. We encourage you to register soon to secure your spot. <br/>
 
 ## Call For Participation
 We are delighted to invite you all to attend the upcoming CENTRA8 meeting. Here are some of the highlights you can look forward to:
