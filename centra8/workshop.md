@@ -17,7 +17,7 @@ Authors are encouraged to submit original research, case studies, and innovative
 <!--[A draft schedule for the workshop is available via SCHED](https://centra6.sched.com/)-->
 
 ## Submission Guidelines:
-- Authors are required to submit their abstracts via [Abstract Submission Form]<!--(https://forms.gle/9vXfEKD95WiBwQLv6) --> and adhere to the provided instructions.
+- Authors are required to submit their abstracts via the Abstract Submission Form<!--(https://forms.gle/9vXfEKD95WiBwQLv6) --> and adhere to the provided instructions.
 - For technical paper tracks, all accepted papers will be archive in the [Zenodo Global Centra Community Collection](https://zenodo.org/communities/globalcentra).  Presentors should prepare their paper as a PDF file using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html), and send it to [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) before camera-ready deadline.
 - For project tracks, if authors wish to have their work archived in the [Zenodo Global Centra Community Collection](https://zenodo.org/communities/globalcentra), they should prepare an extended abstract as a PDF file using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html). This should be emailed to the [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) before the camera-ready deadline.
 
