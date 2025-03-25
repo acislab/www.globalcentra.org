@@ -9,7 +9,7 @@ hide: true
 
 ## Registration
 
-### Registration for CENTRA 8 is open till February 5, 2025. [Click here to register](https://forms.gle/mpZoojZULUBureiZ8). <br>
+### Registration for CENTRA 8 Has Ended. <br>
 <br>
 You will be confirmed to the event once your registration has been duly processed. <br>
 
