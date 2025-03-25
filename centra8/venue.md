@@ -30,10 +30,10 @@ An alternate route is to take the Rinkai Line and get off at Tokyo Teleport stat
 ### List of Nearby Hotels  
 The CENTRA 8 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the HsinChu area for a wide range of budgets. We are providing the following list of hotels for informational purposes only. The CENTRA 8 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
 
-* [Ho Hotel](https://www.thehohotel.com.tw/index.php?lang=en) (15-minute walk to venue; contract rate NTD2800/night for single occupancy and NTD3200/night for double occupancy, breakfast included. <!---**Complete [the reservation form](https://drive.google.com/file/d/1_rj6jgZs1mfovLxfcXyuvdkOgaaOfqxK/view?usp=drive_link) and email to the hotel for reservation before February 5, 2025.**. Contact [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) if you have any questions.)--->
+* [Ho Hotel](https://www.thehohotel.com.tw/index.php?lang=en) (15-minute walk to venue)<!---; contract rate NTD2800/night for single occupancy and NTD3200/night for double occupancy, breakfast included. <!---**Complete [the reservation form](https://drive.google.com/file/d/1_rj6jgZs1mfovLxfcXyuvdkOgaaOfqxK/view?usp=drive_link) and email to the hotel for reservation before February 5, 2025.**. Contact [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) if you have any questions.)--->
 * [Hotel Royal Hsinchu](https://www.hotelroyal.com.tw/en-us/hsinchu) (free shuttle to the venue)  
 * [Sheraton Hsinchu Hotel](https://www.sheraton-hsinchu.com/en/) (15-60-minute taxi ride to the venue, not recommended)  
-* [SOL Hotel](https://www.solhotel.com.tw/en/)(25-minute taxi ride to the venue)  
+* [SOL Hotel](https://www.solhotel.com.tw/en/) (25-minute taxi ride to the venue)  
 
 
 <!---
