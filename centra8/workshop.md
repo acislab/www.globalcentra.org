@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## Call for Submissions has Ended 
+## Call For Submissions Has Ended 
 ### New Project / Project News / Project Report
 We cordially invite CENTRA researchers, practitioners, and professionals to submit brief abstracts for ongoing project updates and new project proposals. CENTRA 8 will feature a "warm-up" session, offering a valuable opportunity to present your ideas, receive feedback, and connect with potential collaborators.
 
@@ -18,7 +18,7 @@ Authors are encouraged to submit original research, case studies, and innovative
 
 ## Submission Guidelines:
 - Authors are required to submit their abstracts via the Abstract Submission Form<!--(https://forms.gle/9vXfEKD95WiBwQLv6) --> and adhere to the provided instructions.
-- For technical paper tracks, all accepted papers will be archive in the [Zenodo Global Centra Community Collection](https://zenodo.org/communities/globalcentra).  Presentors should prepare their paper as a PDF file using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html), and send it to [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) before camera-ready deadline.
+- For technical paper tracks, all accepted papers will be archived in the [Zenodo Global Centra Community Collection](https://zenodo.org/communities/globalcentra).  Presenters should prepare their paper as a PDF file using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html), and send it to [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) before camera-ready deadline.
 - For project tracks, if authors wish to have their work archived in the [Zenodo Global Centra Community Collection](https://zenodo.org/communities/globalcentra), they should prepare an extended abstract as a PDF file using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html). This should be emailed to the [CENTRA8 Secretariat](mailto:centra8.secretariat@gmail.com) before the camera-ready deadline.
 
 ## Important Dates:
