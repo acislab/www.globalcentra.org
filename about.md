@@ -61,10 +61,8 @@ The Steering Committee consists of staff from Institutional Member Organizations
 *  Beth Plale, Indiana University (IU), USA
 *  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
 
-**Invited Members:**
-*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
-
 **Past Members:**
+*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
 *  Peter Arzberger, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
 *  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea
 *  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)

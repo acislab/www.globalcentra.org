@@ -25,9 +25,6 @@ Institutional members support one or more of the following activities: workshops
 *  [NCHC:](https://www.nchc.org.tw/?langid=2) National Center for High-Performance Computing, Taiwan
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
-**Invited Institutional Members:**
-*  [PRAGMA:](https://www.pragma-grid.net) Pacific Rim Application And Grid Middleware Assembly 
-
 <div id="researchers"> </div>
 
 # Researchers
