@@ -1,0 +1,14 @@
+---
+layout: centrameeting8
+title: CENTRA 2025
+permalink: /centra8/satellite_event.html
+"feature-img": img/centra8/centra8-banner-02.jpg
+published: true
+hide: true
+---
+
+
+## Satellite Events  
+
+CENTRA 8 is in conjunction with [HPC Asia 2025](https://event1.nchc.org.tw/hpcasia2025). We would like to invite you all to participate in the conference also.  
+
