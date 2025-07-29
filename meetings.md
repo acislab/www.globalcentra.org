@@ -12,7 +12,7 @@ published: true
  <!-- item 12  --> 
  <tr class="noBorder">
    <th class="noBorder"><img src="/img/centra9/centra9-banner.jpg"></th>
-   <th class="noBorder">CENTRA 9 Meeting, January 11-13, 2026, Pathumthani, Thailand <br> <a href="/centra9/">Website</a> </th>
+   <th class="noBorder">CENTRA 9 Meeting, January 11-13, 2026, Pathumthani, Thailand <br> <a href="/centra9/"></a> </th>
  </tr>
 
  <tr class="noBorder">
