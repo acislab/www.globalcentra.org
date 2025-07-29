@@ -9,6 +9,22 @@ published: true
 
 
  <table class="noBorder">
+ <!-- item 12  --> 
+ <tr class="noBorder">
+   <th class="noBorder"><img src="/img/centra9/centra9-banner.jpg"></th>
+   <th class="noBorder">CENTRA 9 Meeting, January 11-13, 2026, Pathumthani, Thailand <br> <a href="/centra9/">Website</a> </th>
+ </tr>
+
+ <tr class="noBorder">
+   <th class="noBorder"></th>
+
+ </tr>
+
+ <tr class="noBorder">
+   <th class="noBorder"></th>
+
+ </tr>
+  
  <!-- item 11  --> 
  <tr class="noBorder">
    <th class="noBorder"><img src="/img/centra8/centra8-banner-02.jpg"></th>
