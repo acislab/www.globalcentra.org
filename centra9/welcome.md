@@ -2,7 +2,7 @@
 layout: centrameeting9
 title: CENTRA 2025
 permalink: /centra9/
-"feature-img": img/centra8/centra9-banner.jpg
+"feature-img": img/centra9/centra9-banner.jpg
 published: true
 hide: true
 ---
