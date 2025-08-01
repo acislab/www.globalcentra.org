@@ -1,8 +1,8 @@
 ---
-layout: centrameeting8
+layout: centrameeting9
 title: CENTRA 2025
-permalink: /centra8/
-"feature-img": img/centra8/centra8-banner-02.jpg
+permalink: /centra9/
+"feature-img": img/centra8/centra9-banner.jpg
 published: true
 hide: true
 ---
