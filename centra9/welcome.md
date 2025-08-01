@@ -10,22 +10,23 @@ hide: true
 ## Welcome Message
 
 <p>
-<img src="/img/centra8/drChang.jpg" style="width:150px;" align="right"/>
+<img src="img/centra9/GeneralChairPic.jpg" style="width:150px;" align="right"/>
 </p>
 <p style="font-style:italic; font-size:small">
 <!-- note setting margin-left: 298px fixes the alignment on left side for paragraph -->  
 Dear Colleagues,<br /><br />
 
-On behalf of the CENTRA 8 organizing committee, the National Center for High-performance Computing (NCHC) at the National Research Laboratories (NARLabs), Taiwan is pleased to invite our colleagues from around the globe to the 8th CENTRA meeting on February 22-25, 2025, in Hsinchu, Taiwan. It is with great excitement and anticipation that we gather under the theme, <b>Bridging Innovation and Connectivity: Pioneering the Future of IT and LLM Collaboration</b>.
+It is a distinct honor to welcome you to CENTRA9, and to do so as a new member of this forward-looking and impactful community.
 <br /><br />
-As we embark on this journey together, we are poised at the intersection of groundbreaking technology and collaborative spirit. This year’s theme reflects our collective ambition to explore and harness the power of innovation and Large Language Models (LLMs) to drive the technology development forward. With the number 8 symbolizing luck and new beginnings, we feel blessed to continue our journey from the very venue where it all started.
+CENTRA stands out for its commitment to long-term, transnational collaboration—bringing together institutions, disciplines, and regions to co-develop cyberinfrastructure that supports real societal transformation. For Thammasat University, this meeting marks an important step in joining that mission.
 <br /><br />
-Your participation is invaluable. Your expertise, ideas, and experiences contribute to the rich tapestry of our discussions, and it is through our shared knowledge and collaboration that we can overcome challenges and seize new opportunities. We encourage you to take full advantage of the resources available, connect with your peers, and actively contribute to the dialogues that will shape our collective future.
-We are confident that this meeting will spark new ideas, foster meaningful partnerships, and ignite the innovations that will define the next era of IT. We look forward to an inspiring and productive event.
+This year’s theme, “Connected Intelligence and Technology for Sustainable Future Societies,” reflects our university’s aspiration to play an active role in advancing global research and innovation that serve the public good. Our team has worked to ensure that CENTRA9 provides not just a venue for presentation, but a platform for shaping ideas into shared initiatives—whether through working groups, design sprints, or informal conversations. We hope the week ahead helps catalyze new directions in your work and introduces new partners who will carry them forward with you.
+<br /><br />
+Thank you for contributing to this global dialogue. We are excited to support you throughout the meeting and look forward to the collaborations that may begin here.
 <br /><br />
 
-Dr. Chau-Lyan Chang<br />
-Director General<br />
-National Center for High-performance Computing<br />
-NARLabs, Taiwan<br />
+Asst. Prof. Wilawan Rukpakavong, Ph.D.<br />
+Head, Department of Computer Science<br />
+Faculty of Science and Technology<br />
+Thammasat University<br />
 </p>
