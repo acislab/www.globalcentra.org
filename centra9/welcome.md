@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CENTRA9 Welcome Message from the General Chair
+## Welcome to CENTRA9
 
 <p>
 <img src="/img/centra9/GeneralChairPic.jpg" style="width:150px;" align="right"/>
