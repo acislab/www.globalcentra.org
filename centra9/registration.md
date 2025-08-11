@@ -8,8 +8,6 @@ hide: true
 ---
 
 ## Registration
-
-### Registration for CENTRA 8 Has Ended. <br>
 <br>
 TBA
 
