@@ -6,8 +6,9 @@ permalink: /centra9/news.html
 published: true
 hide: true
 ---
-<br/>
-**Important Dates**
+
+## Important Dates
+<br>
 - All submission Deadline: TBA
 - Notification of Acceptance: TBA
 - Camera-ready Deadline: TBA
