@@ -16,8 +16,6 @@ Novotel Bangkok Future Park Rangsit, THANYABURI BALLROOM
 
 <img src="/img/centra9/Novotel Bangkok Future Park Rangsit_Hotel_THANYABURI_BALLROOM.png" style="width:100%;"/>
 
-Address: Novotel Bangkok Future Park Rangsit, 114 Paholyothin Road, Prachathipat, Thanyaburi, 12130 Pathum Thani, Thailand
-Phone: +66 2 520 2525
-
+<br>
 ### List of Nearby Hotels  
 TBA
