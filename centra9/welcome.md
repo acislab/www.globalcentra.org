@@ -1,6 +1,6 @@
 ---
 layout: centrameeting9
-title: CENTRA 2025
+title: CENTRA 2026
 permalink: /centra9/
 "feature-img": img/centra9/centra9-banner.jpg
 published: true
