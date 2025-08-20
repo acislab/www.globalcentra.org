@@ -9,9 +9,9 @@ hide: true
 
 # Welcome to CENTRA9
 
-<p>
+<!--<p>
 <img src="/img/centra9/GeneralChairPic.jpg" style="width:150px;" align="right"/>
-</p>
+</p>-->  
 <p style="font-size:small;">
 <!-- note setting margin-left: 298px fixes the alignment on left side for paragraph -->  
 It is a distinct honor to welcome you to CENTRA9, and to do so as a new member of this forward-looking and impactful community.
