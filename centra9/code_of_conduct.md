@@ -47,12 +47,12 @@ If you are not in immediate danger but feel that you are the subject of unaccept
 Conference organizers will treat all reports seriously and will work to understand the situation through prompt investigation, including conversations with relevant individuals and witnesses before determining an appropriate course of action.
 
 <br/>
-**Contact information to report an Incident**
-Dr. Wanida Putthividhya, Assistant Professor
-Department of Computer Science
-Thammasat University (Rangsit Campus)
-99 Paholyothin Road, Klong 1, Klong Hluang 
-Pathum Thani, 12121, Thailand.
+**Contact information to report an Incident**<br/>
+Dr. Wanida Putthividhya, Assistant Professor<br/>
+Department of Computer Science<br/>
+Thammasat University (Rangsit Campus)<br/>
+99 Paholyothin Road, Klong 1, Klong Hluang<br/> 
+Pathum Thani, 12121, Thailand.<br/>
 E-mail : pwanida@tu.ac.th
 
 
