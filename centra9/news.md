@@ -13,5 +13,5 @@ hide: true
 - Notification of Acceptance: TBA
 - Camera-ready Deadline: TBA
 - Registation and Hotel reservation Deadline: TBA
-- Event Date: TBA
+- Event Date: January 11-13, 2026
 <br/>
