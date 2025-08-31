@@ -8,33 +8,22 @@ hide: true
 ---
 
 ## Travel Information
-<br>
 TBA
 
-### Air Travel
 <br>
-TBA
-
-#### Ground Transportation from Taoyuan Airport to HsinChu
-<br>
-TBA
-
-*TAXI*: TBA
-
 ### Useful Information on Travelling
-<br>
 TBA
 
-#### Weather in February
 <br>
+#### Weather in January
 TBA
 
-#### Electricity in Taiwan
 <br>
+#### Electricity in Thailand
 TBA
 
+<br>
 #### Useful Links 
-<br>
 TBA
 
 
