@@ -31,6 +31,10 @@ Institutional members support one or more of the following activities: workshops
 
 Member researchers are a vital part of our community and contribute in a variety of roles as session chairs, presenters, project leaders, meeting organizers, and attendees. Browse some of our current and past members:
 
+**CENTRA 8:**
+[Presenters](https://www.globalcentra.org/centra8/program.html)
+| [Attendees (partial list)](https://centra8.sched.com/directory/attendees)
+
 **CENTRA 7:**
 [Presenters](https://www.globalcentra.org/centra7/program.html)
 | [Attendees (partial list)](https://centra7.sched.com/directory/attendees)
