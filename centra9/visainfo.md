@@ -16,7 +16,7 @@ Further information can be found at [Ministry of Foreign Affairs of the Kingdom 
 
 Summary of Visa Information for Countries and Territories
 
-<table class="visa">
+<table class="visa visa-table">
 <tr>
   <th colspan="3" style="font-size: 1.5em;">Passport Holders of the following countries/territories may apply for visa on arrival (Period of Stay – 15 Days)
   </th>
@@ -290,3 +290,8 @@ Summary of Visa Information for Countries and Territories
 Department of Consular Affairs, 15 July 2024 <br>
 \* Meanwhile, countries and territories eligible for the purpose of tourism and short-term business engagements for a stay not exceeding 60 days.
 
+<style>
+  .visa-table {
+    width: calc(100% - 300px);
+  }
+</style>
