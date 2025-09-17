@@ -80,7 +80,7 @@ Summary of Visa Information for Countries and Territories
 <br>
 <table class="visa">
 <tr>
-  <th colspan="3" style="font-size: 1.5em;">Passport Holders of the following countries/territories which have bilateral agreement on visa exemption for ordinary passports with thailand (Ordinary Passport Period of Stay)
+  <th colspan="3" style="font-size: 1.5em;">Passport Holders of the following countries/territories which have bilateral agreement on visa exemption for ordinary passports with Thailand (Ordinary Passport Period of Stay)
   </th>
 </tr>
 <tr>
