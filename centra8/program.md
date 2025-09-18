@@ -33,7 +33,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 <br>
 <img src="/img/centra8/program_24_s.png" align="center"/>
 <br>
-<img src="/img/centra8/program_24_s.png" align="center"/>
+<img src="/img/centra8/program_25_s.png" align="center"/>
 </p>
 <!--
 | February 22, Saturday | Location: NCHC Headquarters |
