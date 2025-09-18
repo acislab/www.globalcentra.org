@@ -27,7 +27,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
-**Final Program**
+# Final Program
 <p>
 <img src="/img/centra8/program_23_s.png" align="center"/>
 <br>
