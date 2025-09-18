@@ -9,7 +9,7 @@ hide: true
 
 ## Venue
 <br>
-The CENTRA9 will be held at THANYABURI BALLROOM, Novotel Bangkok, Future Park Rangsit.
+The CENTRA 9 will be held at THANYABURI BALLROOM, Novotel Bangkok, Future Park Rangsit.
 A 4-star hotel located next to the bustling Future Park Rangist shopping complex, offerring modern rooms, a rooftop pool, and meeting facilities. <br>
 <ul>
   <li>🌐 <a href="https://all.accor.com/hotel/B346/index.en.shtml?utm_term=mar&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJTM8iwdH_KyBeccaZQfeikXXrIPYW9YVXI4mI0Ipz4yhlOgdVxcx8EaAsxPEALw_wcB&utm_campaign=ppc-nov-mar-goo-th-en-th-exa-sear-th&utm_medium=cpc&utm_content=th-en-TH-V4991&utm_source=google" target="_blank">Hotel websites</a> </li>
