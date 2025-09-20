@@ -9,9 +9,11 @@ hide: true
 
 ## Important Dates
 <br>
-- All submission Deadline: TBA
-- Notification of Acceptance: TBA
-- Camera-ready Deadline: TBA
-- Registation and Hotel reservation Deadline: TBA
-- Event Date: January 11-13, 2026
+- Extended Abstract Submission Deadline: October 10, 2025
+- Notification of Acceptance: October 16, 2025
+- Early Registration Deadline: October 19, 2025
+- Full Paper Submission Deadline: October 31, 2025
+- Full Paper Notification: November 20, 2025
+- Regular Registration Deadline: December 8, 2025
+- CENTRA 9 Meeting Dates: January 11-13, 2026
 <br/>
