@@ -12,7 +12,7 @@ hide: true
 ## Call for Presentations
 
 
-<div class="container py-4">
+<div>
     <div class="row align-items-center g-4">
         <div>
             <p class="lead-note mt-3">
@@ -24,7 +24,7 @@ hide: true
             </p>
         </div>
     </div>
-    <section class="my-5">
+    <section class="my-5" style="margin-left: 300px; margin-bottom: 300px;">
         <h2 class="fw-bold mb-4">Important Dates</h2>
         <ul class="timeline list-unstyled">
             <li>
