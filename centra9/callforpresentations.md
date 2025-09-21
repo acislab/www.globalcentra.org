@@ -13,7 +13,7 @@ hide: true
 
 
 <div>
-    <div class="row align-items-center g-4">
+    <div>
         <div>
             <p class="lead-note mt-3">
                 With the theme <strong>“Connected Intelligence &amp; Technology for Sustainable Societies,”</strong>
@@ -64,8 +64,8 @@ hide: true
             </li>
         </ul>
     </section>
-    <div class="row g-4 mt-1">
-        <div class="col-lg-5">
+    <div class="row g-5 mt-1">
+        <div class="col-lg-6">
             <div class="card card-quiet h-100">
                 <div class="card-header"><span class="badge-tab">Categories</span></div>
                 <div class="card-body">
@@ -79,7 +79,7 @@ hide: true
                 </div>
             </div>
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-6">
             <div class="card card-quiet h-100">
                 <div class="card-header"><span class="badge-tab">Submission Instructions</span></div>
                 <div class="card-body">
@@ -100,7 +100,7 @@ hide: true
                 </div>
             </div>
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-6">
             <div class="card card-quiet h-100">
                 <div class="card-header"><span class="badge-tab">Scope</span></div>
                 <div class="card-body">
@@ -114,7 +114,7 @@ hide: true
                 </div>
             </div>
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-6">
             <div class="card card-quiet h-100">
                 <div class="card-header"><span class="badge-tab">Presenter Information</span></div>
                 <div class="card-body">
@@ -195,6 +195,10 @@ hide: true
     .card-quiet {
         border: 1px solid var(--ring);
         border-radius: 1rem
+    }
+
+    .card-body {
+        padding: 10px;
     }
 
     .card-quiet .card-header {
