@@ -24,47 +24,7 @@ hide: true
             </p>
         </div>
     </div>
-    <section class="my-5" style="margin-left: 300px; margin-bottom: 300px;">
-        <h2 class="fw-bold mb-4">Important Dates</h2>
-        <ul class="timeline list-unstyled">
-            <li>
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <h5 class="mb-1">Hackathon Student Application</h5>
-                    <p class="text-primary fw-bold mb-0">September 17 – October 10, 2025</p>
-                </div>
-            </li>
-            <li>
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <h5 class="mb-1">Hackathon Topic (Detail) Announcement</h5>
-                    <p class="text-primary fw-bold mb-0">October 15, 2025</p>
-                </div>
-            </li>
-            <li>
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <h5 class="mb-1">Online Training &amp; Socializing Period</h5>
-                    <p class="text-primary fw-bold mb-0">November 01 – 30, 2025</p>
-                </div>
-            </li>
-            <li>
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <h5 class="mb-1">Idea Pitching Submission</h5>
-                    <p class="text-primary fw-bold mb-0">December 10, 2025</p>
-                </div>
-            </li>
-            <li>
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <h5 class="mb-1">Hackathon Days</h5>
-                    <p class="text-primary fw-bold mb-0">January 8 – 9, 2026</p>
-                </div>
-            </li>
-        </ul>
-    </section>
-    <div class="row g-5 mt-1">
+    <div class="row g-5 mt-1" style="margin-left: 300px;">
         <div class="col-lg-6">
             <div class="card card-quiet h-100">
                 <div class="card-header"><span class="badge-tab">Categories</span></div>
@@ -134,7 +94,47 @@ hide: true
             </div>
         </div>
     </div>
-    <div class="d-flex justify-content-center align-items-center">
+    <section class="my-5" style="margin-left: 300px;">
+        <h2 class="fw-bold mb-4">Important Dates</h2>
+        <ul class="timeline list-unstyled">
+            <li>
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h5 class="mb-1">Hackathon Student Application</h5>
+                    <p class="text-primary fw-bold mb-0">September 17 – October 10, 2025</p>
+                </div>
+            </li>
+            <li>
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h5 class="mb-1">Hackathon Topic (Detail) Announcement</h5>
+                    <p class="text-primary fw-bold mb-0">October 15, 2025</p>
+                </div>
+            </li>
+            <li>
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h5 class="mb-1">Online Training &amp; Socializing Period</h5>
+                    <p class="text-primary fw-bold mb-0">November 01 – 30, 2025</p>
+                </div>
+            </li>
+            <li>
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h5 class="mb-1">Idea Pitching Submission</h5>
+                    <p class="text-primary fw-bold mb-0">December 10, 2025</p>
+                </div>
+            </li>
+            <li>
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h5 class="mb-1">Hackathon Days</h5>
+                    <p class="text-primary fw-bold mb-0">January 8 – 9, 2026</p>
+                </div>
+            </li>
+        </ul>
+    </section>
+    <div class="d-flex justify-content-center align-items-center" style="margin-left: 300px;">
         <div class="text-center my-4">
             <div class="p-3 d-none d-md-block text-center">
                 <a href="/img/centra9/CENTRA9_CallForPresentations_Poster.pdf" target="_blank" rel="noopener">
@@ -309,6 +309,11 @@ hide: true
     .cta {
         margin-top: 5px;
         text-align: center;
+    }
+
+    .col-lg-6 {
+        width: 100%;
+        margin-bottom: 10px;
     }
 
     /* If you want brand blue dots instead of red, swap the two #dc3545 with #233b71 */
