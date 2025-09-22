@@ -109,6 +109,7 @@ hide: true
                         <li>Edge–Cloud Continuum Architectures</li>
                         <li>Agentic AI &amp; Multi-Agent Systems</li>
                         <li>Privacy and Cybersecurity</li>
+                        <li>Advanced Computing Cyberinfrastructure</li>
                     </ul>
                     <p class="text-muted fst-italic mb-0">(but not limited to the above)</p>
                 </div>
