@@ -65,11 +65,11 @@ hide: true
                 <div class="card-header"><span class="badge-tab">Scope</span></div>
                 <div class="card-body">
                     <ul class="list-dash mb-2">
-                        <li>Federated Learning &amp; Distributed AI Frameworks</li>
-                        <li>Edge–Cloud Continuum Architectures</li>
-                        <li>Agentic AI &amp; Multi-Agent Systems</li>
-                        <li>Privacy and Cybersecurity</li>
                         <li>Advanced Computing Cyberinfrastructure</li>
+                        <li>Agentic AI &amp; Multi-Agent Systems</li>
+                        <li>Edge–Cloud Continuum Architectures</li>
+                        <li>Federated Learning &amp; Distributed AI Frameworks</li>
+                        <li>Privacy and Cybersecurity</li>
                     </ul>
                     <p class="text-muted fst-italic mb-0">(but not limited to the above)</p>
                 </div>
