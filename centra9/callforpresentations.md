@@ -101,36 +101,36 @@ hide: true
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Hackathon Student Application</h5>
-                        <p class="text-primary fw-bold mb-0">September 17 – October 10, 2025</p>
+                        <h5 class="mb-1">Extended Abstract Submission Deadline</h5>
+                        <p class="text-primary fw-bold mb-0">October 10, 2025</p>
                     </div>
                 </li>
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Hackathon Topic (Detail) Announcement</h5>
-                        <p class="text-primary fw-bold mb-0">October 15, 2025</p>
+                        <h5 class="mb-1">Notification of Acceptance</h5>
+                        <p class="text-primary fw-bold mb-0">October 16, 2025</p>
                     </div>
                 </li>
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Online Training &amp; Socializing Period</h5>
-                        <p class="text-primary fw-bold mb-0">November 01 – 30, 2025</p>
+                        <h5 class="mb-1">Full Paper Submission Deadline</h5>
+                        <p class="text-primary fw-bold mb-0">October 31, 2025</p>
                     </div>
                 </li>
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Idea Pitching Submission</h5>
-                        <p class="text-primary fw-bold mb-0">December 10, 2025</p>
+                        <h5 class="mb-1">Full Paper Notification</h5>
+                        <p class="text-primary fw-bold mb-0">November 20, 2025</p>
                     </div>
                 </li>
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Hackathon Days</h5>
-                        <p class="text-primary fw-bold mb-0">January 8 – 9, 2026</p>
+                        <h5 class="mb-1">CENTRA 9 Meeting Dates</h5>
+                        <p class="text-primary fw-bold mb-0">January 11 – 13, 2026</p>
                     </div>
                 </li>
             </ul>
