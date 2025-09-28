@@ -9,5 +9,14 @@ hide: true
 
 ## Committees
 <br>
-TBA
-
+- Prapaporn Rattanatamrong, Thammasat University, Thailand (PC Co-Chair) 
+- Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan (PC Co-Chair)
+- Wanida Putthividhya, Thammasat University, Thailand 
+- Jose Fortes, University of Florida, USA
+- Woojin Seok, Korea Institute of Science and Technology Information (KISTI), South Korea
+- Rui Carlos Oliveira, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal 
+- Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
+- Beth Plale, Indiana University, USA
+- Hidehisa Nagano, National Institute of Information and Communications Technology (NICT), Japan
+- Ming-Der Yang, National Chung Hsing University, Taiwan
+<br/>
