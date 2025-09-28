@@ -13,9 +13,11 @@ hide: true
 ### CENTRA 9 Honorary Chair
 Dean, Faculty of Science and Technology, Thammasat University, Thailand
 <br/>
+<br/>
 
 ### CENTRA 9 General Co-Chairs
 Wilawan Rukpakavong, Thammasat University, Thailand
+<br/>
 <br/>
 
 ### CENTRA 9 Program Committee
@@ -29,4 +31,5 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 - Beth Plale, Indiana University, USA
 - Hidehisa Nagano, National Institute of Information and Communications Technology (NICT), Japan
 - Ming-Der Yang, National Chung Hsing University, Taiwan
+<br/>
 <br/>
