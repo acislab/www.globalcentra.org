@@ -21,5 +21,7 @@ TBA
  
 ## Operations Committee
 <br>
-TBA
+- Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+-	Robert Ping, Pervasive Technology Institute at Indiana University, US
+-	Andreia Passos, INESC TEC, Portugal
 
