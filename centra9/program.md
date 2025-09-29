@@ -147,7 +147,7 @@ hide: true
 
 <style>
   .program {
-    width: 100%;
+    width: calc(100% - 300px);
     border-collapse: collapse;
     font-family: Arial, sans-serif;
     margin-top: 15px;
@@ -160,7 +160,7 @@ hide: true
   }
 
   .program th {
-    background-color: #4CAF50;
+    background-color: #85BCF1;
     color: white;
   }
 
@@ -178,7 +178,7 @@ hide: true
 
   /* Buttons */
   .btn {
-    background-color: #4CAF50;
+    background-color: #85BCF1;
     color: white;
     padding: 10px 18px;
     margin-right: 8px;
@@ -190,12 +190,12 @@ hide: true
   }
 
   .btn:hover {
-    background-color: #45a049;
+    background-color: #4ba2f5;
     transform: scale(1.05);
   }
 
   .btn.active {
-    background-color: #2e7031; /* darker when active */
+    background-color: #4ba2f5; /* darker when active */
   }
 
   /* Hide tables by default */
