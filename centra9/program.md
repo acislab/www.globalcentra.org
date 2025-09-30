@@ -20,72 +20,60 @@ hide: true
     <th>Time</th>
     <th>Main Activity</th>
     <th>Location</th>
-    <th>Parallel Activity</th>
   </tr>
   <tr>
     <td>08:30 - 09:00</td>
     <td>Registration</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>09:00 - 09:30</td>
     <td>Opening Remarks</td>
     <td>Main hall (60-80ppl)</td>
-    <td></td>
   </tr>
   <tr>
     <td>09:30 - 10:15</td>
     <td>Keynote talk 1</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>10:15 - 10:45</td>
     <td>Coffee break</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>10:45 - 12:30</td>
     <td>New Project/Project News</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>12:30 - 13:30</td>
     <td>Lunch</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>13:30 - 14:30</td>
     <td>Panel Talk</td>
     <td>Main hall</td>
-    <td></td>
   </tr>
   <tr>
     <td>14:30 - 15:30</td>
     <td>Presentation Session 1</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>15:30 - 16:00</td>
     <td>Coffee break</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>16:00 - 17:00</td>
     <td>Project Group Discussion</td>
     <td>2-3 separate rooms (may also include the main hall)</td>
-    <td></td>
   </tr>
   <tr>
     <td>18:00 - 20:00</td>
     <td>Banquet Dinner</td>
-    <td></td>
     <td></td>
   </tr>
 </table>
@@ -114,7 +102,7 @@ hide: true
   <tr>
     <td>11:15 - 12:30</td>
     <td>Student Presentation</td>
-    <td>Student Posters (10-15)</td>
+    <td></td>
   </tr>
   <tr>
     <td>12:30 - 14:00</td>
