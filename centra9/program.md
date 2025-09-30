@@ -10,6 +10,8 @@ hide: true
 ## CENTRA 9 Program and Schedule
 <br>
 
+<!--
+
 <div>
   <button class="btn active" onclick="showTable('day1', this)">Day 1</button>
   <button class="btn" onclick="showTable('day2', this)">Day 2</button>
@@ -203,3 +205,4 @@ hide: true
     display: none;
   }
 </style>
+-->
