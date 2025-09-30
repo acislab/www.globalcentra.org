@@ -15,13 +15,13 @@ Dean, Faculty of Science and Technology, Thammasat University, Thailand
 <br/>
 <br/>
 
-### CENTRA 9 General Co-Chairs
+### CENTRA 9 General Chairs
 Wilawan Rukpakavong, Thammasat University, Thailand
 <br/>
 <br/>
 
 ### CENTRA 9 Program Committee
-- Prapaporn Rattanatamrong, Thammasat University, Thailand (PC Co-Chair) 
+- Prapaporn Rattanatamrong, Thammasat University, Thailand (PC Co-Chair)
 - Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan (PC Co-Chair)
 - Wanida Putthividhya, Thammasat University, Thailand 
 - Jose Fortes, University of Florida, USA
