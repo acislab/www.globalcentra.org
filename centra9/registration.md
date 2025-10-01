@@ -9,5 +9,5 @@ hide: true
 
 ## Registration
 <br>
-TBA
+The link to the registration form will be available soon.
 
