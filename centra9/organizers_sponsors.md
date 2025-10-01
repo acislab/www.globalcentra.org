@@ -34,7 +34,7 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 <br/>
 <br/>
  
-## Operations Committee
+### Operations Committee
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Robert Ping, Pervasive Technology Institute at Indiana University, US
 -	Andreia Passos, INESC TEC, Portugal
