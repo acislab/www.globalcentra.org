@@ -49,8 +49,7 @@ hide: true
                             <a href="#" class="link-primary">IEEE proceedings template</a> with a minimum length of
                             <strong>500 words</strong>.
                         </li>
-                        <li>The extended abstract will be included in the <strong>Zenodo Global Central
-                                Community</strong> collection.</li>
+                        <li>The extended abstract will be included in the <strong>Zenodo Global CENTRA Community</strong> collection.</li>
                         <li>
                             To be considered for recommendation to the
                             <a href="#" class="link-primary">ECTI-ARD journal</a>,
