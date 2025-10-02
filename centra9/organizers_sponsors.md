@@ -15,7 +15,7 @@ Dean, Faculty of Science and Technology, Thammasat University, Thailand
 <br/>
 <br/>
 
-### General Chairs
+### General Chair
 Wilawan Rukpakavong, Thammasat University, Thailand
 <br/>
 <br/>
