@@ -28,8 +28,9 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 - Woojin Seok, Korea Institute of Science and Technology Information (KISTI), South Korea
 - Rui Carlos Oliveira, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal 
 - Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
-- Beth Plale, Indiana University, USA
+- Beth Plale, University of Oregon, USA
 - Hidehisa Nagano, National Institute of Information and Communications Technology (NICT), Japan
+- Renato Figueiredo, Oregon State University, USA
 - Ming-Der Yang, National Chung Hsing University, Taiwan
 <br/>
 <br/>
