@@ -11,8 +11,9 @@ hide: true
 <br>
 
 <div>
-  <button class="btn active" onclick="showTable('day1', this)">Day 1</button>
-  <button class="btn" onclick="showTable('day2', this)">Day 2</button>
+  <button class="btn active" onclick="showTable('day1', this)">Day 1 (Jan 11th, 2026)</button>
+  <button class="btn" onclick="showTable('day2', this)">Day 2 (Jan 12th, 2026)</button>
+  <button class="btn" onclick="showTable('day3', this)">Day 3 (Jan 13th, 2026)</button>
 </div>
 
 <table class="program" id="day1">
@@ -21,52 +22,69 @@ hide: true
     <th>Main Activity</th>
   </tr>
   <tr>
-    <td>08:30 - 09:00</td>
-    <td>Registration</td>
+    <td>15:00 - 17:00</td>
+    <td>Project Sync</td>
   </tr>
   <tr>
-    <td>09:00 - 09:30</td>
-    <td>Opening Remarks</td>
-  </tr>
-  <tr>
-    <td>09:30 - 10:15</td>
-    <td>Keynote talk 1</td>
-  </tr>
-  <tr>
-    <td>10:15 - 10:45</td>
-    <td>Coffee break</td>
-  </tr>
-  <tr>
-    <td>10:45 - 12:30</td>
-    <td>New Project/Project News</td>
-  </tr>
-  <tr>
-    <td>12:30 - 13:30</td>
-    <td>Lunch</td>
-  </tr>
-  <tr>
-    <td>13:30 - 14:30</td>
-    <td>Panel Talk</td>
-  </tr>
-  <tr>
-    <td>14:30 - 15:30</td>
-    <td>Presentation Session 1</td>
-  </tr>
-  <tr>
-    <td>15:30 - 16:00</td>
-    <td>Coffee break</td>
-  </tr>
-  <tr>
-    <td>16:00 - 17:00</td>
-    <td>Project Group Discussion</td>
-  </tr>
-  <tr>
-    <td>18:00 - 20:00</td>
-    <td>Banquet Dinner</td>
+    <td>18:00 - 19:00</td>
+    <td>Pre-Meeting Reception</td>
   </tr>
 </table>
 
 <table class="program hidden" id="day2">
+  <tr>
+    <th>Time</th>
+    <th>Main Activity</th>
+    <th>Parallel Activity</th>
+  </tr>
+  <tr>
+    <td>09:00 - 09:45</td>
+    <td>Keynote talk 2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09:45 - 10:45</td>
+    <td>Presentation Session 2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:45 - 11:15</td>
+    <td>Coffee break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:15 - 12:30</td>
+    <td>Student Presentation</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:30 - 14:00</td>
+    <td>Lunch</td>
+    <td>Lunch & Steering Committee Meeting</td>
+  </tr>
+  <tr>
+    <td>14:00 - 15:00</td>
+    <td>Project Group Discussion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td>Coffee break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:30 - 16:30</td>
+    <td>Presentation Session 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16:30 - 17:00</td>
+    <td>Conclusion & Closing</td>
+    <td></td>
+  </tr>
+</table>
+
+<table class="program hidden" id="day3">
   <tr>
     <th>Time</th>
     <th>Main Activity</th>
