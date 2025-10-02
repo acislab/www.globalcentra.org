@@ -136,13 +136,14 @@ hide: true
 </table>
 
 <script>
-  function showTable(dayId, btn) {
-    document.getElementById('day1').classList.add('hidden');
-    document.getElementById('day2').classList.add('hidden');
-    document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
-    document.getElementById(dayId).classList.remove('hidden');
-    btn.classList.add('active');
-  }
+
+function showTable(dayId, btn) {
+  document.querySelectorAll('.program').forEach(table => table.classList.add('hidden'));
+  document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
+  document.getElementById(dayId).classList.remove('hidden');
+  btn.classList.add('active');
+}
+  
 </script>
 
 <style>
