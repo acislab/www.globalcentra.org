@@ -136,7 +136,7 @@ In January, the Pathum Thani area experience some of the most pleasant weather o
 - Daily lows: around 20–22°C (68–72°F)
 - Conditions: Mostly sunny to partly cloudy, with low rainfall.
 - Comfort: Warm during the day but cooler mornings and evenings compared to other months.
-<br>
+<br><br>
 <strong>Tip:</strong> Pack light clothing for the daytime and a light jacket for early mornings or air-conditioned places.
 Please be sure to check the weather forecast prior to traveling.
 <br>
