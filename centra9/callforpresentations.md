@@ -35,6 +35,7 @@ hide: true
                         <li><strong>Project Report:</strong> results, outcomes, or lessons learned</li>
                         <li><strong>Student:</strong> innovative ideas, prototypes, or early-stage projects led by
                             students</li>
+                        <li><strong>Technical Paper:</strong> original research, case studies, and innovative solutions that tackle current ICT challenges, provide practical insights, and contribute meaningfully to the field.</li>
                     </ul>
                 </div>
             </div>
@@ -47,9 +48,10 @@ hide: true
                         <li>
                             Prepare and submit an <strong>extended abstract</strong> using the
                             <a href="#" class="link-primary">IEEE proceedings template</a> with a minimum length of
-                            <strong>500 words</strong>.
+                            <strong>500 words</strong> and up to 2 pages maximum.
                         </li>
                         <li>The accepted extended abstract will be included in the <strong>Zenodo Global CENTRA Community</strong> collection, if desired.</li>
+                        <li>For Technical Paper, all accepted papers will be archived in the Zenodo Global CENTRA Community collection.</li>
                         <li>
                             To be considered for recommendation to the
                             <a href="#" class="link-primary">ECTI-ARD journal</a>,
