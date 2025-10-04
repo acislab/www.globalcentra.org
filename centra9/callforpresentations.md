@@ -116,6 +116,13 @@ hide: true
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
+                        <h5 class="mb-1">Early Registration Deadline</h5>
+                        <p class="text-primary fw-bold mb-0">October 19, 2025</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
                         <h5 class="mb-1">Full Paper Submission Deadline</h5>
                         <p class="text-primary fw-bold mb-0">October 31, 2025</p>
                     </div>
@@ -123,8 +130,15 @@ hide: true
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Full Paper Notification</h5>
+                        <h5 class="mb-1">(Optional) Full Paper Notification</h5>
                         <p class="text-primary fw-bold mb-0">November 20, 2025</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h5 class="mb-1">Regular Registration Deadline</h5>
+                        <p class="text-primary fw-bold mb-0">December 8, 2025</p>
                     </div>
                 </li>
                 <li>
