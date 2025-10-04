@@ -12,7 +12,7 @@ hide: true
 
 ### Conference Hotel Information
 Helpful to have handy when taking a taxi or ride-hailing apps
-<table>
+<table class="table-c">
   <tr>
     <td>Name</td>
     <td>Novotel Bangkok Future Park Rangsit</td>
@@ -42,14 +42,14 @@ Helpful to have handy when taking a taxi or ride-hailing apps
 
 ### Useful Information on Travelling
 #### Ride-Hailing Apps to use for transport
-Grab (https://www.grab.com/th/en/download/)
+<a href="https://www.grab.com/th/en/download/" target="_blank">Grab</a>
 - Cash or card payment accepted
 - Many vehicle options (car, taxi, motorbike)
 - In-app chat auto-translated
 - Widely available in Bangkok & big cities
 <br>
 
-Bolt (https://bolt.eu/en-th/)
+<a href="https://bolt.eu/en-th/" target="_blank">Bolt</a>
 - Usually cheaper than Grab
 - Cash payment only (in most areas)
 - Many vehicle options
@@ -57,7 +57,7 @@ Bolt (https://bolt.eu/en-th/)
 - Fewer drivers than Grab in some zones
 <br>
 
-Lineman (https://lineman.line.me/)
+<a href="https://lineman.line.me/" target="_blank">LINE MAN</a>
 - Cash or digital payment (QR/LINE Pay)
 - Competitive pricing, sometimes cheaper than Grab
 - Car & motorbike options
@@ -136,8 +136,10 @@ In January, the Pathum Thani area experience some of the most pleasant weather o
 - Daily lows: around 20–22°C (68–72°F)
 - Conditions: Mostly sunny to partly cloudy, with low rainfall.
 - Comfort: Warm during the day but cooler mornings and evenings compared to other months.
+<br>
 <strong>Tip:</strong> Pack light clothing for the daytime and a light jacket for early mornings or air-conditioned places.
 Please be sure to check the weather forecast prior to traveling.
+<br>
 Visit AccuWeather <a href="https://www.accuweather.com/en/th/mueang-pathum-thani/1-319891_1_al/january-weather/1-319891_1_al?year=2026" target="_blank">
   Pathum Thani January 2026 Weather on AccuWeather
 </a>
@@ -147,9 +149,9 @@ Visit AccuWeather <a href="https://www.accuweather.com/en/th/mueang-pathum-thani
 
 ### Electricity in Thailand
 Electrical outlets in Thailand supply 220 volts at 50 Hz, which is compatible with appliances from the U.K., Europe, and many parts of Asia, but not with standard U.S. appliances. Most laptops, phone chargers, and modern electronics are dual-voltage and can adapt automatically, but always check your device label.
-<br>
+<br><br>
 Outlets in Thailand typically accept two flat prongs (Type A/B) or two round prongs (Type C). Some outlets can take both, but grounded three-prong outlets (Type B/F) are less common. Travelers may need a plug adapter and, if their appliances are not dual-voltage, a voltage converter.
-<br>
+<br><br>
 <strong>Tip:</strong> Bring a universal travel adapter with surge protection to avoid issues when charging sensitive electronics.
 
 <br>
@@ -189,5 +191,8 @@ Outlets in Thailand typically accept two flat prongs (Type A/B) or two round pro
   </li>
 </ul>
 
-
-
+<style>
+  .table-c {
+    width: calc(100% - 300px);
+  }
+</style>
