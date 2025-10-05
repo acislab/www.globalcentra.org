@@ -13,17 +13,28 @@ hide: true
 
 
 <div>
-    <div>
-        <div>
-            <p class="lead-note mt-3">
-                With the theme <strong>“Connected Intelligence &amp; Technology for Sustainable Societies,”</strong>
-                CENTRA 9 highlights collaborative research and innovation that addresses global challenges through
-                connected intelligence. We welcome contributions that foster sustainability, resilience, and
-                long-term
-                collaboration across the CENTRA network.
-            </p>
-        </div>
+<div class="presentation-row">
+  <p class="lead-note mt-3 presentation-text">
+    With the theme <strong>“Connected Intelligence &amp; Technology for Sustainable Societies,”</strong>
+    CENTRA 9 highlights collaborative research and innovation that addresses global challenges through
+    connected intelligence. We welcome contributions that foster sustainability, resilience, and
+    long-term collaboration across the CENTRA network.
+  </p>
+  <div class="presentation-action">
+    <div class="login-note">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+        style="vertical-align: middle; margin-right: 5px;">
+        <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5"></circle>
+        <path d="M12 8h.01M11 11h2v6h-2z" fill="currentColor"></path>
+      </svg>
+      <i>Sched.com login required.</i>
     </div>
+    <button type="button" class="btn-submit"
+      onclick="window.open('https://cfp.sched.com/speaker/5FoQHjdyie/', '_blank')">
+      Submit Presentation Here
+    </button>
+  </div>
+</div>
     <div class="row g-5 mt-1" style="margin-left: 300px;">
         <div class="col-lg-6">
             <div class="card card-quiet h-100">
@@ -182,21 +193,6 @@ hide: true
         --ring: #e5e7eb;
     }
 
-    .section-title {
-        color: var(--brand);
-        font-weight: 800;
-        letter-spacing: .2px
-    }
-
-    .eyebrow {
-        font-weight: 700;
-        color: #fff;
-        background: var(--brand);
-        padding: .25rem .6rem;
-        border-radius: 999px;
-        display: inline-block
-    }
-
     .lead-note {
         color: var(--ink)
     }
@@ -288,41 +284,6 @@ hide: true
         font-weight: 600
     }
 
-    .btn {
-        width: 180px;
-        text-align: center;
-        display: block;
-        text-decoration: none;
-        font-weight: 700;
-        letter-spacing: .2px;
-        background: var(--btn);
-        color: #0049FF;
-        padding: 10px 12px;
-        /* border-radius: 12px; */
-        border: 1px solid #53EFC8;
-        transition: transform .06s ease, box-shadow .2s ease;
-        box-shadow: 0 8px 20px rgba(141, 236, 225, 0.35);
-        margin: 0 auto;
-        float: right;
-    }
-
-    .btn:hover {
-        filter: brightness(1.05)
-    }
-
-    .login-note {
-        margin-top: 5px;
-        color: var(--muted);
-        font-size: .95rem;
-        display: flex;
-        gap: 8px;
-        align-items: center
-    }
-
-    .login-note svg {
-        flex: none
-    }
-
     .cta {
         margin-top: 5px;
         text-align: center;
@@ -332,6 +293,50 @@ hide: true
         width: 100%;
         margin-bottom: 10px;
     }
+
+    .presentation-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+    
+    .presentation-text {
+      flex: 1;
+      margin: 0;
+    }
+    
+    .presentation-action {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    
+    .btn-submit {
+      padding: 10px 16px;
+      background-color: #53EFC8;
+      color: #0049FF;
+      border: 1px solid #53EFC8;
+      font-weight: 700;
+      border-radius: 8px;
+      cursor: pointer;
+      box-shadow: 0 8px 20px rgba(141, 236, 225, 0.35);
+      transition: transform 0.06s ease, box-shadow 0.2s ease;
+    }
+    
+    .btn-submit:hover {
+      filter: brightness(1.05);
+    }
+    
+    .login-note {
+      font-size: 0.95rem;
+      color: var(--muted, #6b7280);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
 
     /* If you want brand blue dots instead of red, swap the two #dc3545 with #233b71 */
 </style>
