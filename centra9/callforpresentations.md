@@ -59,7 +59,7 @@ hide: true
                         <li>
                             Prepare and submit an <strong>extended abstract</strong> using the
                             <a href="#" class="link-primary">IEEE proceedings template</a> with a minimum length of
-                            <strong>500 words and up to 2 pages maximum</strong> .
+                            <strong>500 words and up to 2 pages maximum</strong>.
                         </li>
                         <li>The accepted extended abstract will be included in the <strong>Zenodo Global CENTRA Community collection</strong>, if desired.</li>
                         <li>For Technical Paper, all accepted papers will be archived in the  <strong>Zenodo Global CENTRA Community collection</strong>.</li>
