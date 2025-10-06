@@ -114,14 +114,7 @@ hide: true
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
                         <h5 class="mb-1">Extended Abstract Submission Deadline</h5>
-                        <p class="text-primary fw-bold mb-0">October 10, 2025</p>
-                    </div>
-                </li>
-                <li>
-                    <div class="timeline-dot"></div>
-                    <div class="timeline-content">
-                        <h5 class="mb-1">Notification of Acceptance</h5>
-                        <p class="text-primary fw-bold mb-0">October 16, 2025</p>
+                        <p class="text-primary fw-bold mb-0">October 19, 2025</p>
                     </div>
                 </li>
                 <li>
@@ -134,14 +127,21 @@ hide: true
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">Full Paper Submission Deadline</h5>
-                        <p class="text-primary fw-bold mb-0">October 31, 2025</p>
+                        <h5 class="mb-1">Notification of Acceptance</h5>
+                        <p class="text-primary fw-bold mb-0">October 27, 2025</p>
                     </div>
                 </li>
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h5 class="mb-1">(Optional) Full Paper Notification</h5>
+                        <h5 class="mb-1">(Optional) Full Paper Submission Deadline</h5>
+                        <p class="text-primary fw-bold mb-0">November 7, 2025</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h5 class="mb-1">Full Paper Notification</h5>
                         <p class="text-primary fw-bold mb-0">November 20, 2025</p>
                     </div>
                 </li>
