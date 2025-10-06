@@ -59,10 +59,10 @@ hide: true
                         <li>
                             Prepare and submit an <strong>extended abstract</strong> using the
                             <a href="#" class="link-primary">IEEE proceedings template</a> with a minimum length of
-                            <strong>500 words</strong> and up to 2 pages maximum.
+                            <strong>500 words and up to 2 pages maximum</strong> .
                         </li>
-                        <li>The accepted extended abstract will be included in the [Zenodo Global CENTRA Community](https://zenodo.org/communities/globalcentra/records) collection, if desired.</li>
-                        <li>For Technical Paper, all accepted papers will be archived in the Zenodo Global CENTRA Community collection.</li>
+                        <li>The accepted extended abstract will be included in the <strong>Zenodo Global CENTRA Community collection</strong>, if desired.</li>
+                        <li>For Technical Paper, all accepted papers will be archived in the  <strong>Zenodo Global CENTRA Community collection</strong>.</li>
                         <li>
                             To be considered for recommendation to the
                             <a href="#" class="link-primary">ECTI-ARD journal</a>,
