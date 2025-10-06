@@ -61,7 +61,7 @@ hide: true
                             <a href="#" class="link-primary">IEEE proceedings template</a> with a minimum length of
                             <strong>500 words</strong> and up to 2 pages maximum.
                         </li>
-                        <li>The accepted extended abstract will be included in the <strong>Zenodo Global CENTRA Community</strong> collection, if desired.</li>
+                        <li>The accepted extended abstract will be included in the [Zenodo Global CENTRA Community]([https://www.acis.ufl.edu/](https://zenodo.org/communities/globalcentra/records?q=&l=list&p=1&s=10&sort=newest) Zenodo Global CENTRA Community collection, if desired.</li>
                         <li>For Technical Paper, all accepted papers will be archived in the Zenodo Global CENTRA Community collection.</li>
                         <li>
                             To be considered for recommendation to the
