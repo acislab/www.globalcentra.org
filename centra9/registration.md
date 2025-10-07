@@ -9,7 +9,6 @@ hide: true
 
 ## Registration
 <br>
-### Dates
 - Early Registration Deadline: October 19, 2025
 - Regular Registration Deadline: December 8, 2025
 <br>
