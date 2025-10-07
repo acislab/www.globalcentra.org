@@ -13,6 +13,7 @@ hide: true
 - Early Registration Deadline: October 19, 2025
 - Regular Registration Deadline: December 8, 2025
 <br>
+<br>
 <button type="button" class="btn-submit"
   onclick="window.open('https://centra9.sched.com/', '_blank')">
   Register
@@ -20,6 +21,7 @@ hide: true
 
 <style>
   .btn-submit {
+    width: 200px;
     padding: 10px 16px;
     background-color: #53EFC8;
     color: #0049FF;
