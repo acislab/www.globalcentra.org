@@ -12,6 +12,7 @@ hide: true
 Registration Dates:
 - Early Registration Deadline: October 19, 2025
 - Regular Registration Deadline: December 8, 2025
+<br><br>
 Click the button below to open the Sched event page—you’ll be prompted to register. 
 <br><br>
 <button type="button" class="btn-submit"
@@ -24,7 +25,7 @@ Please note:
 - You may register on behalf of a colleague from your institution.
 - Attendees are responsible for their own travel arrangements and expenses.
 - Invitation letters can be requested during registration.
-- To cancel your registration, please email the CENTRA9 admin.
+- To cancel your registration, please email the CENTRA9 admin. (centra9.admin@cs.tu.ac.th)
 - Special room rates at the main venue are available via the registration form. Indicate your preference; the hotel will contact you to finalize the booking after you complete early registration.
 
 <br>
