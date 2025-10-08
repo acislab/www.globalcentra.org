@@ -67,9 +67,11 @@ hide: true
                             To be considered for recommendation to the
                             <a href="#" class="link-primary">ECTI-ARD journal</a>,
                             please also prepare a <strong>full paper (8–10 pages, PDF)</strong>.
+                            <ul>
+                              <li><em>Please note:</em> Final acceptance is determined by the journal’s independent peer-review process.</li>
+                            </ul>
                         </li>
                     </ul>
-                    <p style="text-align: center;">Please note: Final acceptance is determined by the journal’s independent peer-review process.</p>
                 </div>
             </div>
         </div>
