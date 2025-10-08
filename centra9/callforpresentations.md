@@ -27,7 +27,7 @@ hide: true
         <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5"></circle>
         <path d="M12 8h.01M11 11h2v6h-2z" fill="currentColor"></path>
       </svg>
-      <i>Sched.com login required.</i>
+      <i>Separate Sched CFP Portal login required. <link href="https://centra9.sched.com/about" target="_blank" See instructions.></i>
     </div>
     <button type="button" class="btn-submit"
       onclick="window.open('https://cfp.sched.com/speaker/5FoQHjdyie/', '_blank')">
