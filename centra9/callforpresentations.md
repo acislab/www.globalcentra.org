@@ -69,6 +69,7 @@ hide: true
                             please also prepare a <strong>full paper (8–10 pages, PDF)</strong>.
                         </li>
                     </ul>
+                    <p style="text-align: center;">Please note: Final acceptance is determined by the journal’s independent peer-review process.</p>
                 </div>
             </div>
         </div>
