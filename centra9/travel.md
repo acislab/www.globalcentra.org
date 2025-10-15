@@ -14,23 +14,23 @@ hide: true
 Helpful to have handy when taking a taxi or ride-hailing apps
 <table class="table-c">
   <tr>
-    <td>Name</td>
-    <td>Novotel Bangkok Future Park Rangsit</td>
+    <td>Name<br/>ชื่อโรงแรม</td>
+    <td>Novotel Bangkok Future Park Rangsit<br/>โรงแรมโนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต)</td>
   </tr>
   <tr>
-    <td>Address</td>
-    <td>114 Phahonyothin Rd, Prachathipat, Thanyaburi District, Pathum Thani</td>
+    <td>Address<br/>ที่อยู่</td>
+    <td>114 Phahonyothin Rd, Prachathipat, Thanyaburi District, Pathum Thani<br/>114 ถนนพหลโยธิน ตำบลประชาธิปัตย์ อำเภอธัญบุรี จังหวัดปทุมธานี 12130</td>
   </tr>
   <tr>
-    <td>Postcode</td>
+    <td>Postcode<br/>รหัสไปรษณีย์</td>
     <td>12130</td>
   </tr>
   <tr>
-    <td>Telephone</td>
+    <td>Telephone<br/>หมายเลขโทรศัพท์</td>
     <td>+66 (0) 2520 2525</td>
   </tr>
   <tr>
-    <td>Email</td>
+    <td>Email<br/>อีเมล</td>
     <td>HB346@ACCOR.COM</td>
   </tr>
 </table>
