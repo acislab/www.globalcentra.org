@@ -15,7 +15,7 @@ Helpful to have handy when taking a taxi or ride-hailing apps
 <table class="table-c">
   <tr>
     <td>Name<br/>ชื่อโรงแรม</td>
-    <td>Novotel Bangkok Future Park Rangsit<br/>โรงแรมโนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต)</td>
+    <td>Novotel Bangkok Future Park Rangsit<br/>โรงแรมโนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต</td>
   </tr>
   <tr>
     <td>Address<br/>ที่อยู่</td>
