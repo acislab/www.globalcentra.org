@@ -89,6 +89,11 @@ hide: true
     <th>Parallel Activity</th>
   </tr>
   <tr>
+    <td>08:30 - 09:00</td>
+    <td>Registration</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>09:00 - 09:45</td>
     <td>Keynote talk 2</td>
     <td></td>
