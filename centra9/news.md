@@ -11,7 +11,7 @@ hide: true
 <br>
 - Extended Abstract Submission Deadline: October 19, 2025
 - Early Registration Deadline: October 19, 2025
-- Notification of Acceptance: October 27, 2025
+- Notification of Acceptance: <s>October 27, 2025</s> November 1, 2025
 - <i>(Optional)</i> Full Paper Submission Deadline: November 7, 2025
 - Full Paper Notification: November 20, 2025
 - Regular Registration Deadline: December 8, 2025
