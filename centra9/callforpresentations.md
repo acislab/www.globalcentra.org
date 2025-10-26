@@ -131,7 +131,7 @@ hide: true
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
                         <h5 class="mb-1">Notification of Acceptance</h5>
-                        <p class="text-primary fw-bold mb-0">October 27, 2025</p>
+                        <p class="text-primary fw-bold mb-0"><s>October 27, 2025</s> November 1, 2025</p>
                     </div>
                 </li>
                 <li>
