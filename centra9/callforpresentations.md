@@ -138,14 +138,14 @@ hide: true
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
                         <h5 class="mb-1">(Optional) Full Paper Submission Deadline</h5>
-                        <p class="text-primary fw-bold mb-0">November 7, 2025</p>
+                        <p class="text-primary fw-bold mb-0"><s>November 7, 2025</s> November 21, 2025</p>
                     </div>
                 </li>
                 <li>
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
                         <h5 class="mb-1">Full Paper Notification</h5>
-                        <p class="text-primary fw-bold mb-0">November 20, 2025</p>
+                        <p class="text-primary fw-bold mb-0"><s>November 20, 2025</s> December 10, 2025</p>
                     </div>
                 </li>
                 <li>
