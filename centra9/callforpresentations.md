@@ -29,10 +29,7 @@ hide: true
       </svg>
       <i>Separate Sched CFP Portal login required. <a href="https://centra9.sched.com/about" class="link-primary" target="_blank"> See instructions</a></i>
     </div>
-    <button type="button" class="btn-submit"
-      onclick="window.open('https://cfp.sched.com/speaker/5FoQHjdyie/', '_blank')">
-      Submit Presentation Here
-    </button>
+    <div>Submissions are no longer accepted</div>
   </div>
 </div>
     <div class="row g-5 mt-1" style="margin-left: 300px;">
