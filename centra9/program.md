@@ -10,6 +10,28 @@ hide: true
 ## CENTRA 9 Program and Schedule
 <br>
 
+# For the latest details, schedule information, and presentation slides, please go to [Sched](https://centra9.sched.com/).<br> 
+### (All times are Thailand Standard Time (THA). For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
+<br>
+
+The Sched platform allows attendees to create a profile to connect with other participants at CENTRA 9. It also allows for the fastest updates to the program schedule. We encourage everyone to create a Sched profile and upload your photo and biographical information. It is a great way to learn about all the attendees and network with each other.
+
+**Pro-tip!**
+In Sched, click on SCHEDULE (next to SPEAKERS, SPONSORS, etc) and then choose EXPANDED view to see the abstracts of each talk and the speaker's name.
+
+If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you click on your own profile and you would like to make your profile public, please follow these steps: 
+
+- Go [here](https://centra9.sched.com/)
+- Login to Sched.
+- Click on your image or initials in upper right corner
+- Choose SETTINGS
+- Under Privacy & Email, turn the switch for MAKE MY PROFILE & SCHEDULE PUBLIC to green.
+- You can update other information in your schedule (like a photo and institutional affiliation)
+- IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
+<br>
+
+<!-- 
+
 <div>
   <button class="btn active" onclick="showTable('day1', this)">Day 1 (Jan 11th, 2026)</button>
   <button class="btn" onclick="showTable('day2', this)">Day 2 (Jan 12th, 2026)</button>
@@ -209,3 +231,4 @@ function showTable(dayId, btn) {
     display: none;
   }
 </style>
+-->
