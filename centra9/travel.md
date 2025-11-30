@@ -237,26 +237,22 @@ Department of Consular Affairs, 15 July 2024
 ### Option 2: Private Car with Driver
 
 - **Company**: CHARLEE TRANSPORT & TRAVEL CO., LTD.
-  Juristic Registration: *0105567072634*  
+  Juristic Registration: *0105567072634*
   Address: 64 Chaloem Phrakiat 9, Soi 9, Intersection 1, Nong Bon, Prawet, Bangkok 10250
-
-- **Contact Information**:  
-  - Email: taxitourservice.office.8181@gmail.com  
-  - Email: charlee@taxitourservice.com 
-  - **Office**: +66 2 095 5108  
-  - **Mobile**: +66 87 914 9404  
-  - **Mobile**: +66 98 949 3999  
+- **Contact Information**:
+  - Email: taxitourservice.office.8181@gmail.com
+  - Email: charlee@taxitourservice.com
+  - Office: +66 2 095 5108
+  - Mobile: +66 87 914 9404
+  - Mobile: +66 98 949 3999
   - Website: https://www.taxitourservice.com
-
-- **Bangkok Airport Transfer Rate**: 1,000–1,200 THB
-
+- **Bangkok Airport Transfer Rate**: 1,000–1,200 THB.
 - **Daily Car Rental with Driver**:  
-  - **4,000 THB per day**  
-  - Includes fuel  
-  - Up to 10 hours  
+  - 4,000 THB per day
+  - Includes fuel
+  - Up to 10 hours
   - Service area: Bangkok and metropolitan areas
-
-- **Pros**: Reliable pre-arranged pickup, good for travelers with luggage, professional drivers.  
+- **Pros**: Reliable pre-arranged pickup, good for travelers with luggage, professional drivers.
 - **Cons**: Higher cost compared to taxi or Grab.
 
 ---
