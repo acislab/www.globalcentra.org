@@ -234,7 +234,37 @@ Department of Consular Affairs, 15 July 2024
 ---
 
 <br>
-### Option 2: Grab Car (Ride-Hailing App)
+### Option 2: Private Car with Driver (Charlee Transport & Travel)
+
+- **Company**:  
+  **CHARLEE TRANSPORT & TRAVEL CO., LTD.**  
+  Juristic Registration: *0105567072634*  
+  Address: 64 Chaloem Phrakiat 9, Soi 9, Intersection 1, Nong Bon, Prawet, Bangkok 10250
+
+- **Contact Information**:  
+  - Email: taxitourservice.office.8181@gmail.com  
+  - Email: charlee@taxitourservice.com 
+  - **Office**: +66 2 095 5108  
+  - **Mobile**: +66 87 914 9404  
+  - **Mobile**: +66 98 949 3999  
+  - Website: https://www.taxitourservice.com
+
+- **Bangkok Airport Transfer Rate**:  
+  **1,000–1,200 THB**
+
+- **Daily Car Rental with Driver**:  
+  - **4,000 THB per day**  
+  - Includes fuel  
+  - Up to 10 hours  
+  - Service area: Bangkok and metropolitan areas
+
+- **Pros**: Reliable pre-arranged pickup, good for travelers with luggage, professional drivers.  
+- **Cons**: Higher cost compared to taxi or Grab.
+
+---
+
+<br>
+### Option 3: Grab Car (Ride-Hailing App)
 - Use **Grab** (like Uber).  
 - **Download App**: [Grab App](https://www.grab.com/th/en/download/)  
 - **Pickup Point**: Level 1, Gate 4.  
@@ -246,7 +276,7 @@ Department of Consular Affairs, 15 July 2024
 ---
 
 <br>
-### Option 3: Multimodal Transportation
+### Option 4: Multimodal Transportation
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option1.png" alt="Option 1" width="800">
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option2.png" alt="Option 2" width="800">
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option3.png" alt="Option 3" width="800">
