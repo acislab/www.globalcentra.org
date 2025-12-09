@@ -29,7 +29,7 @@ Please note:
 - Attendees are responsible for their own travel arrangements and expenses.
 - Invitation letters can be requested during registration.
 - To cancel your registration, please email the CENTRA9 admin. (centra9.admin@cs.tu.ac.th)
-- Special room rates at the main venue are available via the registration form. Indicate your preference; the hotel will contact you to finalize the booking after you complete early registration.
+<!-- - Special room rates at the main venue are available via the registration form. Indicate your preference; the hotel will contact you to finalize the booking after you complete early registration. -->
 
 <br>
 
