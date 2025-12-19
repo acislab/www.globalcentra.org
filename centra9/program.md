@@ -10,7 +10,7 @@ hide: true
 ## CENTRA 9 Program and Schedule
 <br>
 
-# For the latest details, schedule information, and presentation slides, please go to [Sched](https://centra9.sched.com/).<br> 
+# For the latest Program details, schedule, and presentation slides, please go to [Sched](https://centra9.sched.com/).<br> 
 ### (All times are Thailand Standard Time (THA). For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
