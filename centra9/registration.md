@@ -14,12 +14,12 @@ Registration Dates:
 - Regular Registration Deadline: December 8, 2025
 <br><br>
 
-Click the button below to open the Sched event page—you’ll be prompted to register. 
+Registration is now closed. Click the button below to open the Sched event page for the CENTRA 9 Program. 
 <br><br>
 
 <button type="button" class="btn-submit"
   onclick="window.open('https://centra9.sched.com/', '_blank')">
-  Register
+  CENTRA 9 Program
 </button>
 <br><br><br>
 
