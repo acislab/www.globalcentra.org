@@ -91,14 +91,14 @@ Moderator: Andreia Passos, INESC TEC
 **Collaborative Projects: Computing for Sustainable and Inclusive Societies**  
 Session Chair: Rui Carlos Oliveira, INESC TEC  
 Moderator: Vivian Haga, AIST  
-- Societal Computing: An Innovation Approach to Building Tools and Technologies for Complex Real-World Challenges
-Ilkay Altintas, Chief Data Science Officer-SDSC, University of California, San Diego
-- Urban Planning for Climate Resilient, Sustainable Inclusion City
-Wijitbusaba Marome, Urban Futures and Policy Research Unit , Thammasat University
-- Agentic AI-based Personalized Coaching for Social Health of Older Adults with Early Cognitive Decline
-Ming Zhao, Arizona State University
-- A Low-Power IoT Architecture for Environmental Monitoring in Resource-Constrained Areas
-Wassapon Watanakeesuntorn, University of Osaka  
+- Societal Computing: An Innovation Approach to Building Tools and Technologies for Complex Real-World Challenges  
+<i>Ilkay Altintas, Chief Data Science Officer-SDSC, University of California, San Diego</i>
+- Urban Planning for Climate Resilient, Sustainable Inclusion City  
+<i>Wijitbusaba Marome, Urban Futures and Policy Research Unit , Thammasat University</i>
+- Agentic AI-based Personalized Coaching for Social Health of Older Adults with Early Cognitive Decline  
+<i>Ming Zhao, Arizona State University</i>
+- A Low-Power IoT Architecture for Environmental Monitoring in Resource-Constrained Areas  
+<i>Wassapon Watanakeesuntorn, University of Osaka</i>  
 *Note: each presentation has 10 min
 
 ***
@@ -110,11 +110,11 @@ Wassapon Watanakeesuntorn, University of Osaka
 **Expanding Networks 1**  
 Session Chair: Prapaporn Rattanatamrong, Thammasat University  
 Moderator: Andreia Passos, INESC TEC  
-- Developing BIM-Enhanced Digital Twin Platforms for Modern Building Asset Management
-Veerasak Likhitruangsilp, Center of Digital Asset Management for Sustainable Development - CDAM, Chulalongkorn University  
-- The ACROSS-GAMA Ecosystem: Leveraging Connected Intelligence and Simulation for Sustainable Societies 
-Alexis Drogoul, IRD/TLU ACROSS International Joint Laboratory  
-Chainarong Kesamoon, Thammasat University  
+- Developing BIM-Enhanced Digital Twin Platforms for Modern Building Asset Management  
+<i>Veerasak Likhitruangsilp, Center of Digital Asset Management for Sustainable Development - CDAM, Chulalongkorn University</i>   
+- The ACROSS-GAMA Ecosystem: Leveraging Connected Intelligence and Simulation for Sustainable Societies  
+<i>Alexis Drogoul, IRD/TLU ACROSS International Joint Laboratory</i>  
+<i>Chainarong Kesamoon, Thammasat University</i>  
 *Note: each presentation has 20 min
 
 ***
@@ -130,49 +130,49 @@ Chainarong Kesamoon, Thammasat University
 **CENTRA Research Poster Session**  
 Poster Chair: Hsiu-Mei Chou, NCHC  
 - Exploring the Potential of Reinforcement Learning for Dynamic SDN Controller Placement  
-Xingyuan Kang, Nara Institute of Science and Technology (NAIST)
-- A proposal of Metric-Driven Scheduling Method for GPU Inference Workloads in Kubernetes Clusters 
-Papon Choonhaklai, Nara Institute of Science and Technology (NAIST)
-- pthipth a Non-Preemptive Thread Library for Deterministic and Controllable Execution in C 
-Pitchakorn Thiprangsi, Thammasat University 
-- Towards an Intent-based Self-learning Job Scheduler for Cloud Bursting 
-Yoshiki Noguchi, University of Osaka 
-- Bounding Query Latency in Deduplicated Time-Series Datasets via Periodic State Materialization 
-Woohyeok Park and Taeyoon Kim, Hanyang University 
-- Low-Profiling Latency Prediction for Cost-Efficient LLM Serving on Heterogeneous GPU Clusters 
-Juhyun Park, Hanyang University 
-- Cloud Spot Instances Availability Dataset Collection for Multi-Node Scale 
-Kyumin Kim and Taeyoon Kim, Hanyang University 
-- Toward Trustworthy AI: From Intrinsic Design to Post-Hoc Validation 
-Peemapat Podsoonthorn, Thapana Boonchoo, and Wanida Putthividhya, Thammasat University 
-- Audio-Based Lifelogging Using Lightweight Sound Classification Models on Wearable Devices 
-Apivin Sukwatthanaprasert and Prapaporn Rattanatamrong, Thammasat University 
-- A Decision Support System for Area Assessment and Cost Estimation of Weedy Rice Management Using Drone Imagery and AI 
-Peem Chaolumbua and Prapaporn Rattanatamrong, Thammasat Universtiy 
+<i>Xingyuan Kang, Nara Institute of Science and Technology (NAIST)</i>
+- A proposal of Metric-Driven Scheduling Method for GPU Inference Workloads in Kubernetes Clusters  
+<i>Papon Choonhaklai, Nara Institute of Science and Technology (NAIST)</i>
+- pthipth a Non-Preemptive Thread Library for Deterministic and Controllable Execution in C  
+<i>Pitchakorn Thiprangsi, Thammasat University</i>
+- Towards an Intent-based Self-learning Job Scheduler for Cloud Bursting  
+<i>Yoshiki Noguchi, University of Osaka</i>
+- Bounding Query Latency in Deduplicated Time-Series Datasets via Periodic State Materialization  
+<i>Woohyeok Park and Taeyoon Kim, Hanyang University</i>
+- Low-Profiling Latency Prediction for Cost-Efficient LLM Serving on Heterogeneous GPU Clusters  
+<i>Juhyun Park, Hanyang University</i>
+- Cloud Spot Instances Availability Dataset Collection for Multi-Node Scale  
+<i>Kyumin Kim and Taeyoon Kim, Hanyang University</i>
+- Toward Trustworthy AI: From Intrinsic Design to Post-Hoc Validation  
+<i>Peemapat Podsoonthorn, Thapana Boonchoo, and Wanida Putthividhya, Thammasat University</i>
+- Audio-Based Lifelogging Using Lightweight Sound Classification Models on Wearable Devices  
+<i>Apivin Sukwatthanaprasert and Prapaporn Rattanatamrong, Thammasat University</i>
+- A Decision Support System for Area Assessment and Cost Estimation of Weedy Rice Management Using Drone Imagery and AI  
+<i>Peem Chaolumbua and Prapaporn Rattanatamrong, Thammasat Universtiy</i>
 - BIM MODIVIS: A Modular Framework for BIM-Based Smart Campus Data Integration and Visualization  
-Pitawat Piruksa and Prapaporn Rattanatamrong, Thammasat University  
-- Exploring Approaches to Container Checkpoint Restore in Kubernete 
-Junya Yamamoto, University of Osaka 
-- A UAV-Based Spectral Verification Model  for AWD Rice Irrigation Management 
-Hsin-Hung Tseng and Ming-Der Yang, National Chung Hsing University 
-- Smart Sustainable New Agriculture Research Center 
-Yuan-Chia Chan and Ming-Der Yang, National Chung Hsing University 
-- Migrating Deep Learning Data and Applications among Kubernetes Edge Nodes 
-Rojsak Kritsuthikul, Suchanat Mangkangchareon and Prapaporn Rattanatamrong, Thammasat University 
-- Combining UAV Images and Machine Learning Techniques for Tea Plant Physiology Estimation 
-Zhong-Han Zhuang, National Chung Hsing University 
+<i>Pitawat Piruksa and Prapaporn Rattanatamrong, Thammasat University</i>
+- Exploring Approaches to Container Checkpoint Restore in Kubernete  
+<i>Junya Yamamoto, University of Osaka</i>
+- A UAV-Based Spectral Verification Model  for AWD Rice Irrigation Management  
+<i>Hsin-Hung Tseng and Ming-Der Yang, National Chung Hsing University</i>
+- Smart Sustainable New Agriculture Research Center  
+<i>Yuan-Chia Chan and Ming-Der Yang, National Chung Hsing University</i>
+- Migrating Deep Learning Data and Applications among Kubernetes Edge Nodes  
+<i>Rojsak Kritsuthikul, Suchanat Mangkangchareon and Prapaporn Rattanatamrong, Thammasat University</i>
+- Combining UAV Images and Machine Learning Techniques for Tea Plant Physiology Estimation  
+<i>Zhong-Han Zhuang, National Chung Hsing University</i>
 
 ***
 #### 14:30 - 15:25
 **Collaborative Projects: Collaborative Intelligence: Frameworks for Responsible and Distributed AI**  
 Session Chair: Jason Haga, AIST  
 Moderator: Vivian Haga, AIST  
-- Patra Model Card Framework as an MCP Resource 
-Beth Plale, University of Oregon 
+- Patra Model Card Framework as an MCP Resource  
+<i>Beth Plale, University of Oregon</i>
 - A Collaborative Agents-Based AI Research Platform  
-Michael Elliott, University of Florida 
-- Collaborative frameworks for processing large foundation AI models across the cloud-to-edge continuum computing 
-Thao Nguyen Truong, National Institute of Advanced Industrial Science and Technology (AIST) 
+<i>Michael Elliott, University of Florida</i>
+- Collaborative frameworks for processing large foundation AI models across the cloud-to-edge continuum computing  
+<i>Thao Nguyen Truong, National Institute of Advanced Industrial Science and Technology (AIST)</i>  
 *Note: each presentation has 10 min
 
 ***
@@ -184,14 +184,14 @@ Thao Nguyen Truong, National Institute of Advanced Industrial Science and Techno
 **Collaborative Projects: Energy-Efficient and Scalable Computing for the AI Era**  
 Session Chair:  Kohei Ichikawa, Kansai University  
 Moderator: Andreia Passos, INESC TEC  
-- An Investigation into Energy-Efficient Optimization of Data Center Operations Using Heuristic Algorithms 
-Weicheng Huang, National Center for High-Performance Computing (NCHC) 
-- High Performance Data-loading for Large-Scale Vision Transformer Training 
-Edgar Josafat Martinez-Noriega, National Institute of Advanced Industrial Science and Technology (AIST) 
+- An Investigation into Energy-Efficient Optimization of Data Center Operations Using Heuristic Algorithms  
+<i>Weicheng Huang, National Center for High-Performance Computing (NCHC)</i>
+- High Performance Data-loading for Large-Scale Vision Transformer Training  
+<i>Edgar Josafat Martinez-Noriega, National Institute of Advanced Industrial Science and Technology (AIST)</i>
 - Energy Aware Memory Footprint Management for LLM Based Agentic AI  
-Kant Krishna, Temple University 
-- Performance and Sustainability Management in Modern Data Centers (PASM) 
-Claudia Brito, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) 
+<i>Kant Krishna, Temple University</i>
+- Performance and Sustainability Management in Modern Data Centers (PASM)  
+<i>Claudia Brito, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</i>  
 *Note: each presentation has 10 min 
 
 ***
@@ -236,16 +236,16 @@ Moderator: Andreia Passos, INESC TEC
 **Collaborative Projects: AI, Data, and Digital Ecosystems for Sustainable and Secure Societies**  
 Session Chair: Weicheng Huang, NCHC  
 Moderator: Vivian Haga, AIST  
-- Social, Environmental and Ecological Sustainability Strategies of Tea Plantations in Taiwan 
-Hui Ping Tsai, National Chung Hsing University (NCHU) 
-- Creating Campus AI Infrastructure and Ecosystem for Research, Education, and Collaboration 
-Jason Liu, Florida International University (FIU) 
-- Efficient and Secure Data Management for HPC and Cloud Computing (ESDM) 
-João Tiago Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) 
-- Baseline Study on Deep Learning Models for Early Detection of Periodontitis Using Periapical Radiographs 
-Heru Suhartanto, University of Indonesia 
-- SenusaBio: Toward a Federated, Privacy-Preserving AI Ecosystem for Clinical Genomics in Indonesia 
-Chandra Prasetyo Utomo, Yarsi University 
+- Social, Environmental and Ecological Sustainability Strategies of Tea Plantations in Taiwan  
+<i>Hui Ping Tsai, National Chung Hsing University (NCHU)</i>
+- Creating Campus AI Infrastructure and Ecosystem for Research, Education, and Collaboration  
+<i>Jason Liu, Florida International University (FIU)</i>
+- Efficient and Secure Data Management for HPC and Cloud Computing (ESDM)  
+<i>João Tiago Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</i>
+- Baseline Study on Deep Learning Models for Early Detection of Periodontitis Using Periapical Radiographs  
+<i>Heru Suhartanto, University of Indonesia</i>
+- SenusaBio: Toward a Federated, Privacy-Preserving AI Ecosystem for Clinical Genomics in Indonesia  
+<i>Chandra Prasetyo Utomo, Yarsi University</i>  
 *Note: each presentation has 10 min
 
 ***
@@ -257,11 +257,11 @@ Chandra Prasetyo Utomo, Yarsi University
 **Expanding Networks 2**  
 Session Chair:  Woojin Seok, KISTI  
 Moderator: Andreia Passos, INESC TEC  
-- Hybrid classical quantum computation for cybersecurity strategies in a layered cybersecurity model 
-Sanpawat Kantabutr, Chiang Mai University 
-- The PADIN Framework: A Comprehensive Approach to Privacy-Preserving Dental AI via Federated Learning, Standardization, and Ethical Governance 
-Siriwan Suebnukarn, Thammasat University 
-Yuta Seino, University of Osaka 
+- Hybrid classical quantum computation for cybersecurity strategies in a layered cybersecurity model  
+<i>Sanpawat Kantabutr, Chiang Mai University</i>
+- The PADIN Framework: A Comprehensive Approach to Privacy-Preserving Dental AI via Federated Learning, Standardization, and Ethical Governance  
+<i>Siriwan Suebnukarn, Thammasat University</i>  
+<i>Yuta Seino, University of Osaka</i>  
 *Note: each presentation has 20 min
 
 ***
@@ -269,8 +269,8 @@ Yuta Seino, University of Osaka
 **Federated Learning AGriculture (FLAG) Updates: Advancing Federated Learning in Agriculture**  
 Session Chair: Michael Elliott, University of Florida  
 Moderator: Vivian Haga, AIST  
-Federated Learning AGriculture (FLAG) Updates
-Ming-Der Yang, National Chung Hsing University (NCHU)
+Federated Learning AGriculture (FLAG) Updates  
+<i>Ming-Der Yang, National Chung Hsing University (NCHU)</i>
 
 ***
 #### 12:20 – 13:40
@@ -311,7 +311,9 @@ A session where each project team presents a brief update on current progress, k
 ***
 #### 16:30 – 17:00
 **Conclusion & Closing**  
-Steering and Ops Committee: Prapaporn Rattanatamrong, Thammasat University and Jose Fortes, University of Florida
+Steering and Ops Committee  
+<i>Prapaporn Rattanatamrong, Thammasat University</i>
+<i>Jose Fortes, University of Florida</i>  
 - Steering committee report back
 - Announcing next CENTRA
 
