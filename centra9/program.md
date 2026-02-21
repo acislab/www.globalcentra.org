@@ -43,13 +43,13 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 
 ***
 #### 15:00 - 17:00
-**Project Sync** 
+**Project Sync**  
 An optional check-in opportunity for ongoing CENTRA project teams to meet, share updates, discuss challenges, and align next steps. Each group is free to self-organize the session and choose their own meeting location, ensuring flexibility and smooth project progress.
 
 ***
 #### 17:00 - 20:00
-**Welcome Reception (Full Capacity as of 12/4)**
-A casual gathering to warmly welcome Steering Committee and CENTRA institutional members, foster connections, and set a positive tone before the main program begins.
+**Welcome Reception (Full Capacity as of 12/4)**  
+A casual gathering to warmly welcome Steering Committee and CENTRA institutional members, foster connections, and set a positive tone before the main program begins.  
 Please note: this event reached full capacity as of December 4, 2025.
 Attendees who registered after December 4th, please join us for the main events scheduled for January 12-13, 2026.
 
@@ -72,25 +72,25 @@ Attendees who registered after December 4th, please join us for the main events 
 
 ***
 #### 08:45 - 09:00
-**CENTRA Overview and Member Success Stories**
-Session Chair: Jose Fortes, University of Florida
-Moderator: Vivian Haga, AIST
+**CENTRA Overview and Member Success Stories**  
+Session Chair: Jose Fortes, University of Florida  
+Moderator: Vivian Haga, AIST  
 A session introducing CENTRA’s mission, activities, and impact, followed by highlights of successful initiatives from member institutions to inspire collaboration and new ideas.
 
 ***
 #### 09:00 - 09:50
-**Keynote talk 1: "Glocalizing Disaster Resilience: Integrating Global Frameworks into Local Action"**
-Keynote speaker 1: Dr. Tavida Kamolvej (Deputy Governor of Bangkok)
-Dr. Tavida Kamolvej, Deputy Governor of Bangkok, is a leading Thai expert in disaster risk management and public policy. Formerly the Dean of Political Science at Thammasat University, she pioneered Thailand’s first disaster studies curriculum and has shaped national disaster risk reduction (DRR) policies for over two decades. Her work bridges academia and practice, emphasizing the “glocalization” of global DRR frameworks like the Sendai Framework into Thai contexts. Collaborating with organizations such as UNDP, UNDRR, and JICA, she has advanced integrated, cross-sectoral approaches to urban resilience. In her current role, Dr. Tavida leads efforts to strengthen Bangkok’s disaster preparedness, focusing on inclusive, data-driven strategies that empower local communities and support sustainable, resilient urban systems.
-Talk Title: "Glocalizing Disaster Resilience: Integrating Global Frameworks into Local Action"
-Abstract: In an era where disasters transcend borders, the challenge lies in effectively translating global resilience frameworks into actionable local strategies. Dr. Tavida Kamolvej, Deputy Governor of Bangkok and esteemed disaster risk management expert, brings a wealth of experience in bridging this gap. In her keynote, Dr. Tavida will explore the concept of “glocalization” in disaster resilience—adapting international frameworks like the Sendai Framework to fit local contexts. Drawing from Bangkok’s journey, she will share insights on fostering cross-sectoral collaborations, integrating academic research into policy-making, and empowering communities to build a resilient urban future. Attendees will gain a nuanced understanding of how to harmonize global strategies with local needs, ensuring sustainable and inclusive disaster preparedness and response. 
+**Keynote talk 1: "Glocalizing Disaster Resilience: Integrating Global Frameworks into Local Action"**  
+Keynote speaker 1: Dr. Tavida Kamolvej (Deputy Governor of Bangkok)  
+Dr. Tavida Kamolvej, Deputy Governor of Bangkok, is a leading Thai expert in disaster risk management and public policy. Formerly the Dean of Political Science at Thammasat University, she pioneered Thailand’s first disaster studies curriculum and has shaped national disaster risk reduction (DRR) policies for over two decades. Her work bridges academia and practice, emphasizing the “glocalization” of global DRR frameworks like the Sendai Framework into Thai contexts. Collaborating with organizations such as UNDP, UNDRR, and JICA, she has advanced integrated, cross-sectoral approaches to urban resilience. In her current role, Dr. Tavida leads efforts to strengthen Bangkok’s disaster preparedness, focusing on inclusive, data-driven strategies that empower local communities and support sustainable, resilient urban systems.  
+Talk Title: "Glocalizing Disaster Resilience: Integrating Global Frameworks into Local Action"  
+Abstract: In an era where disasters transcend borders, the challenge lies in effectively translating global resilience frameworks into actionable local strategies. Dr. Tavida Kamolvej, Deputy Governor of Bangkok and esteemed disaster risk management expert, brings a wealth of experience in bridging this gap. In her keynote, Dr. Tavida will explore the concept of “glocalization” in disaster resilience—adapting international frameworks like the Sendai Framework to fit local contexts. Drawing from Bangkok’s journey, she will share insights on fostering cross-sectoral collaborations, integrating academic research into policy-making, and empowering communities to build a resilient urban future. Attendees will gain a nuanced understanding of how to harmonize global strategies with local needs, ensuring sustainable and inclusive disaster preparedness and response.  
 Moderator: Andreia Passos, INESC TEC 
 
 ***
 #### 10:00 - 11:00
-**Collaborative Projects: Computing for Sustainable and Inclusive Societies**
-Session Chair: Rui Carlos Oliveira, INESC TEC
-Moderator: Vivian Haga, AIST
+**Collaborative Projects: Computing for Sustainable and Inclusive Societies**  
+Session Chair: Rui Carlos Oliveira, INESC TEC  
+Moderator: Vivian Haga, AIST  
 - Societal Computing: An Innovation Approach to Building Tools and Technologies for Complex Real-World Challenges
 Ilkay Altintas, Chief Data Science Officer-SDSC, University of California, San Diego
 - Urban Planning for Climate Resilient, Sustainable Inclusion City
@@ -107,9 +107,9 @@ Wassapon Watanakeesuntorn, University of Osaka
 
 ***
 #### 11:15 - 12:20
-**Expanding Networks 1**
-Session Chair: Prapaporn Rattanatamrong, Thammasat University
-Moderator: Andreia Passos, INESC TEC
+**Expanding Networks 1**  
+Session Chair: Prapaporn Rattanatamrong, Thammasat University  
+Moderator: Andreia Passos, INESC TEC  
 - Developing BIM-Enhanced Digital Twin Platforms for Modern Building Asset Management
 Veerasak Likhitruangsilp, Center of Digital Asset Management for Sustainable Development - CDAM, Chulalongkorn University  
 - The ACROSS-GAMA Ecosystem: Leveraging Connected Intelligence and Simulation for Sustainable Societies 
@@ -127,8 +127,8 @@ Chainarong Kesamoon, Thammasat University
 
 ***
 #### 13:30 - 14:30
-**CENTRA Research Poster Session**
-Poster Chair: Hsiu-Mei Chou, NCHC
+**CENTRA Research Poster Session**  
+Poster Chair: Hsiu-Mei Chou, NCHC  
 - Exploring the Potential of Reinforcement Learning for Dynamic SDN Controller Placement  
 Xingyuan Kang, Nara Institute of Science and Technology (NAIST)
 - A proposal of Metric-Driven Scheduling Method for GPU Inference Workloads in Kubernetes Clusters 
@@ -164,9 +164,9 @@ Zhong-Han Zhuang, National Chung Hsing University
 
 ***
 #### 14:30 - 15:25
-**Collaborative Projects: Collaborative Intelligence: Frameworks for Responsible and Distributed AI**
-Session Chair: Jason Haga, AIST
-Moderator: Vivian Haga, AIST
+**Collaborative Projects: Collaborative Intelligence: Frameworks for Responsible and Distributed AI**  
+Session Chair: Jason Haga, AIST  
+Moderator: Vivian Haga, AIST  
 - Patra Model Card Framework as an MCP Resource 
 Beth Plale, University of Oregon 
 - A Collaborative Agents-Based AI Research Platform  
@@ -181,9 +181,9 @@ Thao Nguyen Truong, National Institute of Advanced Industrial Science and Techno
 
 ***
 #### 15:40 - 16:45
-**Collaborative Projects: Energy-Efficient and Scalable Computing for the AI Era**
-Session Chair:  Kohei Ichikawa, Kansai University
-Moderator: Andreia Passos, INESC TEC
+**Collaborative Projects: Energy-Efficient and Scalable Computing for the AI Era**  
+Session Chair:  Kohei Ichikawa, Kansai University  
+Moderator: Andreia Passos, INESC TEC  
 - An Investigation into Energy-Efficient Optimization of Data Center Operations Using Heuristic Algorithms 
 Weicheng Huang, National Center for High-Performance Computing (NCHC) 
 - High Performance Data-loading for Large-Scale Vision Transformer Training 
@@ -196,15 +196,16 @@ Claudia Brito, Institute for Systems and Computer Engineering, Technology and Sc
 
 ***
 #### 16:45 - 17:30
-**Project Group Discussion**
-You may choose to use shared space in the Thanyaburi Ballroom or Pathum Thani Room 1 and 2 (FCFS). 
-For new projects developed during CENTRA 9's Project Group Discussions, project leads will be asked to complete and submit a [Project Description Form.](https://docs.google.com/document/d/1xmpI61En5BEb0pdLbQppKkJ22tLZEciF/edit#heading=h.tp5vwhz80qaj)
+**Project Group Discussion**  
+You may choose to use shared space in the Thanyaburi Ballroom or Pathum Thani Room 1 and 2 (FCFS).  
+For new projects developed during CENTRA 9's Project Group Discussions, project leads will be asked to complete and submit a [Project Description Form.](https://docs.google.com/document/d/1xmpI61En5BEb0pdLbQppKkJ22tLZEciF/edit#heading=h.tp5vwhz80qaj)  
 For updates to [CENTRA Projects](https://www.globalcentra.org/projects/) listed on CENTRA’s website, project leads are welcome to use the [Project Description Form.](https://docs.google.com/document/d/1xmpI61En5BEb0pdLbQppKkJ22tLZEciF/edit#heading=h.tp5vwhz80qaj)
 
 ***
 #### 18:30 - 20:30
-**Banquet Dinner**
+**Banquet Dinner**  
 A hosted dinner for networking and informal discussion, exclusively for participants who have pre-registered for the banquet.
+<br>
 
 ****
       January 13, Tuesday
@@ -222,19 +223,19 @@ While we hope that everyone arrives healthy and without incident, we know many h
 
 ***
 #### 08:30 – 09:20
-**Keynote talk 2: "Carbon Nanomaterials for Environmental Sensing and High-Performance Supercapacitors: Toward Cyberinfrastructure-Driven Smart Systems"**
-Keynote speaker 2: Prof. Dr. Peerasak Paoprasert 
-Associate Dean for Budget and Finance, Professor in Chemistry 
+**Keynote talk 2: "Carbon Nanomaterials for Environmental Sensing and High-Performance Supercapacitors: Toward Cyberinfrastructure-Driven Smart Systems"**  
+Keynote speaker 2: Prof. Dr. Peerasak Paoprasert  
+Associate Dean for Budget and Finance, Professor in Chemistry  
 Prof. Dr. Peerasak Paoprasert is a leading researcher in environmental chemistry and sustainable materials at Thammasat University’s Faculty of Science and Technology. His work focuses on developing advanced nanomaterials—such as carbon dots, metal oxides, and hybrid composites—for environmental sensing, wastewater treatment, and renewable energy storage applications. With a Ph.D. in University of Wisconsin-Madison, USA, he has made significant contributions to sustainable technologies, including high-performance supercapacitors, fluorescence-based detection platforms, and eco-friendly material synthesis from agricultural waste. His recent research explores data-driven and sensor-integrated environmental monitoring systems that align with emerging cyberinfrastructure frameworks for smart and sustainable infrastructure. Through both academic leadership and applied innovation, Prof. Peerasak continues to advance the integration of green chemistry with digital environmental intelligence. 
-Talk Title: "Carbon Nanomaterials for Environmental Sensing and High-Performance Supercapacitors: Toward Cyberinfrastructure-Driven Smart Systems" 
-Abstract: Advances in environmental chemistry and material science are redefining how we monitor, analyze, and manage pollution in real time. This keynote will explore the integration of carbon-based nanomaterials and cyberinfrastructure to create intelligent sensing systems for environmental applications. Prof. Dr. Peerasak Paoprasert will discuss his recent work on carbon dots, metal oxide nanostructures, and hybrid composites for fluorescence and electrochemical detection, wastewater treatment, and sustainable pollution control. In addition to sensing technologies, the talk will highlight the development of high-performance supercapacitors and other energy storage devices derived from eco-friendly nanomaterials, addressing the growing need for renewable and efficient energy solutions. The synergy between energy storage and environmental monitoring underscores how combining nanomaterial innovation with real-world problems can enable scalable, cost-effective solutions. By linking laboratory-scale materials research with digital infrastructure, this approach paves the way toward smart, green, and resilient systems that support sustainable urban development and informed policy decision-making. 
+Talk Title: "Carbon Nanomaterials for Environmental Sensing and High-Performance Supercapacitors: Toward Cyberinfrastructure-Driven Smart Systems"  
+Abstract: Advances in environmental chemistry and material science are redefining how we monitor, analyze, and manage pollution in real time. This keynote will explore the integration of carbon-based nanomaterials and cyberinfrastructure to create intelligent sensing systems for environmental applications. Prof. Dr. Peerasak Paoprasert will discuss his recent work on carbon dots, metal oxide nanostructures, and hybrid composites for fluorescence and electrochemical detection, wastewater treatment, and sustainable pollution control. In addition to sensing technologies, the talk will highlight the development of high-performance supercapacitors and other energy storage devices derived from eco-friendly nanomaterials, addressing the growing need for renewable and efficient energy solutions. The synergy between energy storage and environmental monitoring underscores how combining nanomaterial innovation with real-world problems can enable scalable, cost-effective solutions. By linking laboratory-scale materials research with digital infrastructure, this approach paves the way toward smart, green, and resilient systems that support sustainable urban development and informed policy decision-making.  
 Moderator: Andreia Passos, INESC TEC
 
 ***
 #### 09:20 - 10:40
-**Collaborative Projects: AI, Data, and Digital Ecosystems for Sustainable and Secure Societies** 
-Session Chair: Weicheng Huang, NCHC
-Moderator: Vivian Haga, AIST
+**Collaborative Projects: AI, Data, and Digital Ecosystems for Sustainable and Secure Societies**  
+Session Chair: Weicheng Huang, NCHC  
+Moderator: Vivian Haga, AIST  
 - Social, Environmental and Ecological Sustainability Strategies of Tea Plantations in Taiwan 
 Hui Ping Tsai, National Chung Hsing University (NCHU) 
 - Creating Campus AI Infrastructure and Ecosystem for Research, Education, and Collaboration 
@@ -254,8 +255,8 @@ Chandra Prasetyo Utomo, Yarsi University
 ***
 #### 10:50 – 12:00
 **Expanding Networks 2**  
-Session Chair:  Woojin Seok, KISTI
-Moderator: Andreia Passos, INESC TEC
+Session Chair:  Woojin Seok, KISTI  
+Moderator: Andreia Passos, INESC TEC  
 - Hybrid classical quantum computation for cybersecurity strategies in a layered cybersecurity model 
 Sanpawat Kantabutr, Chiang Mai University 
 - The PADIN Framework: A Comprehensive Approach to Privacy-Preserving Dental AI via Federated Learning, Standardization, and Ethical Governance 
@@ -265,9 +266,9 @@ Yuta Seino, University of Osaka
 
 ***
 #### 12:00 – 12:20
-**Federated Learning AGriculture (FLAG) Updates: Advancing Federated Learning in Agriculture**
-Session Chair: Michael Elliott, University of Florida
-Moderator: Vivian Haga, AIST
+**Federated Learning AGriculture (FLAG) Updates: Advancing Federated Learning in Agriculture**  
+Session Chair: Michael Elliott, University of Florida  
+Moderator: Vivian Haga, AIST  
 Federated Learning AGriculture (FLAG) Updates
 Ming-Der Yang, National Chung Hsing University (NCHU)
 
@@ -278,10 +279,10 @@ Specific Location: Pathum Thani Room 1
 
 ***
 #### 13:40 – 14:20
-**Project Group Discussion**
-You may choose to use shared space in the Thanyaburi Ballroom or Pathum Thani Room 1 and 2. Please note that Pathum Thani Room 1 is available from 1:45pm onward. 
-For new projects developed during CENTRA 8's Project Group Discussions, project leads will be asked to complete and submit a Project Description Form. 
-For updates to CENTRA Projects listed on CENTRA's website, project leads are welcome to use the Project Description Form. 
+**Project Group Discussion**  
+You may choose to use shared space in the Thanyaburi Ballroom or Pathum Thani Room 1 and 2. Please note that Pathum Thani Room 1 is available from 1:45pm onward.  
+For new projects developed during CENTRA 8's Project Group Discussions, project leads will be asked to complete and submit a Project Description Form.  
+For updates to CENTRA Projects listed on CENTRA's website, project leads are welcome to use the Project Description Form.  
 Please note: CENTRA moderators will be checking in with your group to determine if you would like to present a short update of your discussions at the 4:00 p.m. Project Group Discussion Report Out.
 
 ***
@@ -290,10 +291,10 @@ Please note: CENTRA moderators will be checking in with your group to determine 
 
 ***
 #### 14:40 - 16:00
-**Panel Discussion "Cyberinfrastructure for Collaborative AI: Unlocking the Next Wave of Applications"**
-Discover how collaborative AI will be powered by interoperable cyberinfrastructure, federated medical platforms, edge sensing, digital twins, and continuous knowledge generation with LLMs. Learn from international experts as they share practical lessons and emerging opportunities for real-world AI collaboration at scale. 
-Session Chair: Beth Plale, University of Oregon 
-Moderator: Vivian Haga, AIST 
+**Panel Discussion "Cyberinfrastructure for Collaborative AI: Unlocking the Next Wave of Applications"**  
+Discover how collaborative AI will be powered by interoperable cyberinfrastructure, federated medical platforms, edge sensing, digital twins, and continuous knowledge generation with LLMs. Learn from international experts as they share practical lessons and emerging opportunities for real-world AI collaboration at scale.  
+Session Chair: Beth Plale, University of Oregon  
+Moderator: Vivian Haga, AIST  
 Panelists:
 - 1) Ryousei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan 
 - 2) Krich Nasingkun, Director, NSTDA Supercomputer Center (ThaiSC), Thailand 
@@ -304,12 +305,13 @@ Panelists:
 
 ***
 #### 16:00 – 16:30
-**Project Group Discussion Report Out**
+**Project Group Discussion Report Out**  
 A session where each project team presents a brief update on current progress, key achievements, and planned next steps to align efforts and strengthen collaboration across CENTRA initiatives.
 
 ***
 #### 16:30 – 17:00
-**Conclusion & Closing**
+**Conclusion & Closing**  
+Steering and Ops Committee: Prapaporn Rattanatamrong, Thammasat University and Jose Fortes, University of Florida
 - Steering committee report back
 - Announcing next CENTRA
 
