@@ -98,7 +98,7 @@ Moderator: Vivian Haga, AIST
 - Agentic AI-based Personalized Coaching for Social Health of Older Adults with Early Cognitive Decline  
 <i>Ming Zhao, Arizona State University</i>
 - A Low-Power IoT Architecture for Environmental Monitoring in Resource-Constrained Areas  
-<i>Wassapon Watanakeesuntorn, University of Osaka</i>  
+<i>Wassapon Watanakeesuntorn, University of Osaka</i>    
 *Note: each presentation has 10 min
 
 ***
@@ -114,7 +114,7 @@ Moderator: Andreia Passos, INESC TEC
 <i>Veerasak Likhitruangsilp, Center of Digital Asset Management for Sustainable Development - CDAM, Chulalongkorn University</i>   
 - The ACROSS-GAMA Ecosystem: Leveraging Connected Intelligence and Simulation for Sustainable Societies  
 <i>Alexis Drogoul, IRD/TLU ACROSS International Joint Laboratory</i>  
-<i>Chainarong Kesamoon, Thammasat University</i>  
+<i>Chainarong Kesamoon, Thammasat University</i>    
 *Note: each presentation has 20 min
 
 ***
@@ -172,7 +172,7 @@ Moderator: Vivian Haga, AIST
 - A Collaborative Agents-Based AI Research Platform  
 <i>Michael Elliott, University of Florida</i>
 - Collaborative frameworks for processing large foundation AI models across the cloud-to-edge continuum computing  
-<i>Thao Nguyen Truong, National Institute of Advanced Industrial Science and Technology (AIST)</i>  
+<i>Thao Nguyen Truong, National Institute of Advanced Industrial Science and Technology (AIST)</i>    
 *Note: each presentation has 10 min
 
 ***
@@ -191,7 +191,7 @@ Moderator: Andreia Passos, INESC TEC
 - Energy Aware Memory Footprint Management for LLM Based Agentic AI  
 <i>Kant Krishna, Temple University</i>
 - Performance and Sustainability Management in Modern Data Centers (PASM)  
-<i>Claudia Brito, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</i>  
+<i>Claudia Brito, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</i>    
 *Note: each presentation has 10 min 
 
 ***
@@ -245,7 +245,7 @@ Moderator: Vivian Haga, AIST
 - Baseline Study on Deep Learning Models for Early Detection of Periodontitis Using Periapical Radiographs  
 <i>Heru Suhartanto, University of Indonesia</i>
 - SenusaBio: Toward a Federated, Privacy-Preserving AI Ecosystem for Clinical Genomics in Indonesia  
-<i>Chandra Prasetyo Utomo, Yarsi University</i>  
+<i>Chandra Prasetyo Utomo, Yarsi University</i>    
 *Note: each presentation has 10 min
 
 ***
@@ -261,7 +261,7 @@ Moderator: Andreia Passos, INESC TEC
 <i>Sanpawat Kantabutr, Chiang Mai University</i>
 - The PADIN Framework: A Comprehensive Approach to Privacy-Preserving Dental AI via Federated Learning, Standardization, and Ethical Governance  
 <i>Siriwan Suebnukarn, Thammasat University</i>  
-<i>Yuta Seino, University of Osaka</i>  
+<i>Yuta Seino, University of Osaka</i>    
 *Note: each presentation has 20 min
 
 ***
@@ -274,15 +274,15 @@ Federated Learning AGriculture (FLAG) Updates
 
 ***
 #### 12:20 – 13:40
-**Lunch and Steering Committee Meeting**
+**Lunch and Steering Committee Meeting**  
 Specific Location: Pathum Thani Room 1
 
 ***
 #### 13:40 – 14:20
 **Project Group Discussion**  
 You may choose to use shared space in the Thanyaburi Ballroom or Pathum Thani Room 1 and 2. Please note that Pathum Thani Room 1 is available from 1:45pm onward.  
-For new projects developed during CENTRA 8's Project Group Discussions, project leads will be asked to complete and submit a Project Description Form.  
-For updates to CENTRA Projects listed on CENTRA's website, project leads are welcome to use the Project Description Form.  
+For new projects developed during CENTRA 8's Project Group Discussions, project leads will be asked to complete and submit a [Project Description Form.](https://docs.google.com/document/d/1xmpI61En5BEb0pdLbQppKkJ22tLZEciF/edit#heading=h.tp5vwhz80qaj)  
+For updates to [CENTRA Projects](https://www.globalcentra.org/projects/) listed on CENTRA's website, project leads are welcome to use the [Project Description Form.](https://docs.google.com/document/d/1xmpI61En5BEb0pdLbQppKkJ22tLZEciF/edit#heading=h.tp5vwhz80qaj)  
 Please note: CENTRA moderators will be checking in with your group to determine if you would like to present a short update of your discussions at the 4:00 p.m. Project Group Discussion Report Out.
 
 ***
@@ -312,7 +312,7 @@ A session where each project team presents a brief update on current progress, k
 #### 16:30 – 17:00
 **Conclusion & Closing**  
 Steering and Ops Committee  
-<i>Prapaporn Rattanatamrong, Thammasat University</i>
+<i>Prapaporn Rattanatamrong, Thammasat University</i>  
 <i>Jose Fortes, University of Florida</i>  
 - Steering committee report back
 - Announcing next CENTRA
