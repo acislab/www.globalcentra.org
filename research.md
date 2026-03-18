@@ -23,7 +23,7 @@ Click [here](/projects.html) to learn about projects and working groups.
 
 The following testbeds and systems are available to CENTRA researchers.  Click on their acronyms to find out how impressive they are.
 
-<img src="/img/starbed.jpg" style="float:right; padding: 0 0 1em 1em;" class="img-responsive" >
+<img alt="CENTRA researchers posing for a photo in front of a sign for the NICT StarBED project." src="/img/starbed.jpg" style="float:right; padding: 0 0 1em 1em;" class="img-responsive" >
 * **Jetstream2** ([Jetstream2](https://jetstream-cloud.org/index.html)) - Located at Indiana University, Jetstream2 is an NSF-funded, user-friendly cloud environment designed to allow “always on” research infrastructure and to give researchers access to interactive computing and data analysis resources on demand, whenever and wherever they want to analyze their data.  It provides 8 petaFLOPS of supercomputing power to simplify data analysis, boost discovery, and increase availability of AI resources.
 * **Global Networking Expertise**  - Indiana University manages global networks to 160 countries around the world and can facilitate dedicated capacity for research and education.
 * **Japan-wide Orchestrated Smart / Sensor Environment** ([JOSE](http://www.nict.go.jp/en/nrh/nwgn/jose.html)) - A testbed
@@ -35,7 +35,7 @@ and "unbreakable" networks, especially in the case of a disaster, this center ai
 resilient ICT technologies.
 * **Research Infrastructure for Large-Scale Network Experiments** ([RISE](https://www.jgn.nict.go.jp/nwgn/rise/index.html)) -
 A New Generation Network Testbed (NICT JGN-X) wide-area SDN testbed including East Asia, Japan, and the US connected via [TEIN](http://tein4.net/tein4/about/history.do).
-<img src="/img/dis.jpg" style="padding: 0 1.5em 0 1em;" class="pull-left img-responsive" >
+<img alt="National Institute of Information and Communication Technology (NICT) of Japan facilities." src="/img/dis.jpg" style="padding: 0 1.5em 0 1em;" class="pull-left img-responsive" >
 * **National Center for High Performance Computing - Taiwan** ([NCHC](https://www.nchc.org.tw/en/)) - A member of the National Applied Research 
 Laboratories (NARLabs) providing national services of compute, storage, and network services to Academia of Taiwan. A total of 200 teraflop compute, 6 petabyte storage, and 100 Gb/s Taiwan Research and Educational Network available.
 * **Future Internet SDN Testbed** - A national SDN testbed based on OpenFlow and connected to iGENI@US and [JGN-X@JP](http://www.jgn.nict.go.jp/english/index.html)
