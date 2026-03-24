@@ -27,7 +27,7 @@ color: #072222 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-color: #7a9806;
+color: #667F06;
 margin: 0.3em 0;
 }
 
@@ -112,13 +112,13 @@ padding-top: 0em;
 }
 
 .subtron {
-background-color: #7a9806;
+background-color: #667F06;
 color:  white;
 padding: .7em;
 }
 
 .highlight-nav-link {
-background-color:#7a9806;
+background-color:#667F06;
 padding:5px 8px 7px 8px;
 border-radius: 3px;
 color: white;
@@ -134,7 +134,7 @@ font-weight: bold;
 }
 
 .member-heading {
-color:#7a9806;
+color:#667F06;
 }
 
 .member-image {
