@@ -4,7 +4,7 @@ layout: default
 <div class="container">
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <header style="padding: 0px">
-    <img src="{{ site.baseurl }}/{{ page.feature-img }}"  style="width: 100%; height: 100%;">
+    <img src="{{ site.baseurl }}/{{ page.feature-img }}" alt="{% if page.feature-img-alt %}{{ page.feature-img-alt }}{% else %}Promotional banner for CENTRA 8 Meeting, February 22-25, 2025, Hsinchu, Taiwan{% endif %}" style="width: 100%; height: 100%;">
   </header>
 
   <section class="post-content">{% include centra8combinedmenu.html %}{{ content }}<div style="text-align: center; width: 100%; height: 150px;"><img src="/img/centra8/centra8-footer2.png" style="height: 150px;"></div></section>
