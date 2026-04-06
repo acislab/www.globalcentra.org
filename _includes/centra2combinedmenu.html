@@ -91,16 +91,16 @@ section.post-content {
 {% assign submenuitem = 'centra_meeting_menu_sub' %}
 
 
-<div class="panel-group centra_meeting_menu" id="accordion" role="tablist" aria-multiselectable="false">
+<div class="panel-group centra_meeting_menu" id="accordion">
 	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="centraHeading">
+		<div class="panel-heading" id="centraHeading">
 			<h4 class="panel-title">
-				<a role="button" {% if page.url contains 'centra2' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
+				<a {% if page.url contains 'centra2' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
 					Centra 2017
 				</a>
 			</h4>
 		</div>
-		<div id="centra" {% if page.url contains 'centra2' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="centraHeading">
+		<div id="centra" {% if page.url contains 'centra2' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %}>
 			<div class="panel-body">
 				<ul class="centra_meeting_menu_sub">
 					<li {% if page.url == '/centra2/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra2/">Welcome</a></li>
@@ -117,14 +117,14 @@ section.post-content {
 		</div>
     </div>
 	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="hackathonHeading">
+		<div class="panel-heading" id="hackathonHeading">
 			<h4 class="panel-title">
-				<a role="button" {% if page.url contains 'hackathon2017' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#hackathon" aria-expanded="false" aria-controls="hackathon">
+				<a {% if page.url contains 'hackathon2017' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#hackathon" aria-expanded="false" aria-controls="hackathon">
 					Student Hackathon
 				</a>
 			</h4>
 		</div>
-		<div id="hackathon" {% if page.url contains 'hackathon2017' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="hackathonHeading">
+		<div id="hackathon" {% if page.url contains 'hackathon2017' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %}>
 			<div class="panel-body">
 				<ul class="centra_meeting_menu_sub">
 					<li {% if page.url == '/hackathon2017/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/hackathon2017/">Welcome</a></li>
@@ -142,14 +142,14 @@ section.post-content {
 		</div>
     </div>
 	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="sundownsHeading">
+		<div class="panel-heading" id="sundownsHeading">
 			<h4 class="panel-title">
-				<a role="button" {% if page.url contains 'suntowns2017' %} class="selected" {% endif %}  data-toggle="collapse" data-parent="#accordion" href="#suntowns" aria-expanded="false" aria-controls="suntowns">
+				<a {% if page.url contains 'suntowns2017' %} class="selected" {% endif %}  data-toggle="collapse" data-parent="#accordion" href="#suntowns" aria-expanded="false" aria-controls="suntowns">
 					SUNTOWNS Workshop
 				</a>
 			</h4>
 		</div>
-		<div id="suntowns" {% if page.url contains 'suntowns2017' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="sundownsHeading">
+		<div id="suntowns" {% if page.url contains 'suntowns2017' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %}>
 			<div class="panel-body">
 				<ul class="centra_meeting_menu_sub">
 					<li {% if page.url == '/suntowns2017/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns2017/">Welcome</a></li>

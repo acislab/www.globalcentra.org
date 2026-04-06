@@ -92,17 +92,17 @@ section.post-content {
 {% assign submenuitem = 'centra_meeting_menu_sub' %}
 
 
-<div class="panel-group centra_meeting_menu" id="accordion" role="tablist" aria-multiselectable="false" style="border-radius: 4px;">
+<div class="panel-group centra_meeting_menu" id="accordion" style="border-radius: 4px;">
 	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="centraHeading">
+		<div class="panel-heading" id="centraHeading">
 			<h4 class="panel-title">
-				<a role="button" {% if page.url contains 'centra9' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
+				<a {% if page.url contains 'centra9' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
 					CENTRA 2026<br>
 					<p style="color:#1e2c5d;font-size:70%;">Click to collapse/expand</p>
 				</a>
 			</h4>
 		</div>
-		<div id="centra" {% if page.url contains 'centra9' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="centraHeading">
+		<div id="centra" {% if page.url contains 'centra9' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %}>
 			<div class="panel-body">
 				<ul class="centra_meeting_menu_sub">
 					<li {% if page.url == '/centra9/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra9/">Welcome Message</a></li>
