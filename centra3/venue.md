@@ -62,7 +62,7 @@ Please note that hotels listed below are for information purposes only. The CENT
 * [Smile Hotel Nihombashi Mitsukoshimae](https://travel.rakuten.com/hotel/info/1990/) (5-minute walk from Mitsukoshimae station)  
 * [Toyoko Inn Tokyo Nihombashi Mitsukoshi Mae A4](https://www.toyoko-inn.com/eng/search/detail/00170) (8-minute walk from Mitsukoshimae station)  
     
-<iframe src="https://www.google.com/maps/d/embed?mid=1ejWiaFSa7iaNAnYaKA-XOm5-W-DJM6Hj" width="768" height="576"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1ejWiaFSa7iaNAnYaKA-XOm5-W-DJM6Hj" width="768" height="576" title="Embedded map"></iframe>
 
 <hr>
      
