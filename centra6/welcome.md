@@ -10,7 +10,7 @@ hide: true
 ## Welcome Message
 
 <p>
-<img src="/img/centra6/Plale.png" style="width:150px;" align="right"/>
+<img src="/img/centra6/Plale.png" style="width:150px;" align="right" alt="Portrait of Professor Beth Plale">
 </p>
 <p style="font-style:italic; font-size:small">
 Dear Colleagues,  <br /><br />

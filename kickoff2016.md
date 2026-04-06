@@ -11,7 +11,7 @@ hide: true
 
 <hr class="clear-both" />
 
-<img src="/img/members/alejandroballado.jpg" class="member-image">
+<img src="/img/members/alejandroballado.jpg" class="member-image" alt="Portrait of Alejandro H. Ballado, Jr.">
 <span class="member-heading">
 <strong>Alejandro H. Ballado, Jr.</strong><br>
 Mapua Institute of Technology<br>
@@ -24,7 +24,7 @@ I am currently the Dean of the School of Electrical, Electronics, and Computer E
 <hr class="clear-both" />
 
 <span class="member-heading">
-<img src="/img/members/jamesbeach.jpg" class="member-image">
+<img src="/img/members/jamesbeach.jpg" class="member-image" alt="Portrait of James (Jim) Beach">
 <strong>James (Jim) Beach</strong><br>
 University of Kansas, Lawrence, KS USA<br>
 <a href="mailto:beach@ku.edu">beach@ku.edu</a><br>
@@ -36,7 +36,7 @@ I originally trained as a tree breeding systems biologist and studied in a Costa
 
 <hr class="clear-both" />
 
-<img src="/img/members/linhuangchang.jpg" class="member-image">
+<img src="/img/members/linhuangchang.jpg" class="member-image" alt="Portrait of Lin-huang Chang">
 <span class="member-heading">
 <strong>Lin-huang Chang</strong><br>
 National Taichung Univ.<br>
@@ -49,7 +49,7 @@ my researches are in SDN, Wireless sensor networks
 
 <hr class="clear-both" />
 
-<img src="/img/members/lingjyhchen.jpg" class="member-image">
+<img src="/img/members/lingjyhchen.jpg" class="member-image" alt="Portrait of Ling-Jyh Chen">
 <span class="member-heading">
 <strong>Ling-Jyh Chen</strong><br>
 Academia Sinica<br>
@@ -61,7 +61,7 @@ Dr. Ling-Jyh Chen received the B.Ed. degree in information and computer educatio
 
 <hr class="clear-both" />
 
-<img src="/img/members/yjchen.jpg" class="member-image">
+<img src="/img/members/yjchen.jpg" class="member-image" alt="Portrait of Yen-Jong Chen (陳彥仲)">
 <span class="member-heading">
 <strong>Yen-Jong Chen (陳彥仲)</strong><br>
 National Cheng Kung University (成功大學), Taiwan<br>
@@ -72,7 +72,7 @@ I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distin
 
 <hr class="clear-both" />
 
-<img src="/img/members/hsiumeichou.jpg" class="member-image">
+<img src="/img/members/hsiumeichou.jpg" class="member-image" alt="Portrait of Hsiu-Mei Chou">
 <span class="member-heading">
 <strong>Hsiu-Mei Chou</strong><br>
 National Center for High-performance Computing<br>
@@ -83,7 +83,7 @@ Hsiu-Mei Chou is an associate research scientist at National Center for High-per
 
 <hr class="clear-both" />
 
-<img src="/img/members/honejaychu.jpg" class="member-image">
+<img src="/img/members/honejaychu.jpg" class="member-image" alt="Portrait of HoneJay Chu">
 <span class="member-heading">
 <strong>HoneJay Chu</strong><br>
 National Cheng Kung University<br>
@@ -95,7 +95,7 @@ During his post-doc (2008-2011), Dr. Chu worked with Prof. YP Lin on the issue o
 
 <hr class="clear-both" />
 
-<img src="/img/members/reidjcruz.jpg" class="member-image">
+<img src="/img/members/reidjcruz.jpg" class="member-image" alt="Portrait of Febus Reidj G. Cruz">
 <span class="member-heading">
 <strong>Febus Reidj G. Cruz</strong><br>
 Mapua Institute of Technology (Manila, Philippines)<br>
@@ -106,7 +106,7 @@ Febus Reidj G. Cruz is an electronics engineer, a senior researcher, and a facul
 
 <hr class="clear-both" />
 
-<img src="/img/members/susumudate.jpg" class="member-image">
+<img src="/img/members/susumudate.jpg" class="member-image" alt="Portrait of Susumu Date">
 <span class="member-heading">
 <strong>Susumu Date</strong><br>
 Osaka University<br>
@@ -118,7 +118,7 @@ Susumu Date is Associate Professor of the Cybermedia Center at Osaka University 
 
 <hr class="clear-both" />
 
-<img src="/img/members/pdinda.jpg" class="member-image">
+<img src="/img/members/pdinda.jpg" class="member-image" alt="Portrait of Peter Dinda">
 <span class="member-heading">
 <strong>Peter Dinda</strong><br>
 Northwestern University<br>
@@ -130,7 +130,7 @@ Peter Dinda is a professor in the Department of Electrical Engineering and Compu
 
 <hr class="clear-both" />
 
-<img src="/img/members/renatofigueiredo.jpg" class="member-image">
+<img src="/img/members/renatofigueiredo.jpg" class="member-image" alt="Portrait of Renato Figueiredo">
 <span class="member-heading">
 <strong>Renato Figueiredo</strong><br>
 University of Florida<br>
@@ -142,7 +142,7 @@ Dr. Figueiredo is a Professor in the Department of Electrical and Computer Engin
 
 <hr class="clear-both" />
 
-<img src="/img/members/josefortes.jpg" class="member-image">
+<img src="/img/members/josefortes.jpg" class="member-image" alt="Portrait of José Fortes">
 <span class="member-heading">
 <strong>José Fortes</strong><br>
 ACIS, University of Florida<br>
@@ -154,7 +154,7 @@ I am a computer scientist and engineer teaching at the University of Florida. I 
 
 <hr class="clear-both" />
 
-<img src="/img/members/mingtaiha.jpg" class="member-image">
+<img src="/img/members/mingtaiha.jpg" class="member-image" alt="Portrait of Ming Tai Ha">
 <span class="member-heading">
 <strong>Ming Tai Ha</strong><br>
 Rutgers University<br>
@@ -165,7 +165,7 @@ Ming Tai Ha is a first year graduate student at Rutgers University. He is also a
 
 <hr class="clear-both" />
 
-<img src="/img/members/jasonhaga.jpg" class="member-image">
+<img src="/img/members/jasonhaga.jpg" class="member-image" alt="Portrait of Jason Haga">
 <span class="member-heading">
 <strong>Jason Haga</strong><br>
 AIST<br>
@@ -177,7 +177,7 @@ Jason Haga is a Senior Research Scientist in the Information Technology Research
 
 <hr class="clear-both" />
 
-<img src="/img/members/yeniherdi.jpg" class="member-image">
+<img src="/img/members/yeniherdi.jpg" class="member-image" alt="Portrait of Yeni Herdiyeni">
 <span class="member-heading">
 <strong>Yeni Herdiyeni</strong><br>
 Bogor Agricultural University, Indonesia<br>
@@ -189,7 +189,7 @@ I am a lecturer in Department of Computer Science, Faculty of Mathematics and Na
 
 <hr class="clear-both" />
 
-<img src="/img/members/gracehong.jpg" class="member-image">
+<img src="/img/members/gracehong.jpg" class="member-image" alt="Portrait of Grace S. Hong">
 <span class="member-heading">
 <strong>Grace S. Hong</strong><br>
 ACIS, University of Florida<br>
@@ -202,7 +202,7 @@ Grace is experienced in participatory decision-making facilitation, team science
 
 <hr class="clear-both" />
 
-<img src="/img/members/chungihuang.jpg" class="member-image">
+<img src="/img/members/chungihuang.jpg" class="member-image" alt="Portrait of ChungI Huang">
 <span class="member-heading">
 <strong>ChungI Huang</strong><br>
 National Center for High-Performance Computing<br>
@@ -215,7 +215,7 @@ His research is mainly focus on image processing and computer vision.
 
 <hr class="clear-both" />
 
-<img src="/img/members/jenweihuang.jpg" class="member-image">
+<img src="/img/members/jenweihuang.jpg" class="member-image" alt="Portrait of Jen-Wei Huang">
 <span class="member-heading">
 <strong>Jen-Wei Huang</strong><br>
 National Cheng Kung University<br>
@@ -226,7 +226,7 @@ Jen-Wei Huang majors in computer science and is familiar with data mining. His r
 
 <hr class="clear-both" />
 
-<img src="/img/members/weichenghuang.jpg" class="member-image">
+<img src="/img/members/weichenghuang.jpg" class="member-image" alt="Portrait of Weicheng Huang">
 <span class="member-heading">
 <strong>Weicheng Huang</strong><br>
 NCHC<br>
@@ -237,7 +237,7 @@ I am Weicheng Huang, a local participant from NCHC. My specialty includes parall
 
 <hr class="clear-both" />
 
-<img src="/img/members/julioibarra.jpg" class="member-image">
+<img src="/img/members/julioibarra.jpg" class="member-image" alt="Portrait of Julio Ibarra">
 <span class="member-heading">
 <strong>Julio Ibarra</strong><br>
 Florida International University<br>
@@ -251,7 +251,7 @@ Dr. Ibarra has been active in initiatives to advance networking and Internet tec
 
 <hr class="clear-both" />
 
-<img src="/img/members/koheiichikawa.jpg" class="member-image">
+<img src="/img/members/koheiichikawa.jpg" class="member-image" alt="Portrait of Kohei Ichikawa">
 <span class="member-heading">
 <strong>Kohei Ichikawa</strong><br>
 Nara Institute of Science and Technology<br>
@@ -263,7 +263,7 @@ Kohei Ichikawa is an Associate Professor in the Graduate School of Information S
 
 <hr class="clear-both" />
 
-<img src="/img/members/shantenujha.jpg" class="member-image">
+<img src="/img/members/shantenujha.jpg" class="member-image" alt="Portrait of Shantenu Jha">
 <span class="member-heading">
 <strong>Shantenu Jha</strong><br>
 Rutgers University<br>
@@ -278,7 +278,7 @@ large-scale science and engineering applications. He has won several awards at l
 
 <hr class="clear-both" />
 
-<img src="/img/members/shihchungjessykang.jpg" class="member-image">
+<img src="/img/members/shihchungjessykang.jpg" class="member-image" alt="Portrait of Shih-Chung Jessy Kang">
 <span class="member-heading">
 <strong>Shih-Chung Jessy Kang</strong><br>
 College<br>
@@ -289,7 +289,7 @@ Prof. Shih-Chung Jessy Kang, Ph.D. of Stanford University, is currently a profes
 
 <hr class="clear-both" />
 
-<img src="/img/members/eijikawai.jpg" class="member-image">
+<img src="/img/members/eijikawai.jpg" class="member-image" alt="Portrait of Eiji Kawai">
 <span class="member-heading">
 <strong>Eiji Kawai</strong><br>
 NICT<br>
@@ -301,7 +301,7 @@ Eiji Kawai joined NICT in 2009 and has been conducting research on advanced netw
 
 <hr class="clear-both" />
 
-<img src="/img/members/yoshiyukikido.jpg" class="member-image">
+<img src="/img/members/yoshiyukikido.jpg" class="member-image" alt="Portrait of Yoshiyuki Kido">
 <span class="member-heading">
 <strong>Yoshiyuki Kido</strong><br>
 Osaka University<br>
@@ -318,7 +318,7 @@ His research field is computer science with bioscience and his current research 
 
 <hr class="clear-both" />
 
-<img src="/img/members/lichiku.jpg" class="member-image">
+<img src="/img/members/lichiku.jpg" class="member-image" alt="Portrait of Li-Chi Ku">
 <span class="member-heading">
 <strong>Li-Chi Ku</strong><br>
 National Center for High-performance Computing<br>
@@ -339,7 +339,7 @@ I-En Liao is currently a professor and chair in the Department of Computer Scien
 
 <hr class="clear-both" />
 
-<img src="/img/members/jasonleigh.jpg" class="member-image">
+<img src="/img/members/jasonleigh.jpg" class="member-image" alt="Portrait of Jason Leigh">
 <span class="member-heading">
 <strong>Jason Leigh</strong><br>
 University of Hawaii at Manoa<br>
@@ -351,7 +351,7 @@ I am a professor of Computer Science, Director of the Laboratory for Advanced Vi
 
 <hr class="clear-both" />
 
-<img src="/img/members/fangpanglin.jpg" class="member-image">
+<img src="/img/members/fangpanglin.jpg" class="member-image" alt="Portrait of Fang-Pang Lin">
 <span class="member-heading">
 <strong>Fang-Pang Lin</strong><br>
 National Center for High-Performance Computing<br>
@@ -362,7 +362,7 @@ Dr. Fang-Pang Lin obtained his PhD in University of Wales at Swansea, UK in 1995
 
 <hr class="clear-both" />
 
-<img src="/img/members/jasonliu.jpg" class="member-image">
+<img src="/img/members/jasonliu.jpg" class="member-image" alt="Portrait of Jason Liu">
 <span class="member-heading">
 <strong>Jason Liu</strong><br>
 Florida International University<br>
@@ -374,7 +374,7 @@ Dr. Jason Liu is an Associate Professor at the School of Computing and Informati
 
 <hr class="clear-both" />
 
-<img src="/img/members/renemendoza.jpg" class="member-image">
+<img src="/img/members/renemendoza.jpg" class="member-image" alt="Portrait of Rene Mendoza">
 <span class="member-heading">
 <strong>Rene Mendoza</strong><br>
 Advanced Science and Technology Institute<br>
@@ -385,7 +385,7 @@ I am currently the Knowledge Management Division Chief of the Advanced Science a
 
 <hr class="clear-both" />
 
-<img src="/img/members/toshiyukimiyachi.jpg" class="member-image">
+<img src="/img/members/toshiyukimiyachi.jpg" class="member-image" alt="Portrait of Toshiyuki Miyachi">
 <span class="member-heading">
 <strong>Toshiyuki Miyachi</strong><br>
 NICT<br>
@@ -396,7 +396,7 @@ Toshiyuki Miyachi is the director of Hokuriku StarBED technology center, Nationa
 
 <hr class="clear-both" />
 
-<img src="/img/members/akihironakao.jpg" class="member-image">
+<img src="/img/members/akihironakao.jpg" class="member-image" alt="Portrait of Akihiro Nakao">
 <span class="member-heading">
 <strong>Akihiro Nakao</strong><br>
 The University of Tokyo<br>
@@ -415,7 +415,7 @@ He has been appointed as Chairman of 5GMF Network Architecture Committee since 2
 
 <hr class="clear-both" />
 
-<img src="/img/members/thonguyen.jpg" class="member-image">
+<img src="/img/members/thonguyen.jpg" class="member-image" alt="Portrait of Tho Nguyen">
 <span class="member-heading">
 <strong>Tho Nguyen</strong><br>
 University of Virginia<br>
@@ -427,7 +427,7 @@ Tho Nguyen is the Managing Director of the Center for Automata Processing (CAP) 
 
 <hr class="clear-both" />
 
-<img src="/img/members/philpapadopoulos.jpg" class="member-image">
+<img src="/img/members/philpapadopoulos.jpg" class="member-image" alt="Portrait of Philip Papadopoulos">
 <span class="member-heading">
 <strong>Philip Papadopoulos</strong><br>
 University of California, San Diego<br>
@@ -444,7 +444,7 @@ In his spare time, Phil hikes.  And likes to say "I think I can climb that".
 
 <hr class="clear-both" />
 
-<img src="/img/members/frederickkinhingphoa.jpg" class="member-image">
+<img src="/img/members/frederickkinhingphoa.jpg" class="member-image" alt="Portrait of Frederick Kin Hing Phoa">
 <span class="member-heading">
 <strong>Frederick Kin Hing Phoa</strong><br>
 Academia Sinica<br>
@@ -456,7 +456,7 @@ Dr. Frederick Kin Hing Phoa is an Associate Research Fellow of Institute of Stat
 
 <hr class="clear-both" />
 
-<img src="/img/members/bethplale.jpg" class="member-image">
+<img src="/img/members/bethplale.jpg" class="member-image" alt="Portrait of Beth Plale">
 <span class="member-heading">
 <strong>Beth Plale</strong><br>
 Indiana University<br>
@@ -468,7 +468,7 @@ Beth A. Plale is a Full Professor of Informatics and Computing at Indiana Univer
 
 <hr class="clear-both" />
 
-<img src="/img/members/glenricart.jpg" class="member-image">
+<img src="/img/members/glenricart.jpg" class="member-image" alt="Portrait of Glenn Ricart">
 <span class="member-heading">
 <strong>Glenn Ricart</strong><br>
 US Ignite and U Utah<br>
@@ -480,7 +480,7 @@ Glenn Ricart is founder and CTO of US Ignite, a nonprofit creating an ecosystem 
 
 <hr class="clear-both" />
 
-<img src="/img/members/cekuenshieh.jpg" class="member-image">
+<img src="/img/members/cekuenshieh.jpg" class="member-image" alt="Portrait of Ce-Kuen Shieh">
 <span class="member-heading">
 <strong>Ce-Kuen Shieh</strong><br>
 National Cheng-Kung University, National Center for High-performance Computing<br>
@@ -491,7 +491,7 @@ Dr. Ce-Kuen Shieh received Ph.D degree in electrical engineering from National C
 
 <hr class="clear-both" />
 
-<img src="/img/members/shinjishimojo.jpg" class="member-image">
+<img src="/img/members/shinjishimojo.jpg" class="member-image" alt="Portrait of Shinji Shimojo">
 <span class="member-heading">
 <strong>Shinji Shimojo</strong><br>
 Osaka University/NICT<br>
@@ -503,7 +503,7 @@ Shinji Shimojo received the M.E. and Ph.D. degrees from Osaka University in 1983
 
 <hr class="clear-both" />
 
-<img src="/img/members/shavasmallen.jpg" class="member-image">
+<img src="/img/members/shavasmallen.jpg" class="member-image" alt="Portrait of Shava Smallen">
 <span class="member-heading">
 <strong>Shava Smallen</strong><br>
 University of California, San Diego<br>
@@ -515,7 +515,7 @@ Shava Smallen is a programmer at the San Diego Supercomputer Center at UC San Di
 
 <hr class="clear-both" />
 
-<img src="/img/members/aimeestewart.jpg" class="member-image">
+<img src="/img/members/aimeestewart.jpg" class="member-image" alt="Portrait of Aimee Stewart">
 <span class="member-heading">
 <strong>Aimee Stewart</strong><br>
 University of Kansas Biodiversity Institute<br>
@@ -527,7 +527,7 @@ I am the lead engineer for Lifemapper, a project publishing data and tools for b
 
 <hr class="clear-both" />
 
-<img src="/img/members/kensubratie.jpg" class="member-image">
+<img src="/img/members/kensubratie.jpg" class="member-image" alt="Portrait of Ken Subratie">
 <span class="member-heading">
 <strong>Ken Subratie</strong><br>
 University of Florida<br>
@@ -539,7 +539,7 @@ Ken is a doctoral candidate in the Electrical and Computer Engineering Departmen
 
 <hr class="clear-both" />
 
-<img src="/img/members/valerietaylor.jpg" class="member-image">
+<img src="/img/members/valerietaylor.jpg" class="member-image" alt="Portrait of Valerie Taylor">
 <span class="member-heading">
 <strong>Valerie Taylor</strong><br>
 Texas A&M University<br>
@@ -551,7 +551,7 @@ Valerie Taylor is the Senior Associate Dean of Academic Affairs in the Dwight Lo
 
 <hr class="clear-both" />
 
-<img src="/img/members/huipingtsai.jpg" class="member-image">
+<img src="/img/members/huipingtsai.jpg" class="member-image" alt="Portrait of Hui Ping Tsai">
 <span class="member-heading">
 <strong>Hui Ping Tsai</strong><br>
 National Chung Hsing University<br>
@@ -562,7 +562,7 @@ Hui Ping Tsai received the Ph.D. degree in geography from the University of Flor
 
 <hr class="clear-both" />
 
-<img src="/img/members/wheyfonetsai.jpg" class="member-image">
+<img src="/img/members/wheyfonetsai.jpg" class="member-image" alt="Portrait of Whey-Fone Tsai">
 <span class="member-heading">
 <strong>Whey-Fone Tsai</strong><br>
 National Center for High-performance Computing, National Applied Research Laboratories, Taiwan<br>
@@ -574,7 +574,7 @@ Whey-Fone Tsai obtained his PhD in Department of Civil and Environmental Enginee
 
 <hr class="clear-both" />
 
-<img src="/img/members/ryanvrecenar.jpg" class="member-image">
+<img src="/img/members/ryanvrecenar.jpg" class="member-image" alt="Portrait of Ryan Vrecenar">
 <span class="member-heading">
 <strong>Ryan Vrecenar</strong><br>
 Texas A and M University<br>
@@ -585,7 +585,7 @@ I am a first year PhD student working under Dr. Liu with interest in Reverse Eng
 
 <hr class="clear-both" />
 
-<img src="/img/members/taichiwang.jpg" class="member-image">
+<img src="/img/members/taichiwang.jpg" class="member-image" alt="Portrait of Tai-Chi Wang">
 <span class="member-heading">
 <strong>Tai-Chi Wang</strong><br>
 Institute of Statistical Science, Academia Sinica, Taiwan<br>
@@ -597,7 +597,7 @@ Tai-Chi Wang received the Ph.D. degree in Statistics at National Chengchi Univer
 
 <hr class="clear-both" />
 
-<img src="/img/members/yasuhirowatashiba.jpg" class="member-image">
+<img src="/img/members/yasuhirowatashiba.jpg" class="member-image" alt="Portrait of Yasuhiro Watashiba">
 <span class="member-heading">
 <strong>Yasuhiro Watashiba</strong><br>
 Nara Institute of Science and Technology<br>
@@ -608,7 +608,7 @@ Yasuhiro Watashiba is an Assistant Professor in the Graduate School of Informati
 
 <hr class="clear-both" />
 
-<img src="/img/members/nadyawilliams.jpg" class="member-image">
+<img src="/img/members/nadyawilliams.jpg" class="member-image" alt="Portrait of Nadya Williams">
 <span class="member-heading">
 <strong>Nadya Williams</strong><br>
 UCSD<br>
@@ -619,7 +619,7 @@ Worked at the University of California, San Diego since 1991. Received an M.S. C
 
 <hr class="clear-both" />
 
-<img src="/img/members/shytsunfelixwu.jpeg" class="member-image">
+<img src="/img/members/shytsunfelixwu.jpeg" class="member-image" alt="Portrait of Shyhtsun Felix Wu">
 <span class="member-heading">
 <strong>Shyhtsun Felix Wu</strong><br>
 University of California, Davis<br>
@@ -631,7 +631,7 @@ Dr. S. Felix Wu received his BS from Tunghai University, Taiwan in 1985, MS., an
 
 <hr class="clear-both" />
 
-<img src="/img/members/xingfuwu.jpg" class="member-image">
+<img src="/img/members/xingfuwu.jpg" class="member-image" alt="Portrait of Xingfu Wu">
 <span class="member-heading">
 <strong>Xingfu Wu</strong><br>
 Texas A&M University<br>
@@ -643,7 +643,7 @@ Xingfu Wu is a TEES Research Associate Professor at Texas A&M University. He is 
 
 <hr class="clear-both" />
 
-<img src="/img/members/hiroakiyamanaka.jpg" class="member-image">
+<img src="/img/members/hiroakiyamanaka.jpg" class="member-image" alt="Portrait of Hiroaki Yamanaka">
 <span class="member-heading">
 <strong>Hiroaki Yamanaka</strong><br>
 National Institute of Information and Communications Technology<br>
@@ -654,7 +654,7 @@ Hiroaki Yamanaka received M.E. and Ph.D from Osaka University in 2008 and 2011, 
 
 <hr class="clear-both" />
 
-<img src="/img/members/mingderyang.jpg" class="member-image">
+<img src="/img/members/mingderyang.jpg" class="member-image" alt="Portrait of Ming-Der Yang">
 <span class="member-heading">
 <strong>Ming-Der Yang</strong><br>
 National Chung Hsing University<br>

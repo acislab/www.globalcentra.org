@@ -10,7 +10,7 @@ hide: true
 ## Welcome Message
 
 <p>
-<img src="/img/centra7/kishimoto.jpg" style="width:150px;" align="right"/>
+<img src="/img/centra7/kishimoto.jpg" style="width:150px;" align="right" alt="Portrait of Dr. Hiro Kishimoto">
 </p>
 <p style="font-style:italic; font-size:small">
 <!-- note setting margin-left: 298px fixes the alignment on left side for paragraph -->  

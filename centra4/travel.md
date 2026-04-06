@@ -218,7 +218,7 @@ Mostly mild. Warm enough to spend in long-sleeved shirts during the daytime. Lig
 
 2-flat-pin plugs (plug type C and type F) are used in Korea. The standard voltage in Korea is 220 volts at 60 Hertz, and the outlet has two round holes. Most hotels may provide outlet converters for 110 and 220 volts. Participants are recommended to check with the hotel beforehand.
 
-![](/img/type_C.jpg)  |  ![](/img/type_F.jpg)
+![Illustration of Type C electrical plug used in Korea](/img/type_C.jpg)  |  ![Illustration of Type F electrical plug used in Korea](/img/type_F.jpg)
 
 
 #### Cell Phone Rental

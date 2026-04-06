@@ -4,7 +4,7 @@ layout: default
 <div class="container">
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <header style="padding: 0px">
-    <img src="{{ site.baseurl }}/{{ page.feature-img }}"  style="width: 100%; height: 100%;">
+    <img src="{{ site.baseurl }}/{{ page.feature-img }}" style="width: 100%; height: 100%;" alt="{% if page.feature-img-alt %}{{ page.feature-img-alt }}{% else %}Promotional banner for SUNTOWNS 2017 Workshop{% endif %}">
   </header>
   
   <section class="post-content">{% include centra2combinedmenu.html %}{{ content }}</section>

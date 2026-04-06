@@ -29,11 +29,11 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 <br>
 # Final Program
 <p>
-<img src="/img/centra8/program_23_s.png" align="center"/>
+<img src="/img/centra8/program_23_s.png" align="center" alt="Final program schedule for CENTRA 8 on February 23">
 <br>
-<img src="/img/centra8/program_24_s.png" align="center"/>
+<img src="/img/centra8/program_24_s.png" align="center" alt="Final program schedule for CENTRA 8 on February 24">
 <br>
-<img src="/img/centra8/program_25_s.png" align="center"/>
+<img src="/img/centra8/program_25_s.png" align="center" alt="Final program schedule for CENTRA 8 on February 25">
 </p>
 <!--
 | February 22, Saturday | Location: NCHC Headquarters |

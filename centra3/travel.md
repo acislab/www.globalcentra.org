@@ -67,7 +67,7 @@ Mostly mild. Warm enough to spend in long-sleeved shirts during the daytime. Lig
 
 2-flat-pin plugs (plug type A) are used in Japan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Japan is uniformly 100 volts AC. The frequency of electric current is 50 Hz in Eastern Japan.  
 
-![](/img/centra3-transport1.png)  |  ![](/img/centra3-transport2.png)
+![Illustration of Type A flat-pin plug used in Japan](/img/centra3-transport1.png)  |  ![Illustration of Japanese Type A electrical outlet](/img/centra3-transport2.png)
 
 #### Useful Links 
 

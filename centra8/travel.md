@@ -52,7 +52,7 @@ The weather in February is pleasant with average temperatures range from 13 degr
 
 Plugs type A and type B are used in Taiwan. It is therefore advised to purchase a plug adapter beforehand. The voltage used throughout Taiwan is uniformly 110 volts AC. The frequency of electric current is 60 Hz.  
 
-<img src="/img/centra8/powerplug.png" width="300" height="113">
+<img src="/img/centra8/powerplug.png" width="300" height="113" alt="Illustration of Type A and Type B plugs used in Taiwan">
 
 #### Useful Links 
 
