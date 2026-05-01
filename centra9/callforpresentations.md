@@ -189,7 +189,7 @@ hide: true
         --ink: #1f2937;
         --btn: #53EFC8;
         /* text */
-        --muted: #6b7280;
+        --muted: #5f6368;
         --ring: #e5e7eb;
     }
 
@@ -316,7 +316,7 @@ hide: true
     .btn-submit {
       padding: 10px 16px;
       background-color: #53EFC8;
-      color: #0049FF;
+      color: #0037b3;
       border: 1px solid #53EFC8;
       font-weight: 700;
       border-radius: 8px;

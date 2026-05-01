@@ -33,7 +33,7 @@ Center of Excellence for Cyber Enablement of Applications (<a href="https://www.
 Thammasat University Computer Science, Faculty of Science and Engineering <br />
 </p>
 <strong>Japan</strong> <br />
-National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT<a/>) <br />
+National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT</a>) <br />
 Nara Institute of Science and Technology (<a href="http://www.naist.jp/en/" target="_blank">NAIST</a>) <br />
 
 {% include sponsors.html %}

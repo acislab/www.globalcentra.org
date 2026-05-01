@@ -25,7 +25,7 @@ University of Florida
 </p>
 
 <strong>Japan</strong> <br />
-National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT<a/>) 
+National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT</a>)
 <p>
 </p>
 

@@ -23,7 +23,6 @@ hide: true
  <li> <i>Why is it requested</i>: it is intended to facilitate interaction among participants. Many attending CENTRA 2 All-Hands and SUNTOWNS Workshop are new to each other. We are hoping to help you identify both people and expertise quickly by including a photo and a few words about what you do in the e-program.</li>
  <li> <i>How will it be used</i>: Your profile pic will only apper in CENTRA 2 e-program PDF on this website globalcentra.org, and in limited printed copies at the meeting.</li>
  <li>If you have any concerns or questions, please do not hesitate to contact us: centra (at) acis (dot) ufl (dot) edu .</li>
-<br />
 </ul>
 
-<strong>Registration has closed on the extended due day on March 27th, 2017. If you receive an invitation from Prof. Jose Fortes, please contact fortes (at) acis (dot) ufl (dot) edu to access registration:<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
+<strong>Registration has closed on the extended due day on March 27th, 2017. If you receive an invitation from Prof. Jose Fortes, please contact fortes (at) acis (dot) ufl (dot) edu to access registration:</strong> <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 

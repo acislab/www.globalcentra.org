@@ -9,12 +9,11 @@ hide: true
 
 ## Program Committee
 
-<p><ul type="circle">
-<li>Jose Fortes, Director, Advanced Computing and Information Systems Laboratory, University of Florida, USA </li><br />
-<li>Fang-Pang Lin, Division Director, Cloud Computing and System Integration Division, National Center for High-Performance Computing, Taiwan</li> <br />
+<ul type="circle">
+<li>Jose Fortes, Director, Advanced Computing and Information Systems Laboratory, University of Florida, USA </li>
+<li>Fang-Pang Lin, Division Director, Cloud Computing and System Integration Division, National Center for High-Performance Computing, Taiwan</li>
 <li>Shinji Shimojo, Professor and Director of Cybermedia Center, Osaka University and National Institute of Information and Communications Technology, Japan</li>
 </ul>
-</p>
 
 ## Local Organizing Committee
 

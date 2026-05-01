@@ -38,4 +38,4 @@
 
 <a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" width="640" height="480" title="Embedded map"></iframe>
+<p><a href="https://www.google.com/maps/d/viewer?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" target="_blank">Open the larger venue map in a new tab</a></p>

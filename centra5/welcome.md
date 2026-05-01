@@ -10,7 +10,7 @@ hide: true
 ## Special Message
 
 <p>
-<img src="/img/centra5/centra5-president-inesctec.jpg" style="width:150px;" align="right" alt="Portrait of Jose Manuel Mendonca, President of INESC TEC"/>
+<img src="/img/centra5/centra5-president-inesctec.jpg" style="width:150px;" class="image-float-right" alt="Portrait of Jose Manuel Mendonca, President of INESC TEC"/>
 </p>
 <p style="font-style:italic; font-size:small">
 Dear All,  <br /><br />

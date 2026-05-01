@@ -14,4 +14,4 @@ Car rental is also an option if your destination airport is Orlando (MCO) or ano
 <p style="padding-left: 270px;">Between Reitz Union Hotel and Hilton UF (all meetings venue): a shuttle service will be arranged in the morning to bring guests from Reitz Union Hotel to Hilton UF, and another at the end of daily agenda from Hilton UF back to Reitz Union Hotel (or to dinner location first, for example on April 12 and 13)</p>
 
 <p style="padding-left: 270px;"><a href="https://goo.gl/OWbq8R" target="_blank">Click here to view the larger map</a>
-<p style="padding-left: 270px;"><iframe src="https://www.google.com/maps/d/embed?mid=139eAHFPVYgmaP9_QwkdzuNtzJUw" width="640" height="480" title="Embedded map"></iframe></p>
+<p style="padding-left: 270px;"><a href="https://www.google.com/maps/d/viewer?mid=139eAHFPVYgmaP9_QwkdzuNtzJUw" target="_blank">Open the route map in a new tab</a></p>

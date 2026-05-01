@@ -10,7 +10,7 @@ hide: true
 # Welcome to CENTRA 9
 
 <!--<p>
-<img src="/img/centra9/GeneralChairPic.jpg" style="width:150px;" align="right" alt="Portrait of Asst. Prof. Wilawan Rukpakavong">
+<img src="/img/centra9/GeneralChairPic.jpg" style="width:150px;" class="image-float-right" alt="Portrait of Asst. Prof. Wilawan Rukpakavong">
 </p>-->  
 <p style="font-size:small;">
 <!-- note setting margin-left: 298px fixes the alignment on left side for paragraph -->  

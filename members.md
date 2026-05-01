@@ -25,8 +25,6 @@ Institutional members support one or more of the following activities: workshops
 *  [NCHC:](https://www.nchc.org.tw/?langid=2) National Center for High-Performance Computing, Taiwan
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
-<div id="researchers"> </div>
-
 # Researchers
 
 Member researchers are a vital part of our community and contribute in a variety of roles as session chairs, presenters, project leaders, meeting organizers, and attendees. Browse some of our current and past members:

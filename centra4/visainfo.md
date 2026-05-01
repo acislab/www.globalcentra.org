@@ -37,7 +37,7 @@ of the participant himself/herself. Please work with your funding source for fin
 
 <table border="1" cellspacing="0" cellpadding="2" width="80%">
  <tr>
-  <td rowspan="2" width="15%">  Asia<br> (10 countries) </td>
+  <td rowspan="2" width="15%" style="color: #222; background-color: #f5f5f5;">  Asia<br> (10 countries) </td>
   <td width="15%">30 days&nbsp; </td>
   <td >Brunei, Saudi Arabia, Oman, Qatar, Bahrain&nbsp; </td>
  </tr>
@@ -47,7 +47,7 @@ of the participant himself/herself. Please work with your funding source for fin
  </tr>
 
  <tr>
-  <td rowspan="3" >  America<br> (7 countries) </td>
+  <td rowspan="3" style="color: #222; background-color: #f5f5f5;">  America<br> (7 countries) </td>
   <td >30 days&nbsp; </td>
   <td >Guyana, Argentina, Paraguay, Honduras, Ecuador(90) &nbsp; </td>
  </tr>
@@ -61,7 +61,7 @@ of the participant himself/herself. Please work with your funding source for fin
  </tr>
 
  <tr>
-  <td rowspan="2" >  Europe<br> (11 countries) </td>
+  <td rowspan="2" style="color: #222; background-color: #f5f5f5;">  Europe<br> (11 countries) </td>
   <td >30 days&nbsp; </td>
   <td >Monaco, Vatican, Bosnia-Herzegovina, Albania, Cyprus, San Marino, Serbia(90), Montenegro, Andorra, Croatia(90) &nbsp; </td>
  </tr>
@@ -71,7 +71,7 @@ of the participant himself/herself. Please work with your funding source for fin
  </tr>
 
  <tr>
-  <td rowspan="2" >  Oceania<br> (13 countries) </td>
+  <td rowspan="2" style="color: #222; background-color: #f5f5f5;">  Oceania<br> (13 countries) </td>
   <td >30 days&nbsp; </td>
   <td >Guam, Nauru, New Caledonia, Micronesia, Samoa, Solomon Islands, Kiribati, Fiji, Marshall Islands, Palau, Tuvalu, Tonga   &nbsp; </td>
  </tr>
@@ -92,7 +92,7 @@ of the participant himself/herself. Please work with your funding source for fin
 
 <table border="1" cellspacing="0" cellpadding="2" width="80%">
  <tr>
-  <td rowspan="4" width="15%">  Ordinary, Diplomatic, Official Passport  </td>
+  <td rowspan="4" width="15%" style="color: #222; background-color: #f5f5f5;">  Ordinary, Diplomatic, Official Passport  </td>
   <td width="15%">Africa & Middle East (5 countries)&nbsp; </td>
   <td >Israel, Lesotho, Liberia, Morocco, Tunisia&nbsp; </td>
  </tr>

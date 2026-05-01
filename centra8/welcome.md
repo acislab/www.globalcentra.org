@@ -10,7 +10,7 @@ hide: true
 ## Welcome Message
 
 <p>
-<img src="/img/centra8/drChang.jpg" style="width:150px;" align="right" alt="Portrait of Dr. Chau-Lyan Chang">
+<img src="/img/centra8/drChang.jpg" style="width:150px;" class="image-float-right" alt="Portrait of Dr. Chau-Lyan Chang">
 </p>
 <p style="font-style:italic; font-size:small">
 <!-- note setting margin-left: 298px fixes the alignment on left side for paragraph -->  

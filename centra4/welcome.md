@@ -10,7 +10,7 @@ hide: true
 ## Welcome to CENTRA 4 Meeting
 
 <p>
-<img src="/img/centra4-president-kisti.png" style="width:150px;" align="right" alt="Portrait of Hee-yoon Choi, President of KISTI">
+<img src="/img/centra4-president-kisti.png" style="width:150px;" class="image-float-right" alt="Portrait of Hee-yoon Choi, President of KISTI">
 </p>
 
 It is a great honor to host this upcoming joint event of **the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications) Meeting: Connecting Data, Applications and People in Smart Cyberinfrastructure and IoT**, co-located with the [36th PRAGMA](http://www.pragma-grid.net/pragma36/) (Pacific Rim Applications and Grid Middleware Assembly). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
@@ -23,8 +23,8 @@ We really look forward to seeing you in Jeju on April 22nd - 27th, 2019.
 
 Thank you very much. 
 
-<p align="left">
+<p>
 President of KISTI, Hee-yoon Choi
 </p>
 
-<img src="/img/centra4-president-sig.png" style="width:170px;" align="left" alt="Signature of Hee-yoon Choi, President of KISTI">
+<img src="/img/centra4-president-sig.png" style="width:170px;" class="image-float-left" alt="Signature of Hee-yoon Choi, President of KISTI">

@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
   
-<p align="center">
+<p style="text-align:center;">
 2016-2018 webinars recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a> 
 </p>
 <br>   

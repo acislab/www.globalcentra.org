@@ -12,11 +12,11 @@ The webinars are open to all that are interested in the topics and the opportuni
 
 Previous webinar recordings are also available on [CENTRA's Vimeo channel](https://vimeo.com/globalcentra). In case you missed the most recent two in fall 2017 - "*Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs*" by Dr. Renato Figeiredo (University of Florida) and "*Operational Artificial Intelligence: Anytime, Anywhere, Anyone*" by Dr. Alexandar Wong (University of Waterloo):  
 
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/242829418" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="Embedded webinar video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/242829418">Watch: Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs [20171010]</a></p>
 <p><a href="https://vimeo.com/242829418">Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs [20171010]</a> from <a href="https://vimeo.com/globalcentra">CENTRA community</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-<div style="padding:64.07% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/247206178" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="Embedded webinar video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/247206178">Watch: Operational Artificial Intelligence: Anytime, Anywhere, Anyone [20171212]</a></p>
 <p><a href="https://vimeo.com/247206178">Operational Artificial Intelligence: Anytime, Anywhere, Anyone [20171212]</a> from <a href="https://vimeo.com/globalcentra">CENTRA community</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 The Spring 2018 Webinar Series recordings will be uploaded as they become available throughout the season. 
