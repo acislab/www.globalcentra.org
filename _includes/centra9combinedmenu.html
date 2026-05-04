@@ -40,6 +40,11 @@ h1,h2,h3,h4{
 	text-decoration: none;
 }
 
+.centra_meeting_menu .panel-heading a:focus {
+	background-color: #555;
+	color: white;
+}
+
 .centra_meeting_menu .panel-heading a.selected {
 	display: block;
 	color: #1e2c5d;
@@ -77,7 +82,8 @@ li.centra_meeting_menu_sub_selected > a {
 }
 
 /* Change the link color on hover */
-li.centra_meeting_menu_sub > a:hover {
+li.centra_meeting_menu_sub > a:hover,
+li.centra_meeting_menu_sub > a:focus {
 	background-color: #555;
 	color: white;
 }

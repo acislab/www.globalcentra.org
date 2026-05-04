@@ -10,7 +10,9 @@ article {
     margin-bottom: 6%;
     text-align: center; 
   }
-  a:hover {
+  a:hover,
+  a:focus,
+  a:focus-visible {
     @extend %link-hover;
   }
   .footnotes {
@@ -37,8 +39,11 @@ header {
   header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
+    background-position: center;
     margin-bottom: 0;
     padding: $padding-large/2.5 $padding-large;
+    position: relative;
+    overflow: hidden;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
@@ -73,7 +78,9 @@ header {
     text-align: center;
     width: 50%;
   }
-  a:hover {
+  a:hover,
+  a:focus,
+  a:focus-visible {
     @extend a.button:hover;
   }
 

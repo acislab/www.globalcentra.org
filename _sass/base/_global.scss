@@ -107,6 +107,22 @@ a {
   color: $link-color;
   text-decoration: none;
 }
+
+a:focus,
+a:focus-visible,
+button:focus,
+button:focus-visible,
+input:focus,
+input:focus-visible,
+select:focus,
+select:focus-visible,
+textarea:focus,
+textarea:focus-visible,
+[tabindex]:focus,
+[tabindex]:focus-visible {
+  outline: 3px solid $link-color;
+  outline-offset: 2px;
+}
 .nav {
   list-style: none;
   margin: 0;

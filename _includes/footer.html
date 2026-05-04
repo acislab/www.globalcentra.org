@@ -24,3 +24,62 @@
 <script>window.jQuery || document.write('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"><\/script>')</script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script>
+  (function () {
+    function isVisible(element) {
+      return !!(element.offsetWidth || element.offsetHeight || element.getClientRects().length);
+    }
+
+    function getFocusableElements() {
+      var selectors = [
+        'a[href]',
+        'button:not([disabled])',
+        'input:not([type="hidden"]):not([disabled])',
+        'select:not([disabled])',
+        'textarea:not([disabled])',
+        '[tabindex]:not([tabindex="-1"])'
+      ];
+
+      return Array.prototype.filter.call(
+        document.querySelectorAll(selectors.join(',')),
+        function (element) {
+          return isVisible(element) && element.getAttribute('aria-hidden') !== 'true';
+        }
+      );
+    }
+
+    // Ensure interactive elements are keyboard-reachable on all browsers.
+    document.addEventListener('DOMContentLoaded', function () {
+      var keyboardTargets = document.querySelectorAll('a[href], button, input, select, textarea');
+      Array.prototype.forEach.call(keyboardTargets, function (element) {
+        if (!element.hasAttribute('tabindex') && !element.disabled) {
+          element.setAttribute('tabindex', '0');
+        }
+      });
+    });
+
+    // Manual fallback for environments where browser/system settings skip links.
+    document.addEventListener('keydown', function (event) {
+      if (event.key !== 'Tab') {
+        return;
+      }
+
+      var focusableElements = getFocusableElements();
+      if (!focusableElements.length) {
+        return;
+      }
+
+      var currentIndex = focusableElements.indexOf(document.activeElement);
+      var nextIndex;
+
+      if (event.shiftKey) {
+        nextIndex = currentIndex <= 0 ? focusableElements.length - 1 : currentIndex - 1;
+      } else {
+        nextIndex = currentIndex === -1 || currentIndex >= focusableElements.length - 1 ? 0 : currentIndex + 1;
+      }
+
+      event.preventDefault();
+      focusableElements[nextIndex].focus();
+    });
+  })();
+</script>

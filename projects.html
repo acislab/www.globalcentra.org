@@ -7,7 +7,8 @@ published: true
 ---
 <div class="row row-md-12" style="text-align: left; display: flex; flex-direction: column;">
 	<!--	Fullscreen image functionality	-->
-	<div id="fullscreen-container" class="fullscreen">
+	<div id="fullscreen-container" class="fullscreen" aria-hidden="true">
+		<button id="fullscreen-close" type="button" class="fullscreen-close" aria-label="Close fullscreen image">Close</button>
 		<img id="fullscreen-image" alt="Image">
 	</div>
 	<script>
@@ -15,23 +16,57 @@ published: true
 			const images = document.querySelectorAll(".clickable-image");
 			const fullscreenContainer = document.getElementById("fullscreen-container");
 			const fullscreenImage = document.getElementById("fullscreen-image");
+			const fullscreenCloseButton = document.getElementById("fullscreen-close");
+			let lastFocusedElement = null;
 
 			if (images.length === 0) {
 				console.error("No images found with the class 'clickable-image'.");
 			}
 
-			// Attach click event to each image
+			function closeFullscreen() {
+				fullscreenContainer.style.display = "none";
+				fullscreenContainer.setAttribute("aria-hidden", "true");
+				if (lastFocusedElement) {
+					lastFocusedElement.focus();
+				}
+			}
+
+			
 			images.forEach(img => {
-				img.addEventListener("click", function () {
+				img.setAttribute("tabindex", "0");
+				img.setAttribute("role", "button");
+				img.setAttribute("aria-label", "Open image in fullscreen: " + (img.alt || "Project image"));
+
+				function openFullscreen() {
+					lastFocusedElement = document.activeElement;
 					fullscreenImage.src = this.src; // Copy the clicked image src
+					fullscreenImage.alt = this.alt || "Project image";
 					fullscreenContainer.style.display = "flex"; // Show the overlay
+					fullscreenContainer.setAttribute("aria-hidden", "false");
+					fullscreenCloseButton.focus();
+				}
+
+				img.addEventListener("click", openFullscreen);
+				img.addEventListener("keydown", function (event) {
+					if (event.key === "Enter" || event.key === " ") {
+						event.preventDefault();
+						openFullscreen.call(this);
+					}
 				});
 			});
 
 			// Close fullscreen when clicking outside the image
 			fullscreenContainer.addEventListener("click", function (e) {
 				if (e.target === fullscreenContainer) { // Ensures clicking outside the image closes the overlay
-					fullscreenContainer.style.display = "none";
+					closeFullscreen();
+				}
+			});
+
+			fullscreenCloseButton.addEventListener("click", closeFullscreen);
+
+			document.addEventListener("keydown", function (event) {
+				if (event.key === "Escape" && fullscreenContainer.style.display === "flex") {
+					closeFullscreen();
 				}
 			});
 		});
