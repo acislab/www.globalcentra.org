@@ -2,7 +2,7 @@
 
 - Alt text is included for every image. Alt text must describe essential content, meaning, and context.
   - Use this code
-  - ```![Your descriptive alt text here](image-url-or-path)
+  - ```![Your descriptive alt text here](image-url-or-path)```
   - Exclamation mark (!): Indicates an image.
   - Square brackets ([]): Contains the alt text. This is what screen readers read and what appears if the image fails to load.
   - Parentheses (()): Contains the link or relative path to your image.
