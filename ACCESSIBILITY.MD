@@ -1,3 +1,7 @@
+---
+hide: true
+---
+
 ## Images
 
 - Alt text is included for every image. Alt text must describe essential content, meaning, and context.
