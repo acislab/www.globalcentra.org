@@ -1,8 +1,8 @@
 ---
-layout: centrameeting9
-title: CENTRA 2026
-permalink: /centra9/travel.html
-"feature-img": img/centra9/centra9-banner.jpg
+layout: centrameeting10
+title: CENTRA 2027
+permalink: /centra10/keynote.html
+"feature-img": img/centra10/centra10-banner.jpg
 published: true
 hide: true
 ---
