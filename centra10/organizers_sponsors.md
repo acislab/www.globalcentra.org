@@ -8,19 +8,23 @@ hide: true
 ---
 
 ## Committees
-Details coming soon
+### Program Co-Chairs
+- Beth Plale, University of Oregon, USA
+- Renato Figueiredo, Oregon State University, USA
 <br/>
 <br/>
 
-### General Chair
-Details coming soon
+### Local Organizing Committee
+- Renato Figueiredo, Oregon State University, USA
+- Beth Plale, University of Oregon, USA
+- Hannah Gerlach, University of Oregon, USA
+- Molly Siewell, Oregon State University, USA
 <br/>
 <br/>
 
-### Program Committee
-Details coming soon
-<br/>
-<br/>
- 
 ### Operations Committee
-Details coming soon
+- Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan
+- Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- Robert Ping, Indiana University, US
+- Andreia Passos, INESC TEC, Portugal
+- Prapaporn Rattanatamrong, Thammasat University, Thailand
