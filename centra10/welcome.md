@@ -10,18 +10,18 @@ hide: true
 # Welcome to CENTRA 10
 
 <div style="float: right; width: 240px; margin: 6px 0 18px 28px;">
-  <div style="margin-bottom: 18px; text-align: center;">
-    <img src="/img/centra10/beth-plale.webp" alt="Portrait of Beth Plale" style="width: 240px; height: 260px; object-fit: cover; object-position: center top; border-radius: 12px; box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14); display: block;">
-    <div style="margin-top: 8px; font-size: 0.92em; line-height: 1.35;">
-      <strong>Beth Plale</strong><br />
-      University of Oregon
-    </div>
-  </div>
   <div style="text-align: center;">
     <img src="/img/centra10/profile-renato-j-figueiredo.jpg" alt="Portrait of Renato Figueiredo" style="width: 240px; height: 260px; object-fit: cover; object-position: center top; border-radius: 12px; box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14); display: block;">
     <div style="margin-top: 8px; font-size: 0.92em; line-height: 1.35;">
       <strong>Renato Figueiredo</strong><br />
       Oregon State University
+    </div>
+  </div>
+  <div style="margin-bottom: 18px; text-align: center;">
+    <img src="/img/centra10/beth-plale.webp" alt="Portrait of Beth Plale" style="width: 240px; height: 260px; object-fit: cover; object-position: center top; border-radius: 12px; box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14); display: block;">
+    <div style="margin-top: 8px; font-size: 0.92em; line-height: 1.35;">
+      <strong>Beth Plale</strong><br />
+      University of Oregon
     </div>
   </div>
 </div>
