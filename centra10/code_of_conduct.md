@@ -2,15 +2,15 @@
 layout: centrameeting10
 title: CENTRA 2027
 permalink: /centra10/code_of_conduct.html
-"feature-img": img/centra10/centra10-banner.jpg
+"feature-img": img/centra10/CENTRA10_logo_web.png
 published: true
 hide: true
 ---
 
 ## Code of Conduct
-The CENTRA 9 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.
+The CENTRA 10 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.
 
-The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 9.
+The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 10.
 
 We expect everyone to respect the following list of behaviors.
 
@@ -40,7 +40,7 @@ We expect everyone to respect the following list of behaviors.
 
 <br/>
 **Reporting Incidents**  
-Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at any time should immediately notify any of the CENTRA 9 organizers in person.
+Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at any time should immediately notify any of the CENTRA 10 organizers in person.
 
 If you are not in immediate danger but feel that you are the subject of unacceptable behavior, have witnessed any such behavior, or have other concerns, report the incident to one of the conference organizers (as soon as possible) who will work to resolve the situation.
 
@@ -48,11 +48,10 @@ Conference organizers will treat all reports seriously and will work to understa
 
 <br/>
 **Contact information to report an Incident**<br/>
-Dr. Wanida Putthividhya, Assistant Professor<br/>
-Department of Computer Science<br/>
-Thammasat University (Rangsit Campus)<br/>
-99 Paholyothin Road, Klong 1, Klong Hluang<br/> 
-Pathum Thani, 12121, Thailand.<br/>
-E-mail : pwanida@tu.ac.th
-
+Dr. Renato Figueiredo, Professor<br/>
+School of EECS<br/>
+Oregon State University<br/>
+4103 Kelley Engineering Building<br/>
+Corvallis, OR 97331<br/>
+renato.figueiredo@oregonstate.edu
 
