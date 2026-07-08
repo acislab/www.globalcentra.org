@@ -25,6 +25,6 @@ hide: true
 ### Operations Committee
 - Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- Robert Ping, Indiana University, US
 - Andreia Passos, INESC TEC, Portugal
+- Robert Ping, Indiana University, USA
 - Prapaporn Rattanatamrong, Thammasat University, Thailand
