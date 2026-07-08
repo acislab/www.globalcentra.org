@@ -11,7 +11,7 @@ published: true
  <table class="noBorder">
  <!-- item 13  --> 
  <tr class="noBorder">
-  <td class="noBorder"><img src="/img/centra10/CENTRA10_logo_web.png" alt="Promotional banner for CENTRA 10 Meeting, March 14-17, 2027, Corvallis, Oregon, US"></td>
+  <td class="noBorder"><img src="/img/centra10/CENTRA10_banner_web_new.png" alt="Promotional banner for CENTRA 10 Meeting, March 14-17, 2027, Corvallis, Oregon, US"></td>
    <td class="noBorder">CENTRA 10 Meeting, March 14-17, 2027, Corvallis, Oregon, US <br> <a href="/centra10/">Website</a> </td>
  </tr>
 
