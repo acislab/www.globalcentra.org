@@ -8,7 +8,7 @@ hide: true
 ---
 
 ## Important Dates
-- March 14 (Sunday): arrival and evening reception
+- March 14 (Sunday): arrival, project sync, and evening reception
 - March 15, 16 (Monday, Tuesday): full-day meetings
 - March 17 (Wednesday): half-day meeting and departure
 <br/>
