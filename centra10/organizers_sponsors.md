@@ -23,8 +23,8 @@ hide: true
 <br/>
 
 ### Operations Committee
-- Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan
 - Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Andreia Passos, INESC TEC, Portugal
 - Robert Ping, Indiana University, USA
-- Prapaporn Rattanatamrong, Thammasat University, Thailand
+- Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan (CENTRA 8 committee)
+- Prapaporn Rattanatamrong, Thammasat University, Thailand (CENTRA 9 committee)
