@@ -83,6 +83,7 @@ published: true
 		<div class="col-md-4" style="text-align: left; margin-top: 0; width: 100%">
 			<ul>
 				<li style="margin-bottom: 0"><a href="#auav">AUAV Applications for Smart Agriculture (Updated)</a></li>
+				<li style="margin-bottom: 0"><a href="#csw">Composable Serverless Workflows for Cross-Platform FaaS Deployments: Middleware and Applications</a></li>									
 				<li style="margin-bottom: 0"><a href="#flev">Federated Learning-Enabled Victim Identification for International Disaster Response in the Asia-Pacific Region</a></li>
 				<li style="margin-bottom: 0"><a href="#flf">Federated Learning Framework for International Collaboration – using Scheduler Optimization of Computing Facility as Example</a></li>
 				<li style="margin-bottom: 0"><a href="#flag">FLAG project (Federated Learning AGriculture)</a></li>
@@ -99,7 +100,6 @@ published: true
 				<li style="margin-bottom: 0"><a href="#ab">AirBox</a></li>
 				<li style="margin-bottom: 0"><a href="#aua">AUAV Applications for Smart Agriculture</a></li>
 				<li style="margin-bottom: 0"><a href="#dl" >Collaborative Lifemapper</a></li>
-				<li style="margin-bottom: 0"><a href="#csw">Composable Serverless Workflows for Cross-Platform FaaS Deployments: Middleware and Applications</a></li>					
 				<li style="margin-bottom: 0"><a href="#es" >Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs</a></li>
 				<li style="margin-bottom: 0"><a href="#prv">Efficient and Secure Data Management for HPC and Cloud Computing</a></li>
 				<li style="margin-bottom: 0"><a href="#it">IT for Natural Disaster Management</a></li>					
@@ -166,25 +166,28 @@ published: true
 				<br>
 
 				<div class="text-justify" >
-					<strong>Key Topics: Function-as-a-Service, Edge, Cloud, Workflows</strong>
+					<strong>Key Topics: IoT and Sensors, Function-as-a-Service, Cloud-Edge Continuum Computing</strong>
 					<br>
-					<strong>Start Date:</strong> February 24, 2025
-					<br>
-					<br>
-					Modern Function-as-a-Service (FaaS) cloud platforms offer great potential for supporting event-driven scientific workflows. Nonetheless, there remain barriers to adoption by the scientific community in domains such as environmental sciences, where users are typically not well-versed with FaaS APIs. The overarching goal of this project is to lower the barrier to entry for small/medium research groups in the long-tail of science to effectively use on-demand cloud computing and share function modules that can be composed as workflows. To this end, this project aims to advance the state-of-the-art in serverless workflow systems, where key objectives are to provide end users the ability to: 1) deploy workflows across FaaS providers without vendor lock-in, 2) enable purely serverless and event-driven deployment, without the need for users to manage and workflow schedulers or servers for coordination, and 3) enable both cross-FaaS workflow coordination and file-based communication using the de-facto standard S3 and a set of “passive” object storage servers. This project investigates middleware and applications for serverless workflows that expose a FaaS event-driven invocation method. In particular, the team explores cross-platform workflows that span edge devices with limited power and connectivity (e.g. battery-powered Raspberry Pi or fitlet3 devices connected by cellular/satellite links hosting OpenWhisk FaaS software) and cloud resources (e.g. AWS Lambda FaaS services), where one application is data processing of environmental sensor data. The research and development considers the middleware for serverless FaaS workflows (leveraging FaaSr, https://faasr.io) as well as middleware for messaging and resource management at the edge.
+					<strong>Start Date:</strong> February 24, 2025 <strong><em> (Updated: January 13, 2026) </strong></em>
 					<br>
 					<br>
-					<strong>CENTRA Primary Investigators:</strong> Renato Figueiredo, Professor, Oregon State University, United States
+					Rural and mountainous areas are prone to encounters with wildlife due to their proximity to forests, which can pose dangers to property and local residents. To improve the safety of people living in these areas, an automated warning system is required. Such a system should be developed and deployed using devices, sensors, and a software platform to issue alerts when dangerous wildlife is detected. However, rural and mountainous areas often face limitations in power supply and internet connectivity. Therefore, deployed devices must operate under strict constraints, relying on alternative power sources such as batteries and solar power, as well as wireless connectivity, to monitor conditions and issue alerts. For these reasons, the devices should be designed to operate with minimal power consumption.
+Our approach utilizes IoT devices equipped with multiple sensors to detect wildlife as it approaches monitored areas. The primary target animal for triggering alerts is bears. To achieve this, we design and deploy appropriate sensors capable of detecting bears, such as microphones, cameras, weight sensors, vibration sensors, and other relevant sensing devices. Currently, we are investigating these sensors and devices to identify the most suitable options for our use cases.  LoRa, a long-range and low-power wireless communication technology, is used to transmit sensor data and alert messages to the nearest edge station.
+At the edge station, power constraints are less severe. However, internet connectivity is still unavailable. This station is responsible for processing sensor data received from remote locations and issuing alerts. The data-processing applications are deployed using FaaSr, a container-based workflow management platform. To enable external connectivity, Starlink is used to provide satellite internet access.
+We believe this research represents an important step toward a practical implementation that can help improve the safety of citizens, who are living in rural or mountainous areas that are vulnerable to natural disasters and wildlife threats.
+					<br>
+					<strong>CENTRA Primary Investigators:</strong> Renato Figueiredo, Professor, Oregon State University, United States; Shinji Shimojo, Professor, Aomori University, Japan
 					<br>
 					<br>
-					<strong>Project participants include:</strong> Aomori University (Japan): Shinji Shimojo, Professor; US Ignite (USA): Glenn Ricart, Founder & CTO; University of Osaka (Japan): Susumu Date, Professor, Wassapon Watanakeesuntorn, Assistant Professor, Junya Yamamoto
+					<strong>Project participants include:</strong> Aomori University, (Japan): Akito Okuyama, Student; Soundgood Project (Thailand): Krittika Lertsawat; Thammasat University (Thailand): Wanida Putthividhya, Assistant Professor; University of Osaka (Japan): Susumu Date, Professor, Wassapon Watanakeesuntorn, Assistant Professor, Junya Yamamoto
 					<br>
 					<br>
 				</div>
 				<div style="margin-bottom: 15px; display: flex; flex-wrap: wrap">
-					<strong>Contact: Renato Figueiredo
+					<strong>Contact: Renato Figueiredo and Wassapon Watanakeesuntorn
+
 						<br>
-						Email: renato.figueiredo@oregonstate.edu</strong>
+						Email: renato.figueiredo@oregonstate.edu, wassapon.w@osaka-u.ac.jp</strong>
 						</div>
 						<!--	<img class="img-responsive img-rounded img-size" src="../img/projects/XXX" alt="XXX">  	-->
 					</div>
