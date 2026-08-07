@@ -15,17 +15,18 @@ hide: true
 <br/>
 
 ### Program Committee
-- Prapaporn Rattanatamrong, Thammasat University, Thailand
-- Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- Jose Fortes, University of Florida, USA
-- Woojin Seok, Korea Institute of Science and Technology Information (KISTI), South Korea
-- Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
-- Hui Ping Tsai, National Chung Hsing University, Taiwan
-- Wenqian Dong, Oregon State University, USA
-- Kyle Hale, Oregon State University, USA
 - Jieyang Chen, University of Oregon, USA
-- Ming Zhao, Arizona State University, USA
+- Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
+- Wenqian Dong, Oregon State University, USA
+- Jose Fortes, University of Florida, USA
+- Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- Kyle Hale, Oregon State University, USA
 - Kohei Ichikawa, Kansai University, Japan
+- Toshiyuki Miyachi, National Institute of Information and Communications Technology (NICT), Japan
+- Prapaporn Rattanatamrong, Thammasat University, Thailand
+- Woojin Seok, Korea Institute of Science and Technology Information (KISTI), South Korea
+- Hui Ping Tsai, National Chung Hsing University, Taiwan
+- Ming Zhao, Arizona State University, USA
 <br/>
 <br/>
 
