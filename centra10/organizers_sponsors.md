@@ -44,3 +44,7 @@ hide: true
 - Robert Ping, Indiana University, USA
 - Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan (CENTRA 8 committee)
 - Prapaporn Rattanatamrong, Thammasat University, Thailand (CENTRA 9 committee)
+
+## Contact
+
+Questions? Email us at **centra_10@lists.engr.oregonstate.edu**
