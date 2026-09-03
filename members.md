@@ -24,10 +24,15 @@ Institutional members support one or more of the following activities: workshops
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
 *  [NCHC:](https://www.nchc.org.tw/?langid=2) National Center for High-Performance Computing, Taiwan
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
+*  [TU:](https://https://tu.ac.th/en/) Thammasat University, Thailand
 
 # Researchers
 
 Member researchers are a vital part of our community and contribute in a variety of roles as session chairs, presenters, project leaders, meeting organizers, and attendees. Browse some of our current and past members:
+
+**CENTRA 9:**
+[Presenters](https://www.globalcentra.org/centra9/program.html)
+| [Attendees (partial list)](https://centra9.sched.com/directory/attendees)
 
 **CENTRA 8:**
 [Presenters](https://www.globalcentra.org/centra8/program.html)
