@@ -53,22 +53,22 @@ CENTRA's mission is to
 The Steering Committee consists of staff from Institutional Member Organizations and collectively provide direction on matters relating to CENTRA.
 
 **Current Members:**
-*  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
+*  José Fortes (Chair), Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
+*  Hsiu-Mei Chou, National Center for High Performance Computing (NCHC), Taiwan 
 *  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
-*  Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan (Initial member)
-*  Hiroaki Harai, National Institute of Information and Communications Technologies, Japan (Initial member)
+*  Hiroaki Harai, National Institute of Information and Communications Technologies (NICT), Japan 
 *  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
-*  Beth Plale, University of Oregon, USA
+*  Beth Plale, University of Oregon (UO), USA
 *  Prapaporn Rattanatamrong, Thammasat University (TU), Thailand
 *  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
 
 **Past Members:**
-*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
 *  Peter Arzberger, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
-*  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea
-*  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)
-*  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
-
+*  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea  
+*  Fang-Pang Lin, National Center for High Performance Computing (NCHC), Taiwan (Initial member)
+*  Hidehisa Nagano, National Institute of Information and Communications Technologies (NICT), Japan   
+*  Shinji Shimojo, National Institute of Information and Communications Technologies (NICT), Japan (Initial member)
+*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)   
 
 # Operations Committee
 Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
