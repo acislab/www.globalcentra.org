@@ -56,9 +56,10 @@ The Steering Committee consists of staff from Institutional Member Organizations
 *  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
 *  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan (Initial member)
-*  Hidehisa Nagano, National Institute of Information and Communications Technologies, Japan (Initial member)
+*  Hiroaki Harai, National Institute of Information and Communications Technologies, Japan (Initial member)
 *  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
 *  Beth Plale, University of Oregon, USA
+*  Prapaporn Rattanatamrong, Thammasat University (TU), Thailand
 *  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
 
 **Past Members:**
@@ -91,6 +92,7 @@ CENTRA engages international entities in collaborative research activities in se
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
 *  [NCHC:](https://www.nchc.org.tw/?langid=2) National Center for High-performance Computing, Taiwan
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
+*  [TU:](https://tu.ac.th/en/) Thammasat University, Thailand
 
   Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam, and USA.
 
