@@ -37,9 +37,9 @@ resilient ICT technologies.
 A New Generation Network Testbed (NICT JGN-X) wide-area SDN testbed including East Asia, Japan, and the US connected via [TEIN](http://tein4.net/tein4/about/history.do).
 <img alt="National Institute of Information and Communication Technology (NICT) of Japan facilities." src="/img/dis.jpg" style="padding: 0 1.5em 0 1em;" class="pull-left img-responsive" >
 * **National Center for High Performance Computing - Taiwan** ([NCHC](https://www.nchc.org.tw/en/)) - A member of the National Applied Research 
-Laboratories (NARLabs) providing national services of compute, storage, and network services to Academia of Taiwan. A total of 200 teraflop compute, 6 petabyte storage, and 100 Gb/s Taiwan Research and Educational Network available.
-* **Future Internet SDN Testbed** - A national SDN testbed based on OpenFlow and connected to iGENI@US and [JGN-X@JP](http://www.jgn.nict.go.jp/english/index.html)
-* **Software defined systems for real world applications** - Flood mitigation, Bridge safety monitoring, Precision
+Laboratories (NARLabs) providing national services of compute, storage, and network services to Academia of Taiwan. A total of 100 teraflop compute, 25 petabyte storage, and 100 Gb/s Taiwan Research and Educational Network available.
+  * **TAIWAN AI RAP (Resilient and high-performance AI Platform)** - Integrates NCHC’s high-performance computing (HPC) capabilities, high bandwidth networking, and secure data storage to deliver a comprehensive ecosystem for generative AI development—encompassing everything from infrastructure and AI models to development tools and deployment environments.
+  * **Future Internet SDN Testbed** - A national SDN testbed based on OpenFlow and connected to iGENI@US and [JGN-X@JP](http://www.jgn.nict.go.jp/english/index.html)
+  * **Software defined systems for real world applications** - Flood mitigation, Bridge safety monitoring, Precision
    agriculture, Earthquake monitoring, Ecosystem monitoring, Human body monitoring
-* **Stream Analysis** - Data streaming from river gauge stations across Taiwan
-* **Real-time monitoring and analytics services e.g. flood monitoring**
+  * **Real-time monitoring and analytics services e.g. traffic monitoring**
