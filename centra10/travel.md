@@ -43,6 +43,9 @@ We hope you are able to spend some extra time and enjoy what makes Oregon a uniq
 [Newport](https://www.discovernewport.com/) (~60 minutes from downtown Corvallis): fishing town vibes with little shops, seafood restaurants, sea lion dock, and coastal lookouts in [Newport's Historic Bayfront](https://www.discovernewport.com/bayfront), [Nye Beach](https://www.discovernewport.com/nye-beach) and [Yaquina Head Lighthouse](https://www.discovernewport.com/post/exploring-newport-s-lighthouses-and-coastal-lookouts).
 
 [Wineries](https://www.willamettevalley.org/tasting-rooms): there are many wineries with tasting rooms along the Willamette Valley. Note that tasting room availability is seasonal and not all wineries are open in March, so please check before you consider going. Recommendation: [Lumos Winery](https://lumoswine.com/) (~20 minutes from downtown Corvallis)
+
+Skiing: Mount Hood is about 90 minutes away from Portland and home to ski resorts: Timberline Lodge, Mt. Hood Meadows, Mt. Hood Skibowl ([visit the Mt. Hood National Forest website](https://www.fs.usda.gov/r06/mthood) for more information) (rental car required for access)
+
 <style>
   .centra10-collage-wrap {
     width: 100%;
