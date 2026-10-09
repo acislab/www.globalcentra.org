@@ -58,9 +58,10 @@ The Steering Committee consists of staff from Institutional Member Organizations
 *  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Hiroaki Harai, National Institute of Information and Communications Technologies (NICT), Japan 
 *  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
-*  Beth Plale, University of Oregon (UO), USA
+*  Beth Plale, University of Oregon (UO), USA, (Affiliate member)
 *  Prapaporn Rattanatamrong, Thammasat University (TU), Thailand
 *  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
+*  Winona Snapp-Childs, Indiana University (IU), USA 
 
 **Past Members:**
 *  Peter Arzberger, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
@@ -68,7 +69,7 @@ The Steering Committee consists of staff from Institutional Member Organizations
 *  Fang-Pang Lin, National Center for High Performance Computing (NCHC), Taiwan (Initial member)
 *  Hidehisa Nagano, National Institute of Information and Communications Technologies (NICT), Japan   
 *  Shinji Shimojo, National Institute of Information and Communications Technologies (NICT), Japan (Initial member)
-*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)   
+*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA) (Invited member)  
 
 # Operations Committee
 Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
