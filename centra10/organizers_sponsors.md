@@ -45,6 +45,9 @@ hide: true
 - Hsiu-Mei Chou, National Center for High Performance Computing, Taiwan (CENTRA 8 committee)
 - Prapaporn Rattanatamrong, Thammasat University, Thailand (CENTRA 9 committee)
 
+### Logistic Volunter
+- Zehua Zhu, Oregon State University, USA
+- Chia-Chen Kuo, Oregon State University, USA
 ## Contact
 
 Questions? Email us at **centra_10@lists.engr.oregonstate.edu**
