@@ -15,7 +15,7 @@ hide: true
 
 ## Call for Submissions:
 
-The CENTRA 10 Technical Program Committee (TPC) welcomes submissions for the program. **The submission deadline is October 30, 2026** using the Sched CFP site. There are different types of submissions; here is a summary with links to the respective Sched submission links (multiple submissions are welcome where applicable, for example a poster and a project update):
+The CENTRA 10 Technical Program Committee (TPC) welcomes submissions for the program. ~~The submission deadline is October 30, 2026 using the Sched CFP site.~~ **The submission deadline has been extended to Nov 13, 2026** to provide flexibility for those who need extra time. If you need to utilize the extended deadline, please let the organizers know (by email to figueren@oregonstate.edu) to help with event planning. Submissions are done using the Sched CFP site.There are different types of submissions; here is a summary with links to the respective Sched submission links (multiple submissions are welcome where applicable, for example a poster and a project update):
 
 ### Posters and short papers:
 {:.centra10-call-for-submissions-heading}
